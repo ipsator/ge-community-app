@@ -5,8 +5,8 @@ import Layout from "../../components/layout"
 import SEO from "../../components/seo"
 
 const ModuleOne = () => (
-  <Layout title="Module 1 - Intro">
-    <SEO title="Module 1 - Intro" />
+  <Layout title="मॉड्यूल 1 - परिचय">
+    <SEO title="मॉड्यूल 1 - परिचय" />
     {/* <h1>Module 1 Intro</h1> */}
     <h2>स्वास्थ्य कार्यकर्ता की भूमिका</h2>
     <ul>
@@ -30,7 +30,7 @@ const ModuleOne = () => (
         उत्तम जीवन जीने मे बाधक या जीवन को प्रभावित करते है।
       </li>
     </ul>
-    {/* <Link to="/">Go back to the homepage</Link> */}
+    <Link to="/module-1/topic-1">Topic 1</Link>
   </Layout>
 )
 
