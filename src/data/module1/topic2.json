@@ -1,4 +1,6 @@
-[
+{ 
+  "title": "Module 1 - Topic 2",
+  "slides": [
     {
       "title": "नवजात मृत्यु के कारण",
       "type": "single",
@@ -104,3 +106,4 @@
       "slide": 8
     }
   ]
+}
