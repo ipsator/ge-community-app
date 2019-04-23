@@ -6,7 +6,7 @@ import SEO from "./seo"
 import Slides from "./slide"
 
 const Article = ({ data }) => (
-  <Layout>
+  <Layout title={data.title}>
     <SEO title={data.title} />
     <Slides data={data.slides} />
   </Layout>
