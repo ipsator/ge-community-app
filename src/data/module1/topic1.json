@@ -1,8 +1,8 @@
 {
-  "title": "Module 1 - Topic 1",
+  "title": "मातृ मृत्यु दर एवं बीमारी दर के कारण",
   "slides": [
     {
-      "title": "Maternal Mortality ekr` e`R;q nj",
+      "title": "मातृ मृत्यु दर",
       "type": "single",
       "data": [
         {
@@ -97,7 +97,7 @@
       "data": [
         {
           "type": "list",
-          "text": [
+          "texts": [
             "घर पर प्रसव - वे स्वास्थ्य केन्द्र नहीं आते।",
             "अप्रशिक्षित ल¨ग¨ं से प्रसव करवाना।",
             "कमजोर गर्भाशय  - गर्भाशय सिकुड़ता नहीं हैै",
@@ -141,11 +141,7 @@
       "data": [
         {
           "type": "image",
-          "images": [
-            "module-1-topic-1-slide-4.png",
-            "module-1-topic-1-slide-4.png",
-            "module-1-topic-1-slide-4.png"
-          ]
+          "images": ["module-1-topic-1-slide-4.png", "module-1-topic-1-slide-4.png", "module-1-topic-1-slide-4.png"]
         }
       ],
       "slide": 9
@@ -173,11 +169,7 @@
       "data": [
         {
           "type": "list",
-          "texts": [
-            "एक से अधिक गर्भधारण",
-            "दो गर्भधारणों के बीच अंतर कम होना",
-            "महिला कमजोर है, अ©र उसका शरीर प्रसव पीड़ा को सहन नहीं कर सकता"
-          ]
+          "texts": ["एक से अधिक गर्भधारण", "दो गर्भधारणों के बीच अंतर कम होना", "महिला कमजोर है, अ©र उसका शरीर प्रसव पीड़ा को सहन नहीं कर सकता"]
         },
         {
           "type": "image",
