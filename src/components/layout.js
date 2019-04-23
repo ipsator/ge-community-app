@@ -32,11 +32,11 @@ const Layout = ({ title, children }) => (
             maxWidth: 960,
             padding: `0px 1.0875rem 1.45rem`,
             paddingTop: 0,
-            minHeight: `100%`
+            minHeight: `100%`,
           }}
         >
           <main>{children}</main>
-          <footer style={{
+          {/* <footer style={{
             position: `absolute`,
             bottom: 0,
             width: `calc( 100% - 2.175rem )`,
@@ -50,7 +50,7 @@ const Layout = ({ title, children }) => (
               textDecoration: `none`,
               color: `#777`
             }}>Gatsby</a>
-          </footer>
+          </footer> */}
         </div>
       </>
     )}
