@@ -28,6 +28,7 @@
   ],
   "license": "MIT",
   "scripts": {
+    "precommit": "pretty-quick --staged",
     "build": "gatsby build --prefix-paths",
     "deploy": "gatsby build --prefix-paths && gh-pages -d public",
     "develop": "gatsby develop",
