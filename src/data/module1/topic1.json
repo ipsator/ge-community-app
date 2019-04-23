@@ -1,4 +1,6 @@
-[
+{
+  "title": "Module 1 - Topic 1",
+  "slides": [
     {
       "title": "Maternal Mortality ekr` e`R;q nj",
       "type": "single",
@@ -48,9 +50,7 @@
         },
         {
           "type": "image",
-          "images": [
-            "module-1-topic-1-slide-4.png"
-          ]
+          "images": ["module-1-topic-1-slide-4.png"]
         }
       ],
       "slide": 4
@@ -73,9 +73,7 @@
         },
         {
           "type": "image",
-          "images": [
-            "module-1-topic-1-slide-4.png"
-          ]
+          "images": ["module-1-topic-1-slide-4.png"]
         }
       ],
       "slide": 5
@@ -87,9 +85,7 @@
       "data": [
         {
           "type": "image",
-          "images": [
-            "module-1-topic-1-slide-4.png"
-          ]
+          "images": ["module-1-topic-1-slide-4.png"]
         }
       ],
       "slide": 6
@@ -110,9 +106,7 @@
         },
         {
           "type": "image",
-          "images": [
-            "module-1-topic-1-slide-4.png"
-          ]
+          "images": ["module-1-topic-1-slide-4.png"]
         }
       ],
       "slide": 7
@@ -135,9 +129,7 @@
         },
         {
           "type": "image",
-          "images": [
-            "module-1-topic-1-slide-4.png"
-          ]
+          "images": ["module-1-topic-1-slide-4.png"]
         }
       ],
       "slide": 8
@@ -189,9 +181,7 @@
         },
         {
           "type": "image",
-          "images": [
-            "module-1-topic-1-slide-4.png"
-          ]
+          "images": ["module-1-topic-1-slide-4.png"]
         }
       ],
       "slide": 11
@@ -211,11 +201,10 @@
         },
         {
           "type": "image",
-          "images": [
-            "module-1-topic-1-slide-4.png"
-          ]
+          "images": ["module-1-topic-1-slide-4.png"]
         }
       ],
       "slide": 12
     }
   ]
+}
