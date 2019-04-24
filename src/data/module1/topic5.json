@@ -7,7 +7,7 @@
       "data": [
         {
           "type": "list",
-          "text": [
+          "texts": [
             "महिला को उसके सामान्य खुराक से ज्यादा खाने की सलाह दें .हर दिन तीन वक्त की बजाय, चार या पाॅच वक्त भोजन करें",
             "उसे कैलोरी सेवन बढ़ाने की आवश्यकता समझाएं ",
             "हर दिन कम से कम दो घण्टे आराम करने की सलाह दें"
@@ -15,7 +15,7 @@
         },
         {
           "type": "image",
-          "image": [
+          "images": [
               "module-1-topic-1-slide-4.png"
             ]
       }
@@ -28,7 +28,7 @@
       "data": [
           {
             "type": "image",
-            "image": [
+            "images": [
                 "module-1-topic-1-slide-4.png"
               ]
             }
@@ -42,7 +42,7 @@
       "data": [
         {
             "type": "image",
-            "image": [
+            "images": [
                 "module-1-topic-1-slide-4.png"
               ]
         }
@@ -56,7 +56,7 @@
       "data": [
         {
           "type": "image",
-          "image": [
+          "images": [
             "module-1-topic-1-slide-4.png",
             "module-1-topic-1-slide-4.png",
             "module-1-topic-1-slide-4.png",
@@ -82,14 +82,14 @@
       "data": [
         {
             "type":"list",
-            "text":[
+            "texts":[
               "तंबाकू और उसका कोई भी स्वरूप जैसे- सिगरेट, पान, बीड़ी, गुटखा आदि",
               "शराब"
             ]
         },
         {
           "type":"image",
-          "image":[
+          "images":[
             "module-1-topic-1-slide-4.png",
             "module-1-topic-1-slide-4.png",
             "module-1-topic-1-slide-4.png"
@@ -105,7 +105,7 @@
       "data": [
         {
           "type":"image",
-          "image":[
+          "images":[
             "module-1-topic-1-slide-4.png"
            
           ]
@@ -120,7 +120,7 @@
       "data": [
         {
           "type":"list",
-          "text":[
+          "texts":[
             "कब्ज के लिऐ प्रचुर मात्रा मे रेशेयुक्त भोजन करना चाहिये।",
             "आपको विदेशी फल और सब्जियाॅ खानी चाहिये क्योकि वह ज्यादा पौष्टिक होती है। ",
             "गर्भवती महिला हो ज्यादा व्यायाम और कम आराम करना चाहिएे।",
