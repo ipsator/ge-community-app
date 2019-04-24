@@ -91,6 +91,92 @@
           }
         ],
         "slide": 7
+      },
+      {
+        "title": "स्तन का स्व-परीक्षण",
+        "subtitle":"",
+        "type": "single",
+        "data": [
+          {
+            "type":"image",
+            "images":[
+              "module-1-topic-1-slide-4.png"
+            ]
+        }
+        ],
+        "slide": 8
+      },
+      {
+        "title": "स्तन कैंसर की व्यापकता",
+        "subtitle":"",
+        "type": "single",
+        "data": [
+          {
+            "type":"image",
+            "images":[
+              "module-1-topic-1-slide-4.png"
+            ]
+        }
+        ],
+        "slide": 9
+      },
+      {
+        "title": "मुँह का कैंसर",
+        "subtitle":"",
+        "type": "single",
+        "data": [
+          {
+            "type":"image",
+            "images":[
+              "module-1-topic-1-slide-4.png"
+            ]
+        }
+        ],
+        "slide": 10
+      },
+      {
+        "title": "मुँह के कैंसर के सामान्य लक्षण",
+        "subtitle":"यदि आप अपनी 3 अगुलिंयों को खडी अवस्था मे अपने मुह मे डाल सकते है तो आपका मुह स्वास्थ है।",
+        "type": "single",
+        "data": [
+          {
+            "type":"image",
+            "images":[
+              "module-1-topic-1-slide-4.png"
+            ]
+        }
+        ],
+        "slide": 11
+      },
+      {
+        "title": "मुँह के कंसर के लक्षण",
+        "subtitle":"यदि आप अपनी 3 अगुलिंयों को खडी अवस्था मे अपने मुह मे डाल सकते है तो आपका मुह स्वास्थ है।",
+        "type": "single",
+        "data": [
+          {
+            "type":"list",
+            "texts":[
+             "मुह के कैंसर के क्या लक्षण होते है।", 
+             "आपको मुँह का कैंसर नही है। उसका एकदम सही और सटीक लक्षण क्या हैं"
+
+            ]
+        }
+        ],
+        "slide": 12
+      },
+      {
+        "title": "अपनी जानकारी को परखे - पहेली",
+        "subtitle":"निम्न का मिलान करे",
+        "type": "single",
+        "data": [
+          {
+            "type":"image",
+            "images":[
+              "module-1-topic-1-slide-4.png"
+            ]
+        }
+        ],
+        "slide": 13
       }
     ]
   }

@@ -86,7 +86,10 @@
           "type": "image",
           "images": [
             "module-1-topic-1-slide-4.png",
+            "module-1-topic-1-slide-4.png",
+            "module-1-topic-1-slide-4.png",
             "module-1-topic-1-slide-4.png"
+            
           ]
         }
       ],
@@ -94,27 +97,14 @@
     },
     {
       "title": "मधुमेह में पैरों की देखभाल",
-      "subtitle": "क्या करें",
-      "type": "single",
-      "data": [
-        {
-            "type": "image",
-            "images": [
-              "module-1-topic-1-slide-4.png",
-              "module-1-topic-1-slide-4.png"
-            ]
-          }
-      ],
-      "slide": 7
-    },
-    {
-      "title": "मधुमेह में पैरों की देखभाल",
       "subtitle": "क्या न करें",
       "type": "single",
       "data": [
         {
           "type": "image",
           "images": [
+            "module-1-topic-1-slide-4.png",
+            "module-1-topic-1-slide-4.png",
             "module-1-topic-1-slide-4.png",
             "module-1-topic-1-slide-4.png"
           ]
@@ -122,22 +112,6 @@
       ],
       "slide": 8
     },
-    {
-      "title": "मधुमेह में पैरों की देखभाल",
-      "subtitle": "क्या न करें",
-      "type": "single",
-      "data": [
-        {
-          "type": "image",
-          "images": [
-            "module-1-topic-1-slide-4.png",
-            "module-1-topic-1-slide-4.png"
-          ]
-        }
-      ],
-      "slide": 9
-    },
-   
     {
       "title": "मैरी तरंग कर्मचारी की भूमिका",
       "subtitle": "",
