@@ -1,13 +1,13 @@
 {
-  "title":"गर्भवती महिलाओं की विशेष आवश्यकताएं",
-  "slides":[
+  "title": "गर्भवती महिलाओं की विशेष आवश्यकताएं",
+  "slides": [
     {
       "title": "आहार और आराम",
       "type": "split",
       "data": [
         {
           "type": "list",
-          "texts": [
+          "content": [
             "महिला को उसके सामान्य खुराक से ज्यादा खाने की सलाह दें .हर दिन तीन वक्त की बजाय, चार या पाॅच वक्त भोजन करें",
             "उसे कैलोरी सेवन बढ़ाने की आवश्यकता समझाएं ",
             "हर दिन कम से कम दो घण्टे आराम करने की सलाह दें"
@@ -15,10 +15,8 @@
         },
         {
           "type": "image",
-          "images": [
-              "module-1-topic-1-slide-4.png"
-            ]
-      }
+          "content": ["module-1-topic-1-slide-4.png"]
+        }
       ],
       "slide": 2
     },
@@ -26,37 +24,33 @@
       "title": "गर्भवती महिलाएं जिनको अतिरिक्त पोषण की आवश्यकता होती है",
       "type": "split",
       "data": [
-          {
-            "type": "image",
-            "images": [
-                "module-1-topic-1-slide-4.png"
-              ]
-            }
+        {
+          "type": "image",
+          "content": ["module-1-topic-1-slide-4.png"]
+        }
       ],
       "slide": 3
     },
     {
       "title": "आहार में निम्नलिखित प्रचुर मात्रा में होना चाहिए",
-      "subtitle":"",
+      "subtitle": "",
       "type": "single",
       "data": [
         {
-            "type": "image",
-            "images": [
-                "module-1-topic-1-slide-4.png"
-              ]
+          "type": "image",
+          "content": ["module-1-topic-1-slide-4.png"]
         }
       ],
       "slide": 4
     },
     {
       "title": "अनुशंसित आहार",
-      "subtitle":"",
+      "subtitle": "",
       "type": "single",
       "data": [
         {
           "type": "image",
-          "images": [
+          "content": [
             "module-1-topic-1-slide-4.png",
             "module-1-topic-1-slide-4.png",
             "module-1-topic-1-slide-4.png",
@@ -71,7 +65,6 @@
             "module-1-topic-1-slide-4.png"
           ]
         }
-    
       ],
       "slide": 5
     },
@@ -81,19 +74,12 @@
       "type": "split",
       "data": [
         {
-            "type":"list",
-            "texts":[
-              "तंबाकू और उसका कोई भी स्वरूप जैसे- सिगरेट, पान, बीड़ी, गुटखा आदि",
-              "शराब"
-            ]
+          "type": "list",
+          "content": ["तंबाकू और उसका कोई भी स्वरूप जैसे- सिगरेट, पान, बीड़ी, गुटखा आदि", "शराब"]
         },
         {
-          "type":"image",
-          "images":[
-            "module-1-topic-1-slide-4.png",
-            "module-1-topic-1-slide-4.png",
-            "module-1-topic-1-slide-4.png"
-          ]
+          "type": "image",
+          "content": ["module-1-topic-1-slide-4.png", "module-1-topic-1-slide-4.png", "module-1-topic-1-slide-4.png"]
         }
       ],
       "slide": 6
@@ -104,11 +90,8 @@
       "type": "single",
       "data": [
         {
-          "type":"image",
-          "images":[
-            "module-1-topic-1-slide-4.png"
-           
-          ]
+          "type": "image",
+          "content": ["module-1-topic-1-slide-4.png"]
         }
       ],
       "slide": 7
@@ -119,8 +102,8 @@
       "type": "single",
       "data": [
         {
-          "type":"list",
-          "texts":[
+          "type": "list",
+          "content": [
             "कब्ज के लिऐ प्रचुर मात्रा मे रेशेयुक्त भोजन करना चाहिये।",
             "आपको विदेशी फल और सब्जियाॅ खानी चाहिये क्योकि वह ज्यादा पौष्टिक होती है। ",
             "गर्भवती महिला हो ज्यादा व्यायाम और कम आराम करना चाहिएे।",
