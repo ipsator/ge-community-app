@@ -1,8 +1,8 @@
 {
-  "topic": "गर्भवती किशोरी बालिका के परिप्रक्ष्य में विशेष विचार",
+  "name": "गर्भवती किशोरी बालिका के परिप्रक्ष्य में विशेष विचार",
   "slides": [
     {
-      "title": "जब गर्भवती किशोरी बालिका से संवाद करें, तब",
+      "name": "जब गर्भवती किशोरी बालिका से संवाद करें, तब",
       "tags": ["विशेष जरूरतों वाली महिलाएँ", "परामर्श/कौन्सिलिंग"],
       "type": "split",
       "data": [
@@ -21,13 +21,13 @@
         },
         {
           "type": "image",
-          "content": ["module-1-topic-1-slide-4.png", "module-1-topic-1-slide-4.png"]
+          "content": ["module-1-name-1-slide-4.png", "module-1-name-1-slide-4.png"]
         }
       ],
       "slide": 2
     },
     {
-      "title": "उसकी परेशानियों को समझें",
+      "name": "उसकी परेशानियों को समझें",
       "tags": ["विशेष जरूरतों वाली महिलाएँ", "परामर्श/कौन्सिलिंग"],
       "type": "split",
       "data": [
@@ -42,13 +42,13 @@
         },
         {
           "type": "image",
-          "content": ["module-1-topic-1-slide-4.png"]
+          "content": ["module-1-name-1-slide-4.png"]
         }
       ],
       "slide": 4
     },
     {
-      "title": "गोपनीयता बनाए रखें",
+      "name": "गोपनीयता बनाए रखें",
       "tags": ["विशेष जरूरतों वाली महिलाएँ", "परामर्श/कौन्सिलिंग"],
       "subtitle": "",
       "type": "split",
@@ -64,13 +64,13 @@
         },
         {
           "type": "image",
-          "content": ["module-1-topic-1-slide-4.png"]
+          "content": ["module-1-name-1-slide-4.png"]
         }
       ],
       "slide": 5
     },
     {
-      "title": "बहुत महत्वपूर्ण ",
+      "name": "बहुत महत्वपूर्ण ",
       "tags": ["विशेष जरूरतों वाली महिलाएँ", "परामर्श/कौन्सिलिंग"],
       "subtitle": "",
       "type": "split",
@@ -86,13 +86,13 @@
         },
         {
           "type": "image",
-          "content": ["module-1-topic-1-slide-4.png"]
+          "content": ["module-1-name-1-slide-4.png"]
         }
       ],
       "slide": 6
     },
     {
-      "title": "सहयोगात्मक रहें",
+      "name": "सहयोगात्मक रहें",
       "tags": ["विशेष जरूरतों वाली महिलाएँ", "परामर्श/कौन्सिलिंग"],
       "subtitle": "",
       "type": "split",
@@ -108,13 +108,13 @@
         },
         {
           "type": "image",
-          "content": ["module-1-topic-1-slide-4.png"]
+          "content": ["module-1-name-1-slide-4.png"]
         }
       ],
       "slide": 7
     },
     {
-      "title": "प्रसव की तैयारी",
+      "name": "प्रसव की तैयारी",
       "tags": ["विशेष जरूरतों वाली महिलाएँ", "परामर्श/कौन्सिलिंग"],
       "subtitle": "",
       "type": "split",
@@ -129,13 +129,13 @@
         },
         {
           "type": "image",
-          "content": ["module-1-topic-1-slide-4.png"]
+          "content": ["module-1-name-1-slide-4.png"]
         }
       ],
       "slide": 8
     },
     {
-      "title": "परिवार नियोजन",
+      "name": "परिवार नियोजन",
       "tags": ["विशेष जरूरतों वाली महिलाएँ", "परामर्श/कौन्सिलिंग"],
       "subtitle": "",
       "type": "single",
@@ -155,7 +155,7 @@
       "slide": 9
     },
     {
-      "title": "परिवार नियोजन के लाभ",
+      "name": "परिवार नियोजन के लाभ",
       "tags": ["विशेष जरूरतों वाली महिलाएँ", "परामर्श/कौन्सिलिंग"],
       "subtitle": "",
       "type": "single",
@@ -178,7 +178,7 @@
       "slide": 10
     },
     {
-      "title": "यौन संचारित संक्रमण या एचआईवीध्एड्स की रोकथाम",
+      "name": "यौन संचारित संक्रमण या एचआईवीध्एड्स की रोकथाम",
       "subtitle": "",
       "type": "split",
       "data": [
@@ -192,13 +192,13 @@
         },
         {
           "type": "image",
-          "content": ["module-1-topic-1-slide-4.png"]
+          "content": ["module-1-name-1-slide-4.png"]
         }
       ],
       "slide": 11
     },
     {
-      "title": "दो गर्भावस्थाओं के बीच कम से कम 3 वर्ष का अंतराल",
+      "name": "दो गर्भावस्थाओं के बीच कम से कम 3 वर्ष का अंतराल",
       "tags": ["विशेष जरूरतों वाली महिलाएँ", "परामर्श/कौन्सिलिंग"],
       "subtitle": "",
       "type": "split",
@@ -215,13 +215,13 @@
         },
         {
           "type": "image",
-          "content": ["module-1-topic-1-slide-4.png"]
+          "content": ["module-1-name-1-slide-4.png"]
         }
       ],
       "slide": 12
     },
     {
-      "title": "अपनी जानकारी को परखे - पहेली",
+      "name": "अपनी जानकारी को परखे - पहेली",
       "subtitle": "",
       "type": "single",
       "data": [

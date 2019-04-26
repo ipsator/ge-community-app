@@ -9,7 +9,7 @@ require("firebase/firestore")
 // TODO: Replace the following with your app's Firebase project configuration
 exports.GetDb = () => {
   const firebaseConfig = {
-    apiKey: "AIzaSyAaXa-8Cie29bo6blE72MUl1chXaBim1BM",
+    apiKey: "AIzaSyCvqJVieqi_f_rUp9i9GPZqbg0j-gXhGi0",
     authDomain: "ipsator-ge-test-app.firebaseapp.com",
     databaseURL: "https://ipsator-ge-test-app.firebaseio.com",
     projectId: "ipsator-ge-test-app",
@@ -18,7 +18,10 @@ exports.GetDb = () => {
   }
 
   // Initialize Firebase
-  var app = firebase.initializeApp(firebaseConfig)
-  db = firebase.firestore(app)
+  if (!firebase.apps.length) {
+    var app = firebase.initializeApp(firebaseConfig)
+    db = firebase.firestore(app)
+  }
+
   return db
 }
