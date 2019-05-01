@@ -5,9 +5,7 @@ const fs = require("fs")
 // Add a new document in collection "cities"
 function uploadData(collectionName, data) {
   let docrefId = ""
-  //console.log("data--", collectionName, data)
   var db = GetDb()
-  //console.log("db---------", db);
   let id = db
     .collection(collectionName)
     .add(data)
