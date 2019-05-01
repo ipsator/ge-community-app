@@ -30,10 +30,6 @@
         {
           "type": "list",
           "content": ["उच्च रक्तचाप", "मधुमेह", "दिल की बीमारी", "कैंसर", "सांस की बीमारियां"]
-        },
-        {
-          "type": "image",
-          "content": ["module-1-topic-1-slide-4.png"]
         }
       ],
       "slide": 3
@@ -58,7 +54,7 @@
         },
         {
           "type": "image",
-          "content": ["module-1-topic-1-slide-4.png"]
+          "content": []
         }
       ],
       "slide": 4
@@ -82,7 +78,7 @@
         },
         {
           "type": "image",
-          "content": ["module-1-topic-1-slide-4.png"]
+          "content": []
         }
       ],
       "slide": 5
@@ -94,7 +90,7 @@
       "data": [
         {
           "type": "image",
-          "content": ["module-1-topic-1-slide-4.png"]
+          "content": []
         }
       ],
       "slide": 6

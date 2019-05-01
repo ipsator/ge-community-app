@@ -23,7 +23,10 @@
         },
         {
           "type": "image",
-          "content": ["module-1-topic-1-slide-4.png", "module-1-topic-1-slide-4.png"]
+          "content": [
+            "https://ipsator.github.io/ge-community-app/images/module-1-topic-3-slide-2.png",
+            "https://ipsator.github.io/ge-community-app/images/module-1-topic-3-slide-3.png"
+          ]
         }
       ],
       "slide": 2
@@ -39,7 +42,7 @@
           "content": ["गर्भावस्था की निगरानी हेतु महिलाओं का पर्यवेक्षण", "भरण की वृद्धि में प्रगति", "मता का स्वास्थ्य", "भरुण का स्वास्थ्य"]
         },
         {
-          "content": ["module-1-topic-1-slide-4.png"]
+          "content": ["https://ipsator.github.io/ge-community-app/images/module-1-topic-3-slide-3.png"]
         }
       ],
       "slide": 4
@@ -61,7 +64,7 @@
         },
         {
           "type": "image",
-          "content": ["module-1-topic-1-slide-4.png"]
+          "content": ["https://ipsator.github.io/ge-community-app/images/module-1-topic-1-slide-5.png"]
         }
       ],
       "slide": 5
@@ -111,7 +114,7 @@
       "data": [
         {
           "type": "image",
-          "content": ["module-1-topic-1-slide-4.png"]
+          "content": ["https://ipsator.github.io/ge-community-app/images/module-1-topic-3-slide-8.png"]
         }
       ],
       "slide": 8
@@ -132,7 +135,7 @@
           ]
         },
         {
-          "content": ["module-1-topic-1-slide-4.png"]
+          "content": ["https://ipsator.github.io/ge-community-app/images/module-1-topic-1-slide-4.png"]
         }
       ],
       "slide": 9
@@ -155,7 +158,7 @@
           ]
         },
         {
-          "content": ["module-1-topic-1-slide-4.png"]
+          "content": ["https://ipsator.github.io/ge-community-app/images/module-1-topic-3-slide-10.png"]
         }
       ],
       "slide": 10
@@ -206,10 +209,25 @@
           "content": ["मूत्र की जाँच", "गर्भावस्था जाँच किट का प्रयोग करें"]
         },
         {
-          "content": ["module-1-topic-1-slide-4.png", "module-1-topic-1-slide-4.png", "module-1-topic-1-slide-4.png"]
+          "content": ["https://ipsator.github.io/ge-community-app/images/module-1-topic-3-slide-14.png"]
         }
       ],
       "slide": 14
+    },
+    {
+      "name": "जाँच की संख्या और समय ",
+      "tags": ["गर्भावस्था के दौरान देखभाल"],
+      "type": "split",
+      "data": [
+        {
+          "type": "image",
+          "content": [
+            "https://ipsator.github.io/ge-community-app/images/module-1-topic-3-slide-15-1.png",
+            "https://ipsator.github.io/ge-community-app/images/module-1-topic-3-slide-15-2.png"
+          ]
+        }
+      ],
+      "slide": 15
     },
 
     {
@@ -228,7 +246,7 @@
           ]
         },
         {
-          "content": ["module-1-topic-1-slide-4.png"]
+          "content": ["https://ipsator.github.io/ge-community-app/images/module-1-topic-3-slide-16.png"]
         }
       ],
       "slide": 16
@@ -243,7 +261,7 @@
           "content": ["प्रसव की सम्भावित दिनाँक (ईडीडी) त्र ", "एलएमपी दिनाँक ़ 9 माह ़ 7 दिन"]
         },
         {
-          "content": ["module-1-topic-1-slide-4.png"]
+          "content": ["https://ipsator.github.io/ge-community-app/images/module-1-topic-3-slide-16.png"]
         }
       ],
       "slide": 17
@@ -258,7 +276,7 @@
           "content": ["भ्रूण परिपक्वता दिनाँक त्र ;एलएमपी दिनाँक ़ 2 सप्ताहद्ध ़ 9 माह ़ 7 दिन"]
         },
         {
-          "content": ["module-1-topic-1-slide-4.png"]
+          "content": ["https://ipsator.github.io/ge-community-app/images/module-1-topic-3-slide-18.png"]
         }
       ],
       "slide": 18
@@ -306,7 +324,10 @@
         },
         {
           "type": "image",
-          "content": ["module-1-topic-1-slide-4.png"]
+          "content": [
+            "https://ipsator.github.io/ge-community-app/images/module-1-topic-3-slide-20.png",
+            "https://ipsator.github.io/ge-community-app/images/module-1-topic-3-slide-21.png"
+          ]
         }
       ],
       "slide": 20
@@ -318,7 +339,7 @@
       "data": [
         {
           "type": "image",
-          "content": ["module-1-topic-1-slide-4.png"]
+          "content": ["https://ipsator.github.io/ge-community-app/images/module-1-topic-3-slide-22.png"]
         }
       ],
       "slide": 22
@@ -330,7 +351,7 @@
       "data": [
         {
           "type": "image",
-          "content": ["module-1-topic-1-slide-4.png"]
+          "content": ["https://ipsator.github.io/ge-community-app/images/module-1-topic-3-slide-23.png"]
         }
       ],
       "slide": 23
@@ -341,7 +362,7 @@
       "data": [
         {
           "type": "image",
-          "content": ["module-1-topic-1-slide-4.png"]
+          "content": ["https://ipsator.github.io/ge-community-app/images/module-1-topic-3-slide-24.png"]
         }
       ],
       "slide": 24
@@ -352,7 +373,7 @@
       "data": [
         {
           "type": "image",
-          "content": ["module-1-topic-1-slide-4.png"]
+          "content": ["https://ipsator.github.io/ge-community-app/images/module-1-topic-3-slide-25.png"]
         }
       ],
       "slide": 25
@@ -363,7 +384,7 @@
       "data": [
         {
           "type": "image",
-          "content": ["module-1-topic-1-slide-4.png"]
+          "content": ["https://ipsator.github.io/ge-community-app/images/module-1-topic-3-slide-26.png"]
         }
       ],
       "slide": 26
@@ -375,7 +396,7 @@
       "data": [
         {
           "type": "image",
-          "content": ["module-1-topic-1-slide-4.png"]
+          "content": ["https://ipsator.github.io/ge-community-app/images/module-1-topic-3-slide-27.png"]
         }
       ],
       "slide": 27

@@ -30,7 +30,10 @@
       "data": [
         {
           "type": "image",
-          "content": ["module-1-topic-1-slide-4.png"]
+          "content": [
+            "https://ipsator.github.io/ge-community-app/images/module-4-topic-4-slide-3.jpg",
+            "https://ipsator.github.io/ge-community-app/images/module-4-topic-4-slide-3-1.png"
+          ]
         }
       ],
       "slide": 3
@@ -42,7 +45,10 @@
       "data": [
         {
           "type": "image",
-          "content": ["module-1-topic-1-slide-4.png"]
+          "content": [
+            "https://ipsator.github.io/ge-community-app/images/module-4-topic-4-slide-4-1.jpg",
+            "https://ipsator.github.io/ge-community-app/images/module-4-topic-4-slide-4-2.jpg"
+          ]
         }
       ],
       "slide": 4
@@ -56,7 +62,10 @@
       "data": [
         {
           "type": "image",
-          "content": ["module-1-topic-1-slide-4.png"]
+          "content": [
+            "https://ipsator.github.io/ge-community-app/images/module-4-topic-4-slide-5-1.jpg",
+            "https://ipsator.github.io/ge-community-app/images/module-4-topic-4-slide-5-2.jpg"
+          ]
         }
       ],
       "slide": 5
@@ -70,7 +79,7 @@
       "data": [
         {
           "type": "image",
-          "content": ["module-1-topic-1-slide-4.png"]
+          "content": ["https://ipsator.github.io/ge-community-app/images/module-4-topic-4-slide-6.jpg"]
         }
       ],
       "slide": 6
@@ -100,7 +109,10 @@
       "data": [
         {
           "type": "image",
-          "content": ["module-1-topic-1-slide-4.png"]
+          "content": [
+            "https://ipsator.github.io/ge-community-app/images/module-4-topic-4-slide-8.jpg",
+            "https://ipsator.github.io/ge-community-app/images/module-4-topic-4-slide-8-2.jpg"
+          ]
         }
       ],
       "slide": 8
@@ -113,7 +125,7 @@
       "data": [
         {
           "type": "image",
-          "content": ["module-1-topic-1-slide-4.png"]
+          "content": ["https://ipsator.github.io/ge-community-app/images/module-4-topic-4-slide-9-1.jpg"]
         }
       ],
       "slide": 9
@@ -126,7 +138,7 @@
       "data": [
         {
           "type": "image",
-          "content": ["module-1-topic-1-slide-4.png"]
+          "content": ["https://ipsator.github.io/ge-community-app/images/module-4-topic-4-slide-10.jpg"]
         }
       ],
       "slide": 10
@@ -139,7 +151,10 @@
       "data": [
         {
           "type": "image",
-          "content": ["module-1-topic-1-slide-4.png"]
+          "content": [
+            "https://ipsator.github.io/ge-community-app/images/module-4-topic-4-slide-11-1.jpg",
+            "https://ipsator.github.io/ge-community-app/images/module-4-topic-4-slide-11-2.jpg"
+          ]
         }
       ],
       "slide": 11
@@ -164,7 +179,10 @@
       "data": [
         {
           "type": "image",
-          "content": ["module-1-topic-1-slide-4.png"]
+          "content": [
+            "https://ipsator.github.io/ge-community-app/images/module-4-topic-4-slide-13-1.jpg",
+            "https://ipsator.github.io/ge-community-app/images/module-4-topic-4-slide-13-2.jpg"
+          ]
         }
       ],
       "slide": 13
