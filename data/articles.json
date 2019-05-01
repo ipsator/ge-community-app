@@ -36,9 +36,7 @@
       },
       {
         "type": "image",
-        "content": [
-          "https://ipsator.github.io/ge-community-app/images/module-1-topic-1-slide-3.png"
-        ]
+        "content": ["https://ipsator.github.io/ge-community-app/images/module-1-topic-1-slide-3.png"]
       }
     ],
     "subtitle": "",
@@ -61,9 +59,7 @@
       }
     ],
     "subtitle": "",
-    "tags": [
-      "मातृ मृत्यु"
-    ]
+    "tags": ["मातृ मृत्यु"]
   },
   {
     "active": true,
@@ -89,9 +85,7 @@
       }
     ],
     "subtitle": "",
-    "tags": [
-      "मातृ मृत्यु"
-    ]
+    "tags": ["मातृ मृत्यु"]
   },
   {
     "active": true,
@@ -111,15 +105,11 @@
       },
       {
         "type": "image",
-        "content": [
-          "module-1-topic-1-slide-4.png"
-        ]
+        "content": ["module-1-topic-1-slide-4.png"]
       }
     ],
     "subtitle": "",
-    "tags": [
-      "मातृ मृत्यु"
-    ]
+    "tags": ["मातृ मृत्यु"]
   },
   {
     "active": true,
@@ -143,15 +133,11 @@
       },
       {
         "type": "image",
-        "content": [
-          "module-1-topic-1-slide-4.png"
-        ]
+        "content": ["module-1-topic-1-slide-4.png"]
       }
     ],
     "subtitle": "",
-    "tags": [
-      "मातृ मृत्यु"
-    ]
+    "tags": ["मातृ मृत्यु"]
   },
   {
     "active": true,
@@ -163,15 +149,11 @@
     "data": [
       {
         "type": "image",
-        "content": [
-          "module-1-topic-1-slide-4.png"
-        ]
+        "content": ["module-1-topic-1-slide-4.png"]
       }
     ],
     "subtitle": "प्रसव के पहले (प्रसव पूर्व रक्तस्त्राव)",
-    "tags": [
-      "मातृ मृत्यु"
-    ]
+    "tags": ["मातृ मृत्यु"]
   },
   {
     "active": true,
@@ -192,15 +174,11 @@
       },
       {
         "type": "image",
-        "content": [
-          "module-1-topic-1-slide-4.png"
-        ]
+        "content": ["module-1-topic-1-slide-4.png"]
       }
     ],
     "subtitle": "",
-    "tags": [
-      "मातृ मृत्यु"
-    ]
+    "tags": ["मातृ मृत्यु"]
   },
   {
     "active": true,
@@ -223,15 +201,11 @@
       },
       {
         "type": "image",
-        "content": [
-          "module-1-topic-1-slide-4.png"
-        ]
+        "content": ["module-1-topic-1-slide-4.png"]
       }
     ],
     "subtitle": "",
-    "tags": [
-      "मातृ मृत्यु"
-    ]
+    "tags": ["मातृ मृत्यु"]
   },
   {
     "active": true,
@@ -243,17 +217,11 @@
     "data": [
       {
         "type": "image",
-        "content": [
-          "module-1-topic-1-slide-4.png",
-          "module-1-topic-1-slide-4.png",
-          "module-1-topic-1-slide-4.png"
-        ]
+        "content": ["module-1-topic-1-slide-4.png", "module-1-topic-1-slide-4.png", "module-1-topic-1-slide-4.png"]
       }
     ],
     "subtitle": "",
-    "tags": [
-      "मातृ मृत्यु"
-    ]
+    "tags": ["मातृ मृत्यु"]
   },
   {
     "active": true,
@@ -273,9 +241,7 @@
       }
     ],
     "subtitle": "",
-    "tags": [
-      "मातृ मृत्यु"
-    ]
+    "tags": ["मातृ मृत्यु"]
   },
   {
     "active": true,
@@ -287,23 +253,15 @@
     "data": [
       {
         "type": "list",
-        "content": [
-          "एक से अधिक गर्भधारण",
-          "दो गर्भधारणों के बीच अंतर कम होना",
-          "महिला कमजोर है, अौर उसका शरीर प्रसव पीड़ा को सहन नहीं कर सकता"
-        ]
+        "content": ["एक से अधिक गर्भधारण", "दो गर्भधारणों के बीच अंतर कम होना", "महिला कमजोर है, अौर उसका शरीर प्रसव पीड़ा को सहन नहीं कर सकता"]
       },
       {
         "type": "image",
-        "content": [
-          "module-1-topic-1-slide-4.png"
-        ]
+        "content": ["module-1-topic-1-slide-4.png"]
       }
     ],
     "subtitle": "",
-    "tags": [
-      "मातृ मृत्यु"
-    ]
+    "tags": ["मातृ मृत्यु"]
   },
   {
     "active": true,
@@ -323,15 +281,11 @@
       },
       {
         "type": "image",
-        "content": [
-          "module-1-topic-1-slide-4.png"
-        ]
+        "content": ["module-1-topic-1-slide-4.png"]
       }
     ],
     "subtitle": "",
-    "tags": [
-      "मातृ मृत्यु"
-    ]
+    "tags": ["मातृ मृत्यु"]
   },
   {
     "active": true,
@@ -343,15 +297,11 @@
     "data": [
       {
         "type": "image",
-        "content": [
-          "module-1-topic-1-slide-4.png"
-        ]
+        "content": ["module-1-topic-1-slide-4.png"]
       }
     ],
     "subtitle": "",
-    "tags": [
-      "नवजात"
-    ]
+    "tags": ["नवजात"]
   },
   {
     "active": true,
@@ -362,15 +312,11 @@
     "updated": 1556686619086,
     "data": [
       {
-        "content": [
-          "module-1-topic-1-slide-4.png"
-        ]
+        "content": ["module-1-topic-1-slide-4.png"]
       }
     ],
     "subtitle": "",
-    "tags": [
-      "नवजात"
-    ]
+    "tags": ["नवजात"]
   },
   {
     "active": true,
@@ -391,15 +337,11 @@
         ]
       },
       {
-        "content": [
-          "module-1-topic-1-slide-4.png"
-        ]
+        "content": ["module-1-topic-1-slide-4.png"]
       }
     ],
     "subtitle": "",
-    "tags": [
-      "नवजात, मातृ मृत्यु"
-    ]
+    "tags": ["नवजात, मातृ मृत्यु"]
   },
   {
     "active": true,
@@ -418,15 +360,11 @@
       },
       {
         "type": "image",
-        "content": [
-          "module-1-topic-1-slide-4.png"
-        ]
+        "content": ["module-1-topic-1-slide-4.png"]
       }
     ],
     "subtitle": "",
-    "tags": [
-      "नवजात, मातृ मृत्यु"
-    ]
+    "tags": ["नवजात, मातृ मृत्यु"]
   },
   {
     "active": true,
@@ -438,24 +376,15 @@
     "data": [
       {
         "type": "image",
-        "content": [
-          "module-1-topic-1-slide-4.png"
-        ]
+        "content": ["module-1-topic-1-slide-4.png"]
       },
       {
         "type": "list",
-        "content": [
-          "तीन मुख्य मृत्यु के कारण",
-          "सरमण",
-          "समय से पूर्व जन्म",
-          "जन्म के दौरान बच्चे का दम घुटना"
-        ]
+        "content": ["तीन मुख्य मृत्यु के कारण", "सरमण", "समय से पूर्व जन्म", "जन्म के दौरान बच्चे का दम घुटना"]
       }
     ],
     "subtitle": "प्रसव के पहले (प्रसव पूर्व रक्तस्त्राव)",
-    "tags": [
-      "नवजात, मातृ मृत्यु"
-    ]
+    "tags": ["नवजात, मातृ मृत्यु"]
   },
   {
     "active": true,
@@ -467,9 +396,7 @@
     "data": [
       {
         "type": "image",
-        "content": [
-          "module-1-topic-1-slide-4.png"
-        ]
+        "content": ["module-1-topic-1-slide-4.png"]
       }
     ],
     "subtitle": "निम्न का मिलान कर",
@@ -500,16 +427,11 @@
       },
       {
         "type": "image",
-        "content": [
-          "module-1-topic-1-slide-4.png",
-          "module-1-topic-1-slide-4.png"
-        ]
+        "content": ["module-1-topic-1-slide-4.png", "module-1-topic-1-slide-4.png"]
       }
     ],
     "subtitle": "",
-    "tags": [
-      "गर्भावस्था के दौरान देखभाल"
-    ]
+    "tags": ["गर्भावस्था के दौरान देखभाल"]
   },
   {
     "active": true,
@@ -521,23 +443,14 @@
     "data": [
       {
         "type": "list",
-        "content": [
-          "गर्भावस्था की निगरानी हेतु महिलाओं का पर्यवेक्षण",
-          "भरण की वृद्धि में प्रगति",
-          "मता का स्वास्थ्य",
-          "भरुण का स्वास्थ्य"
-        ]
+        "content": ["गर्भावस्था की निगरानी हेतु महिलाओं का पर्यवेक्षण", "भरण की वृद्धि में प्रगति", "मता का स्वास्थ्य", "भरुण का स्वास्थ्य"]
       },
       {
-        "content": [
-          "module-1-topic-1-slide-4.png"
-        ]
+        "content": ["module-1-topic-1-slide-4.png"]
       }
     ],
     "subtitle": "",
-    "tags": [
-      "गर्भावस्था के दौरान देखभाल"
-    ]
+    "tags": ["गर्भावस्था के दौरान देखभाल"]
   },
   {
     "active": true,
@@ -559,15 +472,11 @@
       },
       {
         "type": "image",
-        "content": [
-          "module-1-topic-1-slide-4.png"
-        ]
+        "content": ["module-1-topic-1-slide-4.png"]
       }
     ],
     "subtitle": "",
-    "tags": [
-      "गर्भावस्था के दौरान देखभाल"
-    ]
+    "tags": ["गर्भावस्था के दौरान देखभाल"]
   },
   {
     "active": true,
@@ -592,9 +501,7 @@
       }
     ],
     "subtitle": "",
-    "tags": [
-      "गर्भावस्था के दौरान देखभाल"
-    ]
+    "tags": ["गर्भावस्था के दौरान देखभाल"]
   },
   {
     "active": true,
@@ -613,9 +520,7 @@
       }
     ],
     "subtitle": "",
-    "tags": [
-      "गर्भावस्था के दौरान देखभाल"
-    ]
+    "tags": ["गर्भावस्था के दौरान देखभाल"]
   },
   {
     "active": true,
@@ -627,16 +532,11 @@
     "data": [
       {
         "type": "image",
-        "content": [
-          "module-1-topic-1-slide-4.png"
-        ]
+        "content": ["module-1-topic-1-slide-4.png"]
       }
     ],
     "subtitle": "",
-    "tags": [
-      "गर्भावस्था के दौरान देखभाल",
-      "परामर्श/कौन्सिलिंग"
-    ]
+    "tags": ["गर्भावस्था के दौरान देखभाल", "परामर्श/कौन्सिलिंग"]
   },
   {
     "active": true,
@@ -657,16 +557,11 @@
         ]
       },
       {
-        "content": [
-          "module-1-topic-1-slide-4.png"
-        ]
+        "content": ["module-1-topic-1-slide-4.png"]
       }
     ],
     "subtitle": "",
-    "tags": [
-      "गर्भावस्था के दौरान देखभाल",
-      "परामर्श/कौन्सिलिंग"
-    ]
+    "tags": ["गर्भावस्था के दौरान देखभाल", "परामर्श/कौन्सिलिंग"]
   },
   {
     "active": true,
@@ -688,16 +583,11 @@
         ]
       },
       {
-        "content": [
-          "module-1-topic-1-slide-4.png"
-        ]
+        "content": ["module-1-topic-1-slide-4.png"]
       }
     ],
     "subtitle": "",
-    "tags": [
-      "गर्भावस्था के दौरान देखभाल",
-      "परामर्श/कौन्सिलिंग"
-    ]
+    "tags": ["गर्भावस्था के दौरान देखभाल", "परामर्श/कौन्सिलिंग"]
   },
   {
     "active": true,
@@ -718,10 +608,7 @@
       }
     ],
     "subtitle": "",
-    "tags": [
-      "गर्भावस्था के दौरान देखभाल",
-      "परामर्श/कौन्सिलिंग"
-    ]
+    "tags": ["गर्भावस्था के दौरान देखभाल", "परामर्श/कौन्सिलिंग"]
   },
   {
     "active": true,
@@ -755,23 +642,14 @@
     "data": [
       {
         "type": "list",
-        "content": [
-          "मूत्र की जाँच",
-          "गर्भावस्था जाँच किट का प्रयोग करें"
-        ]
+        "content": ["मूत्र की जाँच", "गर्भावस्था जाँच किट का प्रयोग करें"]
       },
       {
-        "content": [
-          "module-1-topic-1-slide-4.png",
-          "module-1-topic-1-slide-4.png",
-          "module-1-topic-1-slide-4.png"
-        ]
+        "content": ["module-1-topic-1-slide-4.png", "module-1-topic-1-slide-4.png", "module-1-topic-1-slide-4.png"]
       }
     ],
     "subtitle": "",
-    "tags": [
-      "गर्भावस्था के दौरान देखभाल"
-    ]
+    "tags": ["गर्भावस्था के दौरान देखभाल"]
   },
   {
     "active": true,
@@ -783,10 +661,7 @@
     "data": [
       {
         "type": "list",
-        "tags": [
-          "गर्भावस्था के दौरान देखभाल",
-          "एलएमपी"
-        ],
+        "tags": ["गर्भावस्था के दौरान देखभाल", "एलएमपी"],
         "content": [
           "महिला की आखिरी माहवारी का पहला दिन",
           "महिला को उसकी आखिरी माहवारी का पहला दिन याद रखने के लिए प्रोत्साहित करें",
@@ -796,9 +671,7 @@
         ]
       },
       {
-        "content": [
-          "module-1-topic-1-slide-4.png"
-        ]
+        "content": ["module-1-topic-1-slide-4.png"]
       }
     ],
     "subtitle": "",
@@ -814,22 +687,14 @@
     "data": [
       {
         "type": "list",
-        "content": [
-          "प्रसव की सम्भावित दिनाँक (ईडीडी) त्र ",
-          "एलएमपी दिनाँक ़ 9 माह ़ 7 दिन"
-        ]
+        "content": ["प्रसव की सम्भावित दिनाँक (ईडीडी) त्र ", "एलएमपी दिनाँक ़ 9 माह ़ 7 दिन"]
       },
       {
-        "content": [
-          "module-1-topic-1-slide-4.png"
-        ]
+        "content": ["module-1-topic-1-slide-4.png"]
       }
     ],
     "subtitle": "",
-    "tags": [
-      "गर्भावस्था के दौरान देखभाल",
-      "एलएमपी"
-    ]
+    "tags": ["गर्भावस्था के दौरान देखभाल", "एलएमपी"]
   },
   {
     "active": true,
@@ -841,21 +706,14 @@
     "data": [
       {
         "type": "list",
-        "content": [
-          "भ्रूण परिपक्वता दिनाँक त्र ;एलएमपी दिनाँक ़ 2 सप्ताहद्ध ़ 9 माह ़ 7 दिन"
-        ]
+        "content": ["भ्रूण परिपक्वता दिनाँक त्र ;एलएमपी दिनाँक ़ 2 सप्ताहद्ध ़ 9 माह ़ 7 दिन"]
       },
       {
-        "content": [
-          "module-1-topic-1-slide-4.png"
-        ]
+        "content": ["module-1-topic-1-slide-4.png"]
       }
     ],
     "subtitle": "",
-    "tags": [
-      "गर्भावस्था के दौरान देखभाल",
-      "एलएमपी"
-    ]
+    "tags": ["गर्भावस्था के दौरान देखभाल", "एलएमपी"]
   },
   {
     "active": true,
@@ -877,10 +735,7 @@
       }
     ],
     "subtitle": "",
-    "tags": [
-      "गर्भावस्था के दौरान देखभाल",
-      "एलएमपी"
-    ]
+    "tags": ["गर्भावस्था के दौरान देखभाल", "एलएमपी"]
   },
   {
     "active": true,
@@ -908,16 +763,11 @@
       },
       {
         "type": "image",
-        "content": [
-          "module-1-topic-1-slide-4.png"
-        ]
+        "content": ["module-1-topic-1-slide-4.png"]
       }
     ],
     "subtitle": "",
-    "tags": [
-      "गर्भावस्था के दौरान देखभाल",
-      "परामर्श/कौन्सिलिंग"
-    ]
+    "tags": ["गर्भावस्था के दौरान देखभाल", "परामर्श/कौन्सिलिंग"]
   },
   {
     "active": true,
@@ -929,16 +779,11 @@
     "data": [
       {
         "type": "image",
-        "content": [
-          "module-1-topic-1-slide-4.png"
-        ]
+        "content": ["module-1-topic-1-slide-4.png"]
       }
     ],
     "subtitle": "",
-    "tags": [
-      "गर्भावस्था के दौरान देखभाल",
-      "परामर्श/कौन्सिलिंग"
-    ]
+    "tags": ["गर्भावस्था के दौरान देखभाल", "परामर्श/कौन्सिलिंग"]
   },
   {
     "active": true,
@@ -950,16 +795,11 @@
     "data": [
       {
         "type": "image",
-        "content": [
-          "module-1-topic-1-slide-4.png"
-        ]
+        "content": ["module-1-topic-1-slide-4.png"]
       }
     ],
     "subtitle": "",
-    "tags": [
-      "गर्भावस्था के दौरान देखभाल",
-      "परामर्श/कौन्सिलिंग"
-    ]
+    "tags": ["गर्भावस्था के दौरान देखभाल", "परामर्श/कौन्सिलिंग"]
   },
   {
     "active": true,
@@ -971,9 +811,7 @@
     "data": [
       {
         "type": "image",
-        "content": [
-          "module-1-topic-1-slide-4.png"
-        ]
+        "content": ["module-1-topic-1-slide-4.png"]
       }
     ],
     "subtitle": "",
@@ -989,9 +827,7 @@
     "data": [
       {
         "type": "image",
-        "content": [
-          "module-1-topic-1-slide-4.png"
-        ]
+        "content": ["module-1-topic-1-slide-4.png"]
       }
     ],
     "subtitle": "",
@@ -1007,9 +843,7 @@
     "data": [
       {
         "type": "image",
-        "content": [
-          "module-1-topic-1-slide-4.png"
-        ]
+        "content": ["module-1-topic-1-slide-4.png"]
       }
     ],
     "subtitle": "",
@@ -1025,9 +859,7 @@
     "data": [
       {
         "type": "image",
-        "content": [
-          "module-1-topic-1-slide-4.png"
-        ]
+        "content": ["module-1-topic-1-slide-4.png"]
       }
     ],
     "subtitle": "",
@@ -1055,9 +887,7 @@
       }
     ],
     "subtitle": "",
-    "tags": [
-      "नवजात"
-    ]
+    "tags": ["नवजात"]
   },
   {
     "active": true,
@@ -1069,15 +899,11 @@
     "data": [
       {
         "type": "image",
-        "content": [
-          "module-1-topic-1-slide-4.png"
-        ]
+        "content": ["module-1-topic-1-slide-4.png"]
       }
     ],
     "subtitle": "",
-    "tags": [
-      "नवजात"
-    ]
+    "tags": ["नवजात"]
   },
   {
     "active": true,
@@ -1100,16 +926,11 @@
       },
       {
         "type": "image",
-        "content": [
-          "module-1-topic-1-slide-4.png"
-        ]
+        "content": ["module-1-topic-1-slide-4.png"]
       }
     ],
     "subtitle": "स्तनपान शिशु के पहले कुछ महीने उसे बिमारियों के जोेखिम से बचाता है।",
-    "tags": [
-      "नवजात",
-      "स्तनपान"
-    ]
+    "tags": ["नवजात", "स्तनपान"]
   },
   {
     "active": true,
@@ -1128,16 +949,11 @@
       },
       {
         "type": "image",
-        "content": [
-          "module-1-topic-1-slide-4.png"
-        ]
+        "content": ["module-1-topic-1-slide-4.png"]
       }
     ],
     "subtitle": "",
-    "tags": [
-      "नवजात",
-      "स्तनपान"
-    ]
+    "tags": ["नवजात", "स्तनपान"]
   },
   {
     "active": true,
@@ -1178,16 +994,11 @@
       },
       {
         "type": "image",
-        "content": [
-          "module-1-topic-1-slide-4.png"
-        ]
+        "content": ["module-1-topic-1-slide-4.png"]
       }
     ],
     "subtitle": "",
-    "tags": [
-      "पोषण",
-      "गर्भावस्था के दौरान देखभाल"
-    ]
+    "tags": ["पोषण", "गर्भावस्था के दौरान देखभाल"]
   },
   {
     "active": true,
@@ -1199,16 +1010,11 @@
     "data": [
       {
         "type": "image",
-        "content": [
-          "module-1-topic-1-slide-4.png"
-        ]
+        "content": ["module-1-topic-1-slide-4.png"]
       }
     ],
     "subtitle": "",
-    "tags": [
-      "पोषण",
-      "गर्भावस्था के दौरान देखभाल"
-    ]
+    "tags": ["पोषण", "गर्भावस्था के दौरान देखभाल"]
   },
   {
     "active": true,
@@ -1220,16 +1026,11 @@
     "data": [
       {
         "type": "image",
-        "content": [
-          "module-1-topic-1-slide-4.png"
-        ]
+        "content": ["module-1-topic-1-slide-4.png"]
       }
     ],
     "subtitle": "",
-    "tags": [
-      "पोषण",
-      "गर्भावस्था के दौरान देखभाल"
-    ]
+    "tags": ["पोषण", "गर्भावस्था के दौरान देखभाल"]
   },
   {
     "active": true,
@@ -1270,25 +1071,15 @@
     "data": [
       {
         "type": "list",
-        "content": [
-          "तंबाकू और उसका कोई भी स्वरूप जैसे- सिगरेट, पान, बीड़ी, गुटखा आदि",
-          "शराब"
-        ]
+        "content": ["तंबाकू और उसका कोई भी स्वरूप जैसे- सिगरेट, पान, बीड़ी, गुटखा आदि", "शराब"]
       },
       {
         "type": "image",
-        "content": [
-          "module-1-topic-1-slide-4.png",
-          "module-1-topic-1-slide-4.png",
-          "module-1-topic-1-slide-4.png"
-        ]
+        "content": ["module-1-topic-1-slide-4.png", "module-1-topic-1-slide-4.png", "module-1-topic-1-slide-4.png"]
       }
     ],
     "subtitle": "",
-    "tags": [
-      "पोषण",
-      "गर्भावस्था के दौरान देखभाल"
-    ]
+    "tags": ["पोषण", "गर्भावस्था के दौरान देखभाल"]
   },
   {
     "active": true,
@@ -1300,16 +1091,11 @@
     "data": [
       {
         "type": "image",
-        "content": [
-          "module-1-topic-1-slide-4.png"
-        ]
+        "content": ["module-1-topic-1-slide-4.png"]
       }
     ],
     "subtitle": "",
-    "tags": [
-      "पोषण",
-      "गर्भावस्था के दौरान देखभाल"
-    ]
+    "tags": ["पोषण", "गर्भावस्था के दौरान देखभाल"]
   },
   {
     "active": true,
@@ -1372,15 +1158,11 @@
       },
       {
         "type": "image",
-        "content": [
-          "module-1-topic-1-slide-4.png"
-        ]
+        "content": ["module-1-topic-1-slide-4.png"]
       }
     ],
     "subtitle": "",
-    "tags": [
-      "विशेष जरूरतों वाली महिलाएँ"
-    ]
+    "tags": ["विशेष जरूरतों वाली महिलाएँ"]
   },
   {
     "active": true,
@@ -1401,15 +1183,11 @@
       },
       {
         "type": "image",
-        "content": [
-          "module-1-topic-1-slide-4.png"
-        ]
+        "content": ["module-1-topic-1-slide-4.png"]
       }
     ],
     "subtitle": "विचार.विमर्श",
-    "tags": [
-      "विशेष जरूरतों वाली महिलाएँ"
-    ]
+    "tags": ["विशेष जरूरतों वाली महिलाएँ"]
   },
   {
     "active": true,
@@ -1432,17 +1210,11 @@
       },
       {
         "type": "image",
-        "content": [
-          "module-1-topic-1-slide-4.png",
-          "module-1-topic-1-slide-4.png"
-        ]
+        "content": ["module-1-topic-1-slide-4.png", "module-1-topic-1-slide-4.png"]
       }
     ],
     "subtitle": "",
-    "tags": [
-      "विशेष जरूरतों वाली महिलाएँ",
-      " परामर्श/कौन्सिलिंग"
-    ]
+    "tags": ["विशेष जरूरतों वाली महिलाएँ", " परामर्श/कौन्सिलिंग"]
   },
   {
     "active": true,
@@ -1454,16 +1226,11 @@
     "data": [
       {
         "type": "image",
-        "content": [
-          "module-1-topic-1-slide-4.png"
-        ]
+        "content": ["module-1-topic-1-slide-4.png"]
       }
     ],
     "subtitle": "",
-    "tags": [
-      "विशेष जरूरतों वाली महिलाएँ",
-      " परामर्श/कौन्सिलिंग"
-    ]
+    "tags": ["विशेष जरूरतों वाली महिलाएँ", " परामर्श/कौन्सिलिंग"]
   },
   {
     "active": true,
@@ -1475,16 +1242,11 @@
     "data": [
       {
         "type": "image",
-        "content": [
-          "module-1-topic-1-slide-4.png"
-        ]
+        "content": ["module-1-topic-1-slide-4.png"]
       }
     ],
     "subtitle": "",
-    "tags": [
-      "विशेष जरूरतों वाली महिलाएँ",
-      " परामर्श/कौन्सिलिंग"
-    ]
+    "tags": ["विशेष जरूरतों वाली महिलाएँ", " परामर्श/कौन्सिलिंग"]
   },
   {
     "active": true,
@@ -1496,24 +1258,15 @@
     "data": [
       {
         "type": "list",
-        "content": [
-          "कभी आंकलन ना करें",
-          "उसकी स्थिति को समझने की कोशिश करें",
-          "अपनी परेशानी दूर करते हुए सहज हों"
-        ]
+        "content": ["कभी आंकलन ना करें", "उसकी स्थिति को समझने की कोशिश करें", "अपनी परेशानी दूर करते हुए सहज हों"]
       },
       {
         "type": "image",
-        "content": [
-          "module-1-topic-1-slide-4.png"
-        ]
+        "content": ["module-1-topic-1-slide-4.png"]
       }
     ],
     "subtitle": "",
-    "tags": [
-      "विशेष जरूरतों वाली महिलाएँ",
-      " परामर्श/कौन्सिलिंग"
-    ]
+    "tags": ["विशेष जरूरतों वाली महिलाएँ", " परामर्श/कौन्सिलिंग"]
   },
   {
     "active": true,
@@ -1534,16 +1287,11 @@
       },
       {
         "type": "image",
-        "content": [
-          "module-1-topic-1-slide-4.png"
-        ]
+        "content": ["module-1-topic-1-slide-4.png"]
       }
     ],
     "subtitle": "",
-    "tags": [
-      "विशेष जरूरतों वाली महिलाएँ",
-      " परामर्श/कौन्सिलिंग"
-    ]
+    "tags": ["विशेष जरूरतों वाली महिलाएँ", " परामर्श/कौन्सिलिंग"]
   },
   {
     "active": true,
@@ -1564,16 +1312,11 @@
       },
       {
         "type": "image",
-        "content": [
-          "module-1-topic-1-slide-4.png"
-        ]
+        "content": ["module-1-topic-1-slide-4.png"]
       }
     ],
     "subtitle": "",
-    "tags": [
-      "विशेष जरूरतों वाली महिलाएँ",
-      " परामर्श/कौन्सिलिंग"
-    ]
+    "tags": ["विशेष जरूरतों वाली महिलाएँ", " परामर्श/कौन्सिलिंग"]
   },
   {
     "active": true,
@@ -1595,16 +1338,11 @@
       },
       {
         "type": "image",
-        "content": [
-          "module-1-topic-1-slide-4.png"
-        ]
+        "content": ["module-1-topic-1-slide-4.png"]
       }
     ],
     "subtitle": "",
-    "tags": [
-      "विशेष जरूरतों वाली महिलाएँ",
-      " परामर्श/कौन्सिलिंग"
-    ]
+    "tags": ["विशेष जरूरतों वाली महिलाएँ", " परामर्श/कौन्सिलिंग"]
   },
   {
     "active": true,
@@ -1616,25 +1354,15 @@
     "data": [
       {
         "type": "list",
-        "content": [
-          "ऐसे मामलों में फाॅलोअप आवश्यक होता है",
-          "उसे सदैव आश्वस्त रखें",
-          "उसे समझें व सकारात्मक रहें",
-          "धैर्य रखें "
-        ]
+        "content": ["ऐसे मामलों में फाॅलोअप आवश्यक होता है", "उसे सदैव आश्वस्त रखें", "उसे समझें व सकारात्मक रहें", "धैर्य रखें "]
       },
       {
         "type": "image",
-        "content": [
-          "module-1-topic-1-slide-4.png"
-        ]
+        "content": ["module-1-topic-1-slide-4.png"]
       }
     ],
     "subtitle": "",
-    "tags": [
-      "विशेष जरूरतों वाली महिलाएँ",
-      " परामर्श/कौन्सिलिंग"
-    ]
+    "tags": ["विशेष जरूरतों वाली महिलाएँ", " परामर्श/कौन्सिलिंग"]
   },
   {
     "active": true,
@@ -1659,17 +1387,11 @@
       },
       {
         "type": "image",
-        "content": [
-          "module-1-name-1-slide-4.png",
-          "module-1-name-1-slide-4.png"
-        ]
+        "content": ["module-1-name-1-slide-4.png", "module-1-name-1-slide-4.png"]
       }
     ],
     "subtitle": "",
-    "tags": [
-      "विशेष जरूरतों वाली महिलाएँ",
-      "परामर्श/कौन्सिलिंग"
-    ]
+    "tags": ["विशेष जरूरतों वाली महिलाएँ", "परामर्श/कौन्सिलिंग"]
   },
   {
     "active": true,
@@ -1690,16 +1412,11 @@
       },
       {
         "type": "image",
-        "content": [
-          "module-1-name-1-slide-4.png"
-        ]
+        "content": ["module-1-name-1-slide-4.png"]
       }
     ],
     "subtitle": "",
-    "tags": [
-      "विशेष जरूरतों वाली महिलाएँ",
-      "परामर्श/कौन्सिलिंग"
-    ]
+    "tags": ["विशेष जरूरतों वाली महिलाएँ", "परामर्श/कौन्सिलिंग"]
   },
   {
     "active": true,
@@ -1720,16 +1437,11 @@
       },
       {
         "type": "image",
-        "content": [
-          "module-1-name-1-slide-4.png"
-        ]
+        "content": ["module-1-name-1-slide-4.png"]
       }
     ],
     "subtitle": "",
-    "tags": [
-      "विशेष जरूरतों वाली महिलाएँ",
-      "परामर्श/कौन्सिलिंग"
-    ]
+    "tags": ["विशेष जरूरतों वाली महिलाएँ", "परामर्श/कौन्सिलिंग"]
   },
   {
     "active": true,
@@ -1750,16 +1462,11 @@
       },
       {
         "type": "image",
-        "content": [
-          "module-1-name-1-slide-4.png"
-        ]
+        "content": ["module-1-name-1-slide-4.png"]
       }
     ],
     "subtitle": "",
-    "tags": [
-      "विशेष जरूरतों वाली महिलाएँ",
-      "परामर्श/कौन्सिलिंग"
-    ]
+    "tags": ["विशेष जरूरतों वाली महिलाएँ", "परामर्श/कौन्सिलिंग"]
   },
   {
     "active": true,
@@ -1780,16 +1487,11 @@
       },
       {
         "type": "image",
-        "content": [
-          "module-1-name-1-slide-4.png"
-        ]
+        "content": ["module-1-name-1-slide-4.png"]
       }
     ],
     "subtitle": "",
-    "tags": [
-      "विशेष जरूरतों वाली महिलाएँ",
-      "परामर्श/कौन्सिलिंग"
-    ]
+    "tags": ["विशेष जरूरतों वाली महिलाएँ", "परामर्श/कौन्सिलिंग"]
   },
   {
     "active": true,
@@ -1809,16 +1511,11 @@
       },
       {
         "type": "image",
-        "content": [
-          "module-1-name-1-slide-4.png"
-        ]
+        "content": ["module-1-name-1-slide-4.png"]
       }
     ],
     "subtitle": "",
-    "tags": [
-      "विशेष जरूरतों वाली महिलाएँ",
-      "परामर्श/कौन्सिलिंग"
-    ]
+    "tags": ["विशेष जरूरतों वाली महिलाएँ", "परामर्श/कौन्सिलिंग"]
   },
   {
     "active": true,
@@ -1841,10 +1538,7 @@
       }
     ],
     "subtitle": "",
-    "tags": [
-      "विशेष जरूरतों वाली महिलाएँ",
-      "परामर्श/कौन्सिलिंग"
-    ]
+    "tags": ["विशेष जरूरतों वाली महिलाएँ", "परामर्श/कौन्सिलिंग"]
   },
   {
     "active": true,
@@ -1870,10 +1564,7 @@
       }
     ],
     "subtitle": "",
-    "tags": [
-      "विशेष जरूरतों वाली महिलाएँ",
-      "परामर्श/कौन्सिलिंग"
-    ]
+    "tags": ["विशेष जरूरतों वाली महिलाएँ", "परामर्श/कौन्सिलिंग"]
   },
   {
     "active": true,
@@ -1893,9 +1584,7 @@
       },
       {
         "type": "image",
-        "content": [
-          "module-1-name-1-slide-4.png"
-        ]
+        "content": ["module-1-name-1-slide-4.png"]
       }
     ],
     "subtitle": "",
@@ -1921,16 +1610,11 @@
       },
       {
         "type": "image",
-        "content": [
-          "module-1-name-1-slide-4.png"
-        ]
+        "content": ["module-1-name-1-slide-4.png"]
       }
     ],
     "subtitle": "",
-    "tags": [
-      "विशेष जरूरतों वाली महिलाएँ",
-      "परामर्श/कौन्सिलिंग"
-    ]
+    "tags": ["विशेष जरूरतों वाली महिलाएँ", "परामर्श/कौन्सिलिंग"]
   },
   {
     "active": true,
@@ -1942,9 +1626,7 @@
     "data": [
       {
         "type": "list",
-        "content": [
-          "परामर्श देने के मुख्य तत्त्व क्या है उनका नाम लिखे और स्पष्ट करे वह क्यो आवश्यक है। "
-        ]
+        "content": ["परामर्श देने के मुख्य तत्त्व क्या है उनका नाम लिखे और स्पष्ट करे वह क्यो आवश्यक है। "]
       }
     ],
     "subtitle": "",
@@ -1977,16 +1659,11 @@
       },
       {
         "type": "image",
-        "content": [
-          "module-1-topic-1-slide-4.png",
-          "module-1-topic-1-slide-4.png"
-        ]
+        "content": ["module-1-topic-1-slide-4.png", "module-1-topic-1-slide-4.png"]
       }
     ],
     "subtitle": "",
-    "tags": [
-      "हिंसा की शिकार महिलाएँ"
-    ]
+    "tags": ["हिंसा की शिकार महिलाएँ"]
   },
   {
     "active": true,
@@ -2011,16 +1688,11 @@
       },
       {
         "type": "image",
-        "content": [
-          "module-1-topic-1-slide-4.png",
-          "module-1-topic-1-slide-4.png"
-        ]
+        "content": ["module-1-topic-1-slide-4.png", "module-1-topic-1-slide-4.png"]
       }
     ],
     "subtitle": "",
-    "tags": [
-      "हिंसा की शिकार महिलाएँ"
-    ]
+    "tags": ["हिंसा की शिकार महिलाएँ"]
   },
   {
     "active": true,
@@ -2041,9 +1713,7 @@
       }
     ],
     "subtitle": "",
-    "tags": [
-      "हिंसा की शिकार महिलाएँ"
-    ]
+    "tags": ["हिंसा की शिकार महिलाएँ"]
   },
   {
     "active": true,
@@ -2067,9 +1737,7 @@
       },
       {
         "type": "image",
-        "content": [
-          "module-1-topic-1-slide-4.png"
-        ]
+        "content": ["module-1-topic-1-slide-4.png"]
       }
     ],
     "subtitle": "",
@@ -2085,15 +1753,11 @@
     "data": [
       {
         "type": "list",
-        "content": [
-          "आप क्या करेगे जब एक महिला जो हिंसा की शिकार है और आपके पास पहुचती है मदद के लिये।"
-        ]
+        "content": ["आप क्या करेगे जब एक महिला जो हिंसा की शिकार है और आपके पास पहुचती है मदद के लिये।"]
       }
     ],
     "subtitle": "",
-    "tags": [
-      "हिंसा की शिकार महिलाएँ"
-    ]
+    "tags": ["हिंसा की शिकार महिलाएँ"]
   },
   {
     "active": true,
@@ -2122,9 +1786,7 @@
       }
     ],
     "subtitle": "",
-    "tags": [
-      "परामर्श/कौन्सिलिंग"
-    ]
+    "tags": ["परामर्श/कौन्सिलिंग"]
   },
   {
     "active": true,
@@ -2159,21 +1821,15 @@
     "data": [
       {
         "type": "list",
-        "content": [
-          "स्वच्छ हाथ अपने स्वास्थ्य की देखभाल करने व संक्रमण रोकने में सबसे महत्वपूर्ण भूमिका निभाता है।"
-        ]
+        "content": ["स्वच्छ हाथ अपने स्वास्थ्य की देखभाल करने व संक्रमण रोकने में सबसे महत्वपूर्ण भूमिका निभाता है।"]
       },
       {
         "type": "image",
-        "content": [
-          "module-1-topic-1-slide-4.png"
-        ]
+        "content": ["module-1-topic-1-slide-4.png"]
       }
     ],
     "subtitle": "",
-    "tags": [
-      "हाथ की स्वच्छता"
-    ]
+    "tags": ["हाथ की स्वच्छता"]
   },
   {
     "active": true,
@@ -2185,15 +1841,11 @@
     "data": [
       {
         "type": "image",
-        "content": [
-          "module-1-topic-1-slide-4.png"
-        ]
+        "content": ["module-1-topic-1-slide-4.png"]
       }
     ],
     "subtitle": "",
-    "tags": [
-      "हाथ की स्वच्छता"
-    ]
+    "tags": ["हाथ की स्वच्छता"]
   },
   {
     "active": true,
@@ -2218,9 +1870,7 @@
       }
     ],
     "subtitle": "",
-    "tags": [
-      "हाथ की स्वच्छता"
-    ]
+    "tags": ["हाथ की स्वच्छता"]
   },
   {
     "active": true,
@@ -2232,9 +1882,7 @@
     "data": [
       {
         "type": "list",
-        "content": [
-          "हाथ धोने के तीन तरीके कौनसे है और उसका महत्व क्या है? चर्चा करे।"
-        ]
+        "content": ["हाथ धोने के तीन तरीके कौनसे है और उसका महत्व क्या है? चर्चा करे।"]
       }
     ],
     "subtitle": "",
@@ -2250,15 +1898,11 @@
     "data": [
       {
         "type": "image",
-        "content": [
-          "module-1-topic-1-slide-4.png"
-        ]
+        "content": ["module-1-topic-1-slide-4.png"]
       }
     ],
     "subtitle": "",
-    "tags": [
-      "हाथ की स्वच्छता"
-    ]
+    "tags": ["हाथ की स्वच्छता"]
   },
   {
     "active": true,
@@ -2277,10 +1921,7 @@
       }
     ],
     "subtitle": "",
-    "tags": [
-      "हाथ की स्वच्छता",
-      "परामर्श/कौन्सिलिंग"
-    ]
+    "tags": ["हाथ की स्वच्छता", "परामर्श/कौन्सिलिंग"]
   },
   {
     "active": true,
@@ -2292,9 +1933,7 @@
     "data": [
       {
         "type": "list",
-        "content": [
-          "एक सेनिटाईज़र (प्रक्षालक) के इस्तेमाल से सही तरह से हाथ धोने का तरीका दिखाऐ।"
-        ]
+        "content": ["एक सेनिटाईज़र (प्रक्षालक) के इस्तेमाल से सही तरह से हाथ धोने का तरीका दिखाऐ।"]
       }
     ],
     "subtitle": "",
@@ -2321,9 +1960,7 @@
       }
     ],
     "subtitle": "",
-    "tags": [
-      "त्वचा की अविभाज्यता"
-    ]
+    "tags": ["त्वचा की अविभाज्यता"]
   },
   {
     "active": true,
@@ -2346,15 +1983,11 @@
       },
       {
         "type": "image",
-        "content": [
-          "module-1-topic-1-slide-4.png"
-        ]
+        "content": ["module-1-topic-1-slide-4.png"]
       }
     ],
     "subtitle": "",
-    "tags": [
-      "त्वचा की अविभाज्यता"
-    ]
+    "tags": ["त्वचा की अविभाज्यता"]
   },
   {
     "active": true,
@@ -2375,9 +2008,7 @@
       }
     ],
     "subtitle": "",
-    "tags": [
-      "त्वचा की अविभाज्यता"
-    ]
+    "tags": ["त्वचा की अविभाज्यता"]
   },
   {
     "active": true,
@@ -2389,15 +2020,11 @@
     "data": [
       {
         "type": "image",
-        "content": [
-          "module-1-topic-1-slide-4.png"
-        ]
+        "content": ["module-1-topic-1-slide-4.png"]
       }
     ],
     "subtitle": "",
-    "tags": [
-      "त्वचा की अविभाज्यता"
-    ]
+    "tags": ["त्वचा की अविभाज्यता"]
   },
   {
     "active": true,
@@ -2418,15 +2045,11 @@
       },
       {
         "type": "image",
-        "content": [
-          "module-1-topic-1-slide-4.png"
-        ]
+        "content": ["module-1-topic-1-slide-4.png"]
       }
     ],
     "subtitle": "",
-    "tags": [
-      "त्वचा की अविभाज्यता"
-    ]
+    "tags": ["त्वचा की अविभाज्यता"]
   },
   {
     "active": true,
@@ -2446,9 +2069,7 @@
       }
     ],
     "subtitle": "",
-    "tags": [
-      "त्वचा की अविभाज्यता"
-    ]
+    "tags": ["त्वचा की अविभाज्यता"]
   },
   {
     "active": true,
@@ -2471,9 +2092,7 @@
       }
     ],
     "subtitle": "",
-    "tags": [
-      "त्वचा की अविभाज्यता"
-    ]
+    "tags": ["त्वचा की अविभाज्यता"]
   },
   {
     "active": true,
@@ -2496,9 +2115,7 @@
       }
     ],
     "subtitle": "",
-    "tags": [
-      "त्वचा की अविभाज्यता"
-    ]
+    "tags": ["त्वचा की अविभाज्यता"]
   },
   {
     "active": true,
@@ -2524,9 +2141,7 @@
       }
     ],
     "subtitle": "",
-    "tags": [
-      "त्वचा की अविभाज्यता"
-    ]
+    "tags": ["त्वचा की अविभाज्यता"]
   },
   {
     "active": true,
@@ -2545,15 +2160,11 @@
       },
       {
         "type": "image",
-        "content": [
-          "module-1-topic-1-slide-4.png"
-        ]
+        "content": ["module-1-topic-1-slide-4.png"]
       }
     ],
     "subtitle": "आप क्या कर सकते हैं? पुनर्स्थापना: 30 का नियम",
-    "tags": [
-      "त्वचा की अविभाज्यता"
-    ]
+    "tags": ["त्वचा की अविभाज्यता"]
   },
   {
     "active": true,
@@ -2565,15 +2176,11 @@
     "data": [
       {
         "type": "list",
-        "content": [
-          "उन परिवारों को सही सलाह देना, जिनके सदस्यों मे यह लक्षण दिखते हैं।"
-        ]
+        "content": ["उन परिवारों को सही सलाह देना, जिनके सदस्यों मे यह लक्षण दिखते हैं।"]
       }
     ],
     "subtitle": "",
-    "tags": [
-      "त्वचा की अविभाज्यता"
-    ]
+    "tags": ["त्वचा की अविभाज्यता"]
   },
   {
     "active": true,
@@ -2615,9 +2222,7 @@
       }
     ],
     "subtitle": "",
-    "tags": [
-      "मधुमेह, संक्रमण"
-    ]
+    "tags": ["मधुमेह, संक्रमण"]
   },
   {
     "active": true,
@@ -2640,15 +2245,11 @@
       },
       {
         "type": "image",
-        "content": [
-          "module-1-topic-1-slide-4.png"
-        ]
+        "content": ["module-1-topic-1-slide-4.png"]
       }
     ],
     "subtitle": "",
-    "tags": [
-      "मधुमेह, संक्रमण"
-    ]
+    "tags": ["मधुमेह, संक्रमण"]
   },
   {
     "active": true,
@@ -2660,19 +2261,11 @@
     "data": [
       {
         "type": "list",
-        "content": [
-          "पैरो की देखभाल",
-          "मधुमेह मे पैरो के फोड़़ो की देखभाल",
-          "इस्किमिया प्रबन्धन",
-          "तंत्रिका विकृति प्रबन्धन",
-          "शल्यचिकित्सा"
-        ]
+        "content": ["पैरो की देखभाल", "मधुमेह मे पैरो के फोड़़ो की देखभाल", "इस्किमिया प्रबन्धन", "तंत्रिका विकृति प्रबन्धन", "शल्यचिकित्सा"]
       }
     ],
     "subtitle": "",
-    "tags": [
-      "मधुमेह, संक्रमण"
-    ]
+    "tags": ["मधुमेह, संक्रमण"]
   },
   {
     "active": true,
@@ -2694,9 +2287,7 @@
       }
     ],
     "subtitle": "",
-    "tags": [
-      "मधुमेह, संक्रमण"
-    ]
+    "tags": ["मधुमेह, संक्रमण"]
   },
   {
     "active": true,
@@ -2708,18 +2299,11 @@
     "data": [
       {
         "type": "image",
-        "content": [
-          "module-1-topic-1-slide-4.png",
-          "module-1-topic-1-slide-4.png",
-          "module-1-topic-1-slide-4.png",
-          "module-1-topic-1-slide-4.png"
-        ]
+        "content": ["module-1-topic-1-slide-4.png", "module-1-topic-1-slide-4.png", "module-1-topic-1-slide-4.png", "module-1-topic-1-slide-4.png"]
       }
     ],
     "subtitle": "क्या करें",
-    "tags": [
-      "मधुमेह, संक्रमण"
-    ]
+    "tags": ["मधुमेह, संक्रमण"]
   },
   {
     "active": true,
@@ -2731,18 +2315,11 @@
     "data": [
       {
         "type": "image",
-        "content": [
-          "module-1-topic-1-slide-4.png",
-          "module-1-topic-1-slide-4.png",
-          "module-1-topic-1-slide-4.png",
-          "module-1-topic-1-slide-4.png"
-        ]
+        "content": ["module-1-topic-1-slide-4.png", "module-1-topic-1-slide-4.png", "module-1-topic-1-slide-4.png", "module-1-topic-1-slide-4.png"]
       }
     ],
     "subtitle": "क्या न करें",
-    "tags": [
-      "मधुमेह, संक्रमण"
-    ]
+    "tags": ["मधुमेह, संक्रमण"]
   },
   {
     "active": true,
@@ -2754,16 +2331,11 @@
     "data": [
       {
         "type": "list",
-        "content": [
-          "उन परिवारों को सही सलाह देना, जिनके सदस्यों मे यह लक्षण दिखते हैं।"
-        ]
+        "content": ["उन परिवारों को सही सलाह देना, जिनके सदस्यों मे यह लक्षण दिखते हैं।"]
       }
     ],
     "subtitle": "",
-    "tags": [
-      "मधुमेह, संक्रमण",
-      "परामर्श/कौन्सिलिंग"
-    ]
+    "tags": ["मधुमेह, संक्रमण", "परामर्श/कौन्सिलिंग"]
   },
   {
     "active": true,
@@ -2775,9 +2347,7 @@
     "data": [
       {
         "type": "image",
-        "content": [
-          "module-1-topic-1-slide-4.png"
-        ]
+        "content": ["module-1-topic-1-slide-4.png"]
       }
     ],
     "subtitle": "निम्न का मिलान करें",
@@ -2793,9 +2363,7 @@
     "data": [
       {
         "type": "list",
-        "tags": [
-          "घरेलू अपशिष्ट"
-        ],
+        "tags": ["घरेलू अपशिष्ट"],
         "content": [
           "हर घर से जैविक और अजैविक अपशिष्ट निकलता है। यदि हम सही तरह से अपशिष्ट का निस्तारण नही करते है। तो हमारे स्वास्थ्य पर इसके गभींर नतीजे पड़ते है और सामाजिक समस्याऐ भी हो सकती है। घर के परिप्रक्ष्य मे अपशिष्ट तीन प्रकार का होता हैं",
           "जैविक अपशिष्ट जब यह अपशिष्ट जमा हो जाता है तो इसमे चीटियों, तिलचटटो, मच्छर और चूहे गिलहरी आदि के लिऐ प्रजनन का मैदान बन जाता है। जो कई स्वास्थ्य समस्याओ को जन्म देता है।",
@@ -2828,9 +2396,7 @@
       }
     ],
     "subtitle": "",
-    "tags": [
-      "घरेलू अपशिष्ट"
-    ]
+    "tags": ["घरेलू अपशिष्ट"]
   },
   {
     "active": true,
@@ -2849,10 +2415,7 @@
       }
     ],
     "subtitle": "",
-    "tags": [
-      "घरेलू अपशिष्ट",
-      "परामर्श/कौन्सिलिंग"
-    ]
+    "tags": ["घरेलू अपशिष्ट", "परामर्श/कौन्सिलिंग"]
   },
   {
     "active": true,
@@ -2873,9 +2436,7 @@
       }
     ],
     "subtitle": "",
-    "tags": [
-      "माहवारी"
-    ]
+    "tags": ["माहवारी"]
   },
   {
     "active": true,
@@ -2897,9 +2458,7 @@
       }
     ],
     "subtitle": "",
-    "tags": [
-      "माहवारी"
-    ]
+    "tags": ["माहवारी"]
   },
   {
     "active": true,
@@ -2919,9 +2478,7 @@
       }
     ],
     "subtitle": "",
-    "tags": [
-      "माहवारी"
-    ]
+    "tags": ["माहवारी"]
   },
   {
     "active": true,
@@ -2944,9 +2501,7 @@
       }
     ],
     "subtitle": "",
-    "tags": [
-      "माहवारी"
-    ]
+    "tags": ["माहवारी"]
   },
   {
     "active": true,
@@ -2992,9 +2547,7 @@
       }
     ],
     "subtitle": "",
-    "tags": [
-      "क्षय रोग या टीबी"
-    ]
+    "tags": ["क्षय रोग या टीबी"]
   },
   {
     "active": true,
@@ -3016,9 +2569,7 @@
       }
     ],
     "subtitle": "",
-    "tags": [
-      "क्षय रोग या टीबी"
-    ]
+    "tags": ["क्षय रोग या टीबी"]
   },
   {
     "active": true,
@@ -3030,15 +2581,11 @@
     "data": [
       {
         "type": "list",
-        "content": [
-          "यदि समय पर पूरा और सही इलाज लिया जाऐ तो क्षय रोग का इलाज लगभग पूरी तरह संभव है"
-        ]
+        "content": ["यदि समय पर पूरा और सही इलाज लिया जाऐ तो क्षय रोग का इलाज लगभग पूरी तरह संभव है"]
       }
     ],
     "subtitle": "",
-    "tags": [
-      "क्षय रोग या टीबी"
-    ]
+    "tags": ["क्षय रोग या टीबी"]
   },
   {
     "active": true,
@@ -3061,9 +2608,7 @@
       }
     ],
     "subtitle": "",
-    "tags": [
-      "क्षय रोग या टीबी"
-    ]
+    "tags": ["क्षय रोग या टीबी"]
   },
   {
     "active": true,
@@ -3087,10 +2632,7 @@
       }
     ],
     "subtitle": "",
-    "tags": [
-      "क्षय रोग या टीबी",
-      "परामर्श/कौन्सिलिंग"
-    ]
+    "tags": ["क्षय रोग या टीबी", "परामर्श/कौन्सिलिंग"]
   },
   {
     "active": true,
@@ -3156,19 +2698,11 @@
     "data": [
       {
         "type": "list",
-        "content": [
-          "उच्च रक्तचाप",
-          "मधुमेह",
-          "दिल की बीमारी",
-          "कैंसर",
-          "सांस की बीमारियां"
-        ]
+        "content": ["उच्च रक्तचाप", "मधुमेह", "दिल की बीमारी", "कैंसर", "सांस की बीमारियां"]
       },
       {
         "type": "image",
-        "content": [
-          "module-1-topic-1-slide-4.png"
-        ]
+        "content": ["module-1-topic-1-slide-4.png"]
       }
     ],
     "subtitle": "",
@@ -3198,9 +2732,7 @@
       },
       {
         "type": "image",
-        "content": [
-          "module-1-topic-1-slide-4.png"
-        ]
+        "content": ["module-1-topic-1-slide-4.png"]
       }
     ],
     "subtitle": "",
@@ -3228,9 +2760,7 @@
       },
       {
         "type": "image",
-        "content": [
-          "module-1-topic-1-slide-4.png"
-        ]
+        "content": ["module-1-topic-1-slide-4.png"]
       }
     ],
     "subtitle": "",
@@ -3246,9 +2776,7 @@
     "data": [
       {
         "type": "image",
-        "content": [
-          "module-1-topic-1-slide-4.png"
-        ]
+        "content": ["module-1-topic-1-slide-4.png"]
       }
     ],
     "subtitle": "",
@@ -3264,24 +2792,15 @@
     "data": [
       {
         "type": "list",
-        "content": [
-          "साधारण उच्च रक्तचाप",
-          "गर्भावस्था में उच्च रक्तचाप",
-          "प्री-एक्लम्पसिया / एक्लम्पसिया / दौरे पडना",
-          "उच्च रक्तचाप बना रहना"
-        ]
+        "content": ["साधारण उच्च रक्तचाप", "गर्भावस्था में उच्च रक्तचाप", "प्री-एक्लम्पसिया / एक्लम्पसिया / दौरे पडना", "उच्च रक्तचाप बना रहना"]
       },
       {
         "type": "image",
-        "content": [
-          "module-1-topic-1-slide-4.png"
-        ]
+        "content": ["module-1-topic-1-slide-4.png"]
       }
     ],
     "subtitle": "",
-    "tags": [
-      "गैर संचारित रोग, उच्च रक्तचाप"
-    ]
+    "tags": ["गैर संचारित रोग, उच्च रक्तचाप"]
   },
   {
     "active": true,
@@ -3293,15 +2812,11 @@
     "data": [
       {
         "type": "image",
-        "content": [
-          "module-1-topic-1-slide-4.png"
-        ]
+        "content": ["module-1-topic-1-slide-4.png"]
       }
     ],
     "subtitle": "यदि आपको दिये गये लक्षणे मे से कोई भी 2 या दो से अधिक लक्षण दिखते हैं तो आपको उच्च रक्तचाप हो सकता है।",
-    "tags": [
-      "गैर संचारित रोग, उच्च रक्तचाप"
-    ]
+    "tags": ["गैर संचारित रोग, उच्च रक्तचाप"]
   },
   {
     "active": true,
@@ -3338,9 +2853,7 @@
       }
     ],
     "subtitle": "",
-    "tags": [
-      "गैर संचारित रोग, उच्च रक्तचाप"
-    ]
+    "tags": ["गैर संचारित रोग, उच्च रक्तचाप"]
   },
   {
     "active": true,
@@ -3359,9 +2872,7 @@
       }
     ],
     "subtitle": "",
-    "tags": [
-      "गैर संचारित रोग, उच्च रक्तचाप"
-    ]
+    "tags": ["गैर संचारित रोग, उच्च रक्तचाप"]
   },
   {
     "active": true,
@@ -3373,22 +2884,15 @@
     "data": [
       {
         "type": "list",
-        "content": [
-          "पक्षाघात ;स्ट्रोकद्ध/लकवा",
-          "दिल का दौरा"
-        ]
+        "content": ["पक्षाघात ;स्ट्रोकद्ध/लकवा", "दिल का दौरा"]
       },
       {
         "type": "image",
-        "content": [
-          "module-1-topic-1-slide-4.png"
-        ]
+        "content": ["module-1-topic-1-slide-4.png"]
       }
     ],
     "subtitle": "",
-    "tags": [
-      "गैर संचारित रोग, उच्च रक्तचाप"
-    ]
+    "tags": ["गैर संचारित रोग, उच्च रक्तचाप"]
   },
   {
     "active": true,
@@ -3410,15 +2914,11 @@
       },
       {
         "type": "image",
-        "content": [
-          "module-1-topic-1-slide-4.png"
-        ]
+        "content": ["module-1-topic-1-slide-4.png"]
       }
     ],
     "subtitle": "",
-    "tags": [
-      "गैर संचारित रोग, उच्च रक्तचाप"
-    ]
+    "tags": ["गैर संचारित रोग, उच्च रक्तचाप"]
   },
   {
     "active": true,
@@ -3430,15 +2930,11 @@
     "data": [
       {
         "type": "image",
-        "content": [
-          "module-1-topic-1-slide-4.png"
-        ]
+        "content": ["module-1-topic-1-slide-4.png"]
       }
     ],
     "subtitle": "",
-    "tags": [
-      "गैर संचारित रोग, दिल की बिमारियाँ"
-    ]
+    "tags": ["गैर संचारित रोग, दिल की बिमारियाँ"]
   },
   {
     "active": true,
@@ -3450,26 +2946,15 @@
     "data": [
       {
         "type": "list",
-        "content": [
-          "उच्च रक्तचाप",
-          "मधुमेह",
-          "शराब का अत्यधिक सेवन",
-          "अस्वास्थ्यकर भोजन",
-          "धूम्रपान",
-          "वजन ज्यादा होना"
-        ]
+        "content": ["उच्च रक्तचाप", "मधुमेह", "शराब का अत्यधिक सेवन", "अस्वास्थ्यकर भोजन", "धूम्रपान", "वजन ज्यादा होना"]
       },
       {
         "type": "image",
-        "content": [
-          "module-1-topic-1-slide-4.png"
-        ]
+        "content": ["module-1-topic-1-slide-4.png"]
       }
     ],
     "subtitle": "",
-    "tags": [
-      "गैर संचारित रोग, दिल की बिमारियाँ"
-    ]
+    "tags": ["गैर संचारित रोग, दिल की बिमारियाँ"]
   },
   {
     "active": true,
@@ -3481,24 +2966,15 @@
     "data": [
       {
         "type": "list",
-        "content": [
-          "शरीर के एक हिस्से का सुन्न होना",
-          "मस्तिष्क में रक्त की कमी के कारण"
-        ]
+        "content": ["शरीर के एक हिस्से का सुन्न होना", "मस्तिष्क में रक्त की कमी के कारण"]
       },
       {
         "type": "image",
-        "content": [
-          "module-1-topic-1-slide-4.png",
-          "module-1-topic-1-slide-4.png",
-          "module-1-topic-1-slide-4.png"
-        ]
+        "content": ["module-1-topic-1-slide-4.png", "module-1-topic-1-slide-4.png", "module-1-topic-1-slide-4.png"]
       }
     ],
     "subtitle": "",
-    "tags": [
-      "गैर संचारित रोग, दिल की बिमारियाँ"
-    ]
+    "tags": ["गैर संचारित रोग, दिल की बिमारियाँ"]
   },
   {
     "active": true,
@@ -3510,16 +2986,11 @@
     "data": [
       {
         "type": "content",
-        "content": [
-          "module-1-topic-1-slide-4.png",
-          "module-1-topic-1-slide-4.png"
-        ]
+        "content": ["module-1-topic-1-slide-4.png", "module-1-topic-1-slide-4.png"]
       }
     ],
     "subtitle": "होने के जोखिम के कारण",
-    "tags": [
-      "गैर संचारित रोग, दिल की बिमारियाँ"
-    ]
+    "tags": ["गैर संचारित रोग, दिल की बिमारियाँ"]
   },
   {
     "active": true,
@@ -3542,15 +3013,11 @@
       },
       {
         "type": "image",
-        "content": [
-          "module-1-topic-1-slide-4.png"
-        ]
+        "content": ["module-1-topic-1-slide-4.png"]
       }
     ],
     "subtitle": "",
-    "tags": [
-      "गैर संचारित रोग, दिल की बिमारियाँ"
-    ]
+    "tags": ["गैर संचारित रोग, दिल की बिमारियाँ"]
   },
   {
     "active": true,
@@ -3573,15 +3040,11 @@
       },
       {
         "type": "image",
-        "content": [
-          "module-1-topic-1-slide-4.png"
-        ]
+        "content": ["module-1-topic-1-slide-4.png"]
       }
     ],
     "subtitle": "",
-    "tags": [
-      "गैर संचारित रोग, दिल की बिमारियाँ"
-    ]
+    "tags": ["गैर संचारित रोग, दिल की बिमारियाँ"]
   },
   {
     "active": true,
@@ -3593,24 +3056,15 @@
     "data": [
       {
         "type": "list",
-        "content": [
-          "प्रकार 1",
-          "प्रकार 2",
-          "गर्भावस्था के दौरान मधुमेह"
-        ]
+        "content": ["प्रकार 1", "प्रकार 2", "गर्भावस्था के दौरान मधुमेह"]
       },
       {
         "type": "image",
-        "content": [
-          "module-1-topic-1-slide-4.png"
-        ]
+        "content": ["module-1-topic-1-slide-4.png"]
       }
     ],
     "subtitle": "प्रकार",
-    "tags": [
-      "गैर संचारित रोग",
-      "मधुमेह"
-    ]
+    "tags": ["गैर संचारित रोग", "मधुमेह"]
   },
   {
     "active": true,
@@ -3622,23 +3076,15 @@
     "data": [
       {
         "type": "list",
-        "content": [
-          "शरीर में इंसुलिन का बनना बन्द हो जाता है",
-          "आमतौर पर यह बच्चों या युवाओं में देखा जाता है"
-        ]
+        "content": ["शरीर में इंसुलिन का बनना बन्द हो जाता है", "आमतौर पर यह बच्चों या युवाओं में देखा जाता है"]
       },
       {
         "type": "image",
-        "content": [
-          "module-1-topic-1-slide-4.png"
-        ]
+        "content": ["module-1-topic-1-slide-4.png"]
       }
     ],
     "subtitle": "",
-    "tags": [
-      "गैर संचारित रोग",
-      "मधुमेह"
-    ]
+    "tags": ["गैर संचारित रोग", "मधुमेह"]
   },
   {
     "active": true,
@@ -3658,16 +3104,11 @@
       },
       {
         "type": "image",
-        "content": [
-          "module-1-topic-1-slide-4.png"
-        ]
+        "content": ["module-1-topic-1-slide-4.png"]
       }
     ],
     "subtitle": "",
-    "tags": [
-      "गैर संचारित रोग",
-      "मधुमेह"
-    ]
+    "tags": ["गैर संचारित रोग", "मधुमेह"]
   },
   {
     "active": true,
@@ -3679,23 +3120,15 @@
     "data": [
       {
         "type": "list",
-        "content": [
-          "यह महिलाओं में गर्भावस्था के दौरान होता है",
-          "गर्भावस्था के दौरान जटिलताओं का जोखिम बढ़ जाती है"
-        ]
+        "content": ["यह महिलाओं में गर्भावस्था के दौरान होता है", "गर्भावस्था के दौरान जटिलताओं का जोखिम बढ़ जाती है"]
       },
       {
         "type": "image",
-        "content": [
-          "module-1-topic-1-slide-4.png"
-        ]
+        "content": ["module-1-topic-1-slide-4.png"]
       }
     ],
     "subtitle": "",
-    "tags": [
-      "गैर संचारित रोग",
-      "मधुमेह"
-    ]
+    "tags": ["गैर संचारित रोग", "मधुमेह"]
   },
   {
     "active": true,
@@ -3707,23 +3140,15 @@
     "data": [
       {
         "type": "list",
-        "content": [
-          "गर्भाधारण से पहले उसका वजन थोडा ज्यादा था।",
-          "उसके घर मे किसी का भी मधुमेह का इतिहास नही है। "
-        ]
+        "content": ["गर्भाधारण से पहले उसका वजन थोडा ज्यादा था।", "उसके घर मे किसी का भी मधुमेह का इतिहास नही है। "]
       },
       {
         "type": "image",
-        "content": [
-          "module-1-topic-1-slide-4.png"
-        ]
+        "content": ["module-1-topic-1-slide-4.png"]
       }
     ],
     "subtitle": "ललिता जब अपनी 24 सप्ताह की गर्भावस्था मे थी तब उसकी मधुमेह के रोगी के रूप मे पहचान हुई थी ",
-    "tags": [
-      "गैर संचारित रोग",
-      "मधुमेह"
-    ]
+    "tags": ["गैर संचारित रोग", "मधुमेह"]
   },
   {
     "active": true,
@@ -3735,16 +3160,11 @@
     "data": [
       {
         "type": "image",
-        "content": [
-          "module-1-topic-1-slide-4.png"
-        ]
+        "content": ["module-1-topic-1-slide-4.png"]
       }
     ],
     "subtitle": "7 मुख्य कारण",
-    "tags": [
-      "गैर संचारित रोग",
-      "मधुमेह"
-    ]
+    "tags": ["गैर संचारित रोग", "मधुमेह"]
   },
   {
     "active": true,
@@ -3763,16 +3183,11 @@
       },
       {
         "type": "image",
-        "content": [
-          "module-1-topic-1-slide-4.png"
-        ]
+        "content": ["module-1-topic-1-slide-4.png"]
       }
     ],
     "subtitle": "ललिता जब अपनी 24 सप्ताह की गर्भावस्था मे थी तब उसकी मधुमेह के रोगी के रूप मे पहचान हुई थी ",
-    "tags": [
-      "गैर संचारित रोग",
-      "मधुमेह"
-    ]
+    "tags": ["गैर संचारित रोग", "मधुमेह"]
   },
   {
     "active": true,
@@ -3784,9 +3199,7 @@
     "data": [
       {
         "type": "image",
-        "content": [
-          "module-1-topic-1-slide-4.png"
-        ]
+        "content": ["module-1-topic-1-slide-4.png"]
       }
     ],
     "subtitle": "",
@@ -3833,10 +3246,7 @@
       }
     ],
     "subtitle": "प्रकार",
-    "tags": [
-      "गैर संचारित रोग",
-      "कैंसर"
-    ]
+    "tags": ["गैर संचारित रोग", "कैंसर"]
   },
   {
     "active": true,
@@ -3848,17 +3258,11 @@
     "data": [
       {
         "type": "image",
-        "content": [
-          "module-1-topic-1-slide-4.png"
-        ]
+        "content": ["module-1-topic-1-slide-4.png"]
       }
     ],
     "subtitle": "",
-    "tags": [
-      "गैर संचारित रोग",
-      "कैंसर",
-      "योनि-ग्रीवा का कैंसर"
-    ]
+    "tags": ["गैर संचारित रोग", "कैंसर", "योनि-ग्रीवा का कैंसर"]
   },
   {
     "active": true,
@@ -3870,17 +3274,11 @@
     "data": [
       {
         "type": "image",
-        "content": [
-          "module-1-topic-1-slide-4.png"
-        ]
+        "content": ["module-1-topic-1-slide-4.png"]
       }
     ],
     "subtitle": "",
-    "tags": [
-      "गैर संचारित रोग",
-      "कैंसर",
-      "योनि-ग्रीवा का कैंसर"
-    ]
+    "tags": ["गैर संचारित रोग", "कैंसर", "योनि-ग्रीवा का कैंसर"]
   },
   {
     "active": true,
@@ -3892,17 +3290,11 @@
     "data": [
       {
         "type": "image",
-        "content": [
-          "module-1-topic-1-slide-4.png"
-        ]
+        "content": ["module-1-topic-1-slide-4.png"]
       }
     ],
     "subtitle": "",
-    "tags": [
-      "गैर संचारित रोग",
-      "कैंसर",
-      "स्तन कैंसर"
-    ]
+    "tags": ["गैर संचारित रोग", "कैंसर", "स्तन कैंसर"]
   },
   {
     "active": true,
@@ -3914,17 +3306,11 @@
     "data": [
       {
         "type": "image",
-        "content": [
-          "module-1-topic-1-slide-4.png"
-        ]
+        "content": ["module-1-topic-1-slide-4.png"]
       }
     ],
     "subtitle": "",
-    "tags": [
-      "गैर संचारित रोग",
-      "कैंसर",
-      "स्तन कैंसर"
-    ]
+    "tags": ["गैर संचारित रोग", "कैंसर", "स्तन कैंसर"]
   },
   {
     "active": true,
@@ -3944,11 +3330,7 @@
       }
     ],
     "subtitle": "",
-    "tags": [
-      "गैर संचारित रोग",
-      "कैंसर",
-      "स्तन कैंसर"
-    ]
+    "tags": ["गैर संचारित रोग", "कैंसर", "स्तन कैंसर"]
   },
   {
     "active": true,
@@ -3960,17 +3342,11 @@
     "data": [
       {
         "type": "image",
-        "content": [
-          "module-1-topic-1-slide-4.png"
-        ]
+        "content": ["module-1-topic-1-slide-4.png"]
       }
     ],
     "subtitle": "",
-    "tags": [
-      "गैर संचारित रोग",
-      "कैंसर",
-      "स्तन कैंसर"
-    ]
+    "tags": ["गैर संचारित रोग", "कैंसर", "स्तन कैंसर"]
   },
   {
     "active": true,
@@ -3982,17 +3358,11 @@
     "data": [
       {
         "type": "image",
-        "content": [
-          "module-1-topic-1-slide-4.png"
-        ]
+        "content": ["module-1-topic-1-slide-4.png"]
       }
     ],
     "subtitle": "",
-    "tags": [
-      "गैर संचारित रोग",
-      "कैंसर",
-      "स्तन कैंसर"
-    ]
+    "tags": ["गैर संचारित रोग", "कैंसर", "स्तन कैंसर"]
   },
   {
     "active": true,
@@ -4004,17 +3374,11 @@
     "data": [
       {
         "type": "image",
-        "content": [
-          "module-1-topic-1-slide-4.png"
-        ]
+        "content": ["module-1-topic-1-slide-4.png"]
       }
     ],
     "subtitle": "",
-    "tags": [
-      "गैर संचारित रोग",
-      "मुँह के कैंसर",
-      "कैंसर"
-    ]
+    "tags": ["गैर संचारित रोग", "मुँह के कैंसर", "कैंसर"]
   },
   {
     "active": true,
@@ -4026,17 +3390,11 @@
     "data": [
       {
         "type": "image",
-        "content": [
-          "module-1-topic-1-slide-4.png"
-        ]
+        "content": ["module-1-topic-1-slide-4.png"]
       }
     ],
     "subtitle": "यदि आप अपनी 3 अगुलिंयों को खडी अवस्था मे अपने मुह मे डाल सकते है तो आपका मुह स्वास्थ है।",
-    "tags": [
-      "गैर संचारित रोग",
-      "मुँह के कैंसर",
-      "कैंसर"
-    ]
+    "tags": ["गैर संचारित रोग", "मुँह के कैंसर", "कैंसर"]
   },
   {
     "active": true,
@@ -4048,18 +3406,11 @@
     "data": [
       {
         "type": "list",
-        "content": [
-          "मुह के कैंसर के क्या लक्षण होते है।",
-          "आपको मुँह का कैंसर नही है। उसका एकदम सही और सटीक लक्षण क्या हैं"
-        ]
+        "content": ["मुह के कैंसर के क्या लक्षण होते है।", "आपको मुँह का कैंसर नही है। उसका एकदम सही और सटीक लक्षण क्या हैं"]
       }
     ],
     "subtitle": "यदि आप अपनी 3 अगुलिंयों को खडी अवस्था मे अपने मुह मे डाल सकते है तो आपका मुह स्वास्थ है।",
-    "tags": [
-      "गैर संचारित रोग",
-      "मुँह के कैंसर",
-      "कैंसर"
-    ]
+    "tags": ["गैर संचारित रोग", "मुँह के कैंसर", "कैंसर"]
   },
   {
     "active": true,
@@ -4071,9 +3422,7 @@
     "data": [
       {
         "type": "image",
-        "content": [
-          "module-1-topic-1-slide-4.png"
-        ]
+        "content": ["module-1-topic-1-slide-4.png"]
       }
     ],
     "subtitle": "निम्न का मिलान करे",
@@ -4089,16 +3438,11 @@
     "data": [
       {
         "type": "image",
-        "content": [
-          "module-1-topic-1-slide-4.png"
-        ]
+        "content": ["module-1-topic-1-slide-4.png"]
       }
     ],
     "subtitle": "",
-    "tags": [
-      "गैर संचारित रोग",
-      "परामर्श/कौन्सिलिंग"
-    ]
+    "tags": ["गैर संचारित रोग", "परामर्श/कौन्सिलिंग"]
   },
   {
     "active": true,
@@ -4122,9 +3466,6 @@
       }
     ],
     "subtitle": "",
-    "tags": [
-      "गैर संचारित रोग",
-      "परामर्श/कौन्सिलिंग"
-    ]
+    "tags": ["गैर संचारित रोग", "परामर्श/कौन्सिलिंग"]
   }
 ]
