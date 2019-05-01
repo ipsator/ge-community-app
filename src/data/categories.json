@@ -1,0 +1,92 @@
+{
+  "documents": [
+    {
+      "name": "projects/ipsator-ge-test-app/databases/(default)/documents/categories/9Zbj5oJ2zeAXjZAAcShd",
+      "fields": {
+        "name": {
+          "stringValue": "विशेष जरूरतों वाली महिलाएँ"
+        },
+        "created": {
+          "integerValue": "1556262155639"
+        },
+        "cover": {
+          "stringValue": "https://i.imgur.com/xs8D9wZ.png"
+        },
+        "updated": {
+          "integerValue": "1556262155639"
+        },
+        "active": {
+          "booleanValue": true
+        }
+      },
+      "createTime": "2019-04-26T07:02:34.430845Z",
+      "updateTime": "2019-04-26T07:02:34.430845Z"
+    },
+    {
+      "name": "projects/ipsator-ge-test-app/databases/(default)/documents/categories/SNiCHJ7i4U6yhsd598De",
+      "fields": {
+        "cover": {
+          "stringValue": "https://i.imgur.com/xs8D9wZ.png"
+        },
+        "updated": {
+          "integerValue": "1556262155629"
+        },
+        "active": {
+          "booleanValue": true
+        },
+        "name": {
+          "stringValue": "जननी एवं नवजात शिशु की देखभाल"
+        },
+        "created": {
+          "integerValue": "1556262155629"
+        }
+      },
+      "createTime": "2019-04-26T07:02:34.021495Z",
+      "updateTime": "2019-04-26T07:02:34.021495Z"
+    },
+    {
+      "name": "projects/ipsator-ge-test-app/databases/(default)/documents/categories/d8BUHfMvEgofMIOC7QT0",
+      "fields": {
+        "cover": {
+          "stringValue": "https://i.imgur.com/xs8D9wZ.png"
+        },
+        "updated": {
+          "integerValue": "1556262155639"
+        },
+        "active": {
+          "booleanValue": true
+        },
+        "name": {
+          "stringValue": "गैर संचारित रोग / एनसीडी की रोकथाम"
+        },
+        "created": {
+          "integerValue": "1556262155639"
+        }
+      },
+      "createTime": "2019-04-26T07:02:35.207453Z",
+      "updateTime": "2019-04-26T07:02:35.207453Z"
+    },
+    {
+      "name": "projects/ipsator-ge-test-app/databases/(default)/documents/categories/xzffsr52CN0CdAyDRtCf",
+      "fields": {
+        "active": {
+          "booleanValue": true
+        },
+        "name": {
+          "stringValue": "संक्रमण की रोकथाम"
+        },
+        "created": {
+          "integerValue": "1556262155639"
+        },
+        "cover": {
+          "stringValue": "https://i.imgur.com/xs8D9wZ.png"
+        },
+        "updated": {
+          "integerValue": "1556262155639"
+        }
+      },
+      "createTime": "2019-04-26T07:02:34.755097Z",
+      "updateTime": "2019-04-26T07:02:34.755097Z"
+    }
+  ]
+}
