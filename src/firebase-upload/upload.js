@@ -1,9 +1,12 @@
 //import { GetDb } from init-firebase.js
 const { GetDb } = require("./init-firebase")
 const fs = require("fs")
+const path = require("path")
 
 // Add a new document in collection "cities"
+
 function uploadData(collectionName, data) {
+  //console.log("data--", data)
   let docrefId = ""
   var db = GetDb()
   let id = db
@@ -18,7 +21,6 @@ function uploadData(collectionName, data) {
     })
   return id
 }
-
 function readCategories() {
   const topicsInModule = [6, 4, 7, 6]
   const categoryName = ["जननी एवं नवजात शिशु की देखभाल", "विशेष जरूरतों वाली महिलाएँ", "संक्रमण की रोकथाम", "गैर संचारित रोग / एनसीडी की रोकथाम"]
@@ -38,25 +40,25 @@ function readCategories() {
     category.updated = Date.now()
 
     uploadData("categories", category).then(categoryId => {
-      console.log("i:", i)
       module = i + 1
       console.log("category id-------------", categoryId)
       for (let j = 0; j < topicsInModule[i]; j++) {
         console.log("src/data/module" + module + "/topic" + j + ".json")
-        let rawdata = fs.readFileSync("src/data/module" + module + "/topic" + j + ".json")
+        let rawdata = fs.readFileSync("src/data/module" + 1 + "/topic" + 1 + ".json")
         let topic = JSON.parse(rawdata)
         readAndUploadTopics(topic, categoryId)
+        break
       }
     })
     if (module === 4) {
       break
     }
     module++
+    break
   }
 }
 
 function readAndUploadTopics(topicData, categoryId) {
-  console.log("topic...")
   let topic = {
     active: true,
     category: "",
@@ -97,12 +99,46 @@ function readAndUploadArticles(topicId, slides) {
     article.topic = topicId
     article.data = slide.data
     article.subtitle = slide.subtitle ? slide.subtitle : ""
-    article.tags = slide.tags ? slide.tags : []
+    article.tags = uploadtags(slide)
     //console.log("category name:", category);
-    uploadData("articles", article).then(topicId => {
-      console.log("topicId----", topicId)
-    })
+    // uploadData("articles", article).then(topicId => {
+    //   console.log("topicId----", topicId)
+    // })
   }
 }
+//static\data\tags.json
+const uploadtags = () => {
+  allTags = []
+  let tag = {
+    active: true,
+    created: "",
+    name: "",
+  }
+  tagObj = { id: "", name: "" }
+  let tags = fs.readFileSync("static/data/taglist" + ".json")
+  tags = JSON.parse(tags)
 
-readCategories()
+  tags.map(tagName => {
+    tag.created = Date.now()
+    tag.name = tagName
+    tag.updated = Date.now()
+    obj = uploadData("tags", tag).then(tagId => {
+      tagObj.id = tagId
+      tagObj.name = tagName
+      return tagObj
+    })
+    allTags.push(obj)
+  })
+  return allTags
+}
+
+getTags = () => {
+  Promise.all(uploadtags()).then(values => {
+    saveData(values, "tagWithId.json")
+  })
+}
+
+const saveData = (data, filename) => {
+  fs.writeFileSync(path.join(__dirname, filename), JSON.stringify(data, undefined, 2), "utf8")
+}
+getTags()

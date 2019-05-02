@@ -65,11 +65,11 @@ const readCategories = () => {
       }
     })
   })
-  saveData(categoriesData, "../../static/data/categories.json")
-  saveData(topicData, "../../static/data/topics.json")
-  saveData(articleData, "../../static/data/articles.json")
+  //saveData(categoriesData, "../../static/data/categories.json")
+  //saveData(topicData, "../../static/data/topics.json")
+  //saveData(articleData, "../../static/data/articles.json")
   saveData([...new Set(tags)], "../../static/data/taglist.json")
-  saveData([...new Set(images)], "../../static/data/images.json")
+  //saveData([...new Set(images)], "../../static/data/images.json")
 }
 
 const getArticles = (topicInfo, topicId) => {

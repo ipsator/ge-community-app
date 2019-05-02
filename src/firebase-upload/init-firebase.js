@@ -10,11 +10,11 @@ require("firebase/firestore")
 exports.GetDb = () => {
   const firebaseConfig = {
     apiKey: "AIzaSyCvqJVieqi_f_rUp9i9GPZqbg0j-gXhGi0",
-    authDomain: "ipsator-ge-test-app.firebaseapp.com",
-    databaseURL: "https://ipsator-ge-test-app.firebaseio.com",
-    projectId: "ipsator-ge-test-app",
-    storageBucket: "ipsator-ge-test-app.appspot.com",
-    messagingSenderId: "877691189408",
+    authDomain: "dummy-project-a80b4.firebaseapp.com",
+    databaseURL: "https://dummy-project-a80b4.firebaseio.com",
+    projectId: "dummy-project-a80b4",
+    storageBucket: "dummy-project-a80b4.appspot.com",
+    messagingSenderId: "972399568038",
   }
 
   // Initialize Firebase
