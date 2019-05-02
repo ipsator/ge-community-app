@@ -100,42 +100,36 @@ function readAndUploadArticles(topicId, slides) {
     article.data = slide.data
     article.subtitle = slide.subtitle ? slide.subtitle : ""
     article.tags = uploadtags(slide)
-    //console.log("category name:", category);
-    // uploadData("articles", article).then(topicId => {
-    //   console.log("topicId----", topicId)
-    // })
   }
 }
-//static\data\tags.json
-const uploadtags = () => {
-  allTags = []
-  let tag = {
-    active: true,
-    created: "",
-    name: "",
-  }
-  tagObj = { id: "", name: "" }
+const uploadtags = async () => {
+  let tagArr = []
+
   let tags = fs.readFileSync("static/data/taglist" + ".json")
   tags = JSON.parse(tags)
 
-  tags.map(tagName => {
+  for (tagName of tags) {
+    let tagObj = { id: String, name: String }
+    let tag = { active: true, created: String, name: String }
+
     tag.created = Date.now()
     tag.name = tagName
     tag.updated = Date.now()
-    obj = uploadData("tags", tag).then(tagId => {
-      tagObj.id = tagId
-      tagObj.name = tagName
-      return tagObj
-    })
-    allTags.push(obj)
-  })
-  return allTags
+
+    let tagId = await uploadData("tags", tag)
+    tagObj.id = tagId
+    tagObj.name = tagName
+    console.log("tagObj--", tagObj)
+    tagArr.push(tagObj)
+  }
+  console.log("tag arr--", tagArr)
+  return tagArr
 }
 
-getTags = () => {
-  Promise.all(uploadtags()).then(values => {
-    saveData(values, "tagWithId.json")
-  })
+getTags = async () => {
+  let allTags = await uploadtags()
+  saveData(allTags, "tagWithId.json")
+  //console.log("all Tags--", allTags)
 }
 
 const saveData = (data, filename) => {
