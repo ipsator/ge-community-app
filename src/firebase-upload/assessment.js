@@ -1,13 +1,10 @@
-//import { GetDb } from init-firebase.js
 const { GetDb } = require("./init-firebase")
 const fs = require("fs")
 const path = require("path")
 // Add a new document in collection "cities"
 
 function uploadData(collectionName, data) {
-  console.log("data--", data)
-  let docrefId = ""
-  var db = GetDb()
+  let db = GetDb()
   let id = db
     .collection(collectionName)
     .add(data)
@@ -34,10 +31,10 @@ const uploadAssessment = async () => {
   question = {
     active: true,
     answer: 0,
-    created: "",
-    updated: "",
+    created: String,
+    updated: String,
     options: [],
-    question: "",
+    question: String,
   }
   for (let j = 0; j < assessmentData.questions.length; j++) {
     console.log(assessmentData.questions[j])

@@ -9,12 +9,19 @@ require("firebase/firestore")
 // TODO: Replace the following with your app's Firebase project configuration
 exports.GetDb = () => {
   const firebaseConfig = {
-    apiKey: "AIzaSyCvqJVieqi_f_rUp9i9GPZqbg0j-gXhGi0",
+    // apiKey: "AIzaSyCvqJVieqi_f_rUp9i9GPZqbg0j-gXhGi0",
+    // authDomain: "dummy-project-a80b4.firebaseapp.com",
+    // databaseURL: "https://dummy-project-a80b4.firebaseio.com",
+    // projectId: "dummy-project-a80b4",
+    // storageBucket: "dummy-project-a80b4.appspot.com",
+    // messagingSenderId: "972399568038",
+
+    apiKey: "AIzaSyAaXa-8Cie29bo6blE72MUl1chXaBim1BM",
     authDomain: "dummy-project-a80b4.firebaseapp.com",
-    databaseURL: "https://dummy-project-a80b4.firebaseio.com",
-    projectId: "dummy-project-a80b4",
-    storageBucket: "dummy-project-a80b4.appspot.com",
-    messagingSenderId: "972399568038",
+    databaseURL: "https://ipsator-ge-test-app.firebaseio.com",
+    projectId: "ipsator-ge-test-app",
+    storageBucket: "ipsator-ge-test-app.appspot.com",
+    messagingSenderId: "877691189408",
   }
 
   // Initialize Firebase

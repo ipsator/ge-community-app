@@ -6,8 +6,7 @@ const path = require("path")
 // Add a new document in collection "cities"
 
 function uploadData(collectionName, data) {
-  //console.log("data--", data)
-  let docrefId = ""
+  console.log("data--", data)
   var db = GetDb()
   let id = db
     .collection(collectionName)
@@ -41,20 +40,16 @@ function readCategories() {
 
     uploadData("categories", category).then(categoryId => {
       module = i + 1
-      console.log("category id-------------", categoryId)
       for (let j = 0; j < topicsInModule[i]; j++) {
-        console.log("src/data/module" + module + "/topic" + j + ".json")
-        let rawdata = fs.readFileSync("src/data/module" + 1 + "/topic" + 1 + ".json")
+        let rawdata = fs.readFileSync("src/data/module" + module + "/topic" + j + ".json")
         let topic = JSON.parse(rawdata)
         readAndUploadTopics(topic, categoryId)
-        break
       }
     })
     if (module === 4) {
       break
     }
     module++
-    break
   }
 }
 
@@ -99,9 +94,13 @@ function readAndUploadArticles(topicId, slides) {
     article.topic = topicId
     article.data = slide.data
     article.subtitle = slide.subtitle ? slide.subtitle : ""
-    article.tags = uploadtags(slide)
+    article.tags = getTagIds(slide.tags)
+    uploadData("articles", article).then(topicId => {
+      console.log("topicId----", topicId)
+    })
   }
 }
+
 const uploadtags = async () => {
   let tagArr = []
 
@@ -119,10 +118,8 @@ const uploadtags = async () => {
     let tagId = await uploadData("tags", tag)
     tagObj.id = tagId
     tagObj.name = tagName
-    console.log("tagObj--", tagObj)
     tagArr.push(tagObj)
   }
-  console.log("tag arr--", tagArr)
   return tagArr
 }
 
@@ -132,7 +129,25 @@ getTags = async () => {
   //console.log("all Tags--", allTags)
 }
 
+const getTagIds = tags => {
+  let allTags = fs.readFileSync("static/data/tagWithId" + ".json")
+  allTags = JSON.parse(allTags)
+  tagIds = []
+  if (tags) {
+    for (tagName of tags) {
+      let filteredTags = allTags.filter(tag => {
+        return tagName === tag.name
+      })
+      tagIds.push(filteredTags[0].id)
+    }
+  }
+  return tagIds
+}
+
 const saveData = (data, filename) => {
   fs.writeFileSync(path.join(__dirname, filename), JSON.stringify(data, undefined, 2), "utf8")
 }
-getTags()
+
+//getTags()
+
+readCategories()
