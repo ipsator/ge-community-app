@@ -21,6 +21,7 @@ function uploadData(collectionName, data) {
 const uploadAssessment = async () => {
   let rawdata = fs.readFileSync("static/data/assessment" + ".json")
   let assessmentData = JSON.parse(rawdata)
+  console.log("raw data---", assessmentData)
   assessment = {
     active: true,
     created: Date.now(),
@@ -47,7 +48,7 @@ const uploadAssessment = async () => {
     let quesId = await uploadData("questions", question)
     assessment.questions.push(quesId)
   }
-  await uploadData("assessment", assessment)
+  await uploadData("assessments", assessment)
 }
 
 uploadAssessment()

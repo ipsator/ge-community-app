@@ -123,7 +123,7 @@ const uploadtags = async () => {
   return tagArr
 }
 
-getTags = async () => {
+const getTags = async () => {
   let allTags = await uploadtags()
   saveData(allTags, "tagWithId.json")
   //console.log("all Tags--", allTags)
@@ -144,10 +144,21 @@ const getTagIds = tags => {
   return tagIds
 }
 
+const uploadImages = () => {
+  let allImages = fs.readFileSync("static/data/images" + ".json")
+  allImages = JSON.parse(allImages)
+
+  uploadData("images", allImages).then(imagesId => {
+    console.log("images id----", imagesId)
+  })
+}
+
 const saveData = (data, filename) => {
   fs.writeFileSync(path.join(__dirname, filename), JSON.stringify(data, undefined, 2), "utf8")
 }
 
 //getTags()
 
-readCategories()
+//readCategories()
+
+uploadImages()

@@ -8,7 +8,7 @@
       "data": [
         {
           "type": "image",
-          "content": ["https://ipsator.github.io/ge-community-app/images/module-1-topic-1-slide-4.png"]
+          "content": ["https://ipsator.github.io/ge-community-app/images/module-1-topic-1-slide-2.png"]
         }
       ],
       "slide": 2
@@ -19,7 +19,8 @@
       "tags": ["नवजात"],
       "data": [
         {
-          "content": ["https://ipsator.github.io/ge-community-app/images/module-1-topic-1-slide-4.png"]
+          "type": "image",
+          "content": ["https://ipsator.github.io/ge-community-app/images/module-1-topic-1-slide-3.png"]
         }
       ],
       "slide": 3
@@ -59,7 +60,7 @@
         },
         {
           "type": "image",
-          "content": ["https://ipsator.github.io/ge-community-app/images/module-1-topic-1-slide-4.png"]
+          "content": ["https://ipsator.github.io/ge-community-app/images/module-1-topic-1-slide-5.png"]
         }
       ],
       "slide": 5
@@ -72,7 +73,7 @@
       "data": [
         {
           "type": "image",
-          "content": ["https://ipsator.github.io/ge-community-app/images/module-1-topic-1-slide-4.png"]
+          "content": ["https://ipsator.github.io/ge-community-app/images/module-1-topic-1-slide-6.png"]
         },
         {
           "type": "list",
@@ -88,7 +89,7 @@
       "data": [
         {
           "type": "image",
-          "content": ["https://ipsator.github.io/ge-community-app/images/module-1-topic-1-slide-4.png"]
+          "content": ["https://ipsator.github.io/ge-community-app/images/module-1-topic-1-slide-6.png"]
         }
       ],
       "slide": 8
