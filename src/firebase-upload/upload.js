@@ -157,8 +157,8 @@ const saveData = (data, filename) => {
   fs.writeFileSync(path.join(__dirname, filename), JSON.stringify(data, undefined, 2), "utf8")
 }
 
-//getTags()
+getTags()
 
 //readCategories()
 
-uploadImages()
+//uploadImages()
