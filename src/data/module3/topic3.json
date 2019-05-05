@@ -1,6 +1,6 @@
 {
   "name": "मधुमेह के कारण पैर पर होनें वाले फोड़ों की देखभाल",
-  "image": ["https://ipsator.github.io/ge-community-app/images/module3/topic3/module-3-topic-3-slide-1.png"],
+  "cover": "https://ipsator.github.io/ge-community-app/images/module3/topic3/module-3-topic-3-slide-1.png",
   "slides": [
     {
       "name": "मधुमेह रोगी के पैर - एक परिचय",
@@ -24,6 +24,7 @@
       "subtitle": "",
       "type": "split",
       "tags": ["मधुमेह", "संक्रमण"],
+      "cover": "https://ipsator.github.io/ge-community-app/images/module3/topic3/module-3-topic-3-slide-3.png",
       "data": [
         {
           "type": "list",
@@ -57,6 +58,7 @@
     },
     {
       "name": "पैरो के फोड़ो को रोकने के लिए 4 आवश्यक बाते",
+      "cover": "https://ipsator.github.io/ge-community-app/images/module3/topic3/module-3-topic-3-slide-5-1.png",
       "subtitle": "",
       "type": "single",
       "tags": ["मधुमेह", "संक्रमण"],
@@ -76,6 +78,7 @@
     },
     {
       "name": "मधुमेह में पैरों की देखभाल",
+      "cover": "https://ipsator.github.io/ge-community-app/images/module3/topic3/module-3-topic-3-slide-6-1.png",
       "subtitle": "क्या करें",
       "tags": ["मधुमेह", "संक्रमण"],
       "type": "single",
@@ -94,6 +97,7 @@
     },
     {
       "name": "मधुमेह में पैरों की देखभाल",
+      "cover": "https://ipsator.github.io/ge-community-app/images/module3/topic3/module-3-topic-3-slide-7-1.png",
       "subtitle": "क्या न करें",
       "tags": ["मधुमेह", "संक्रमण"],
       "type": "single",

@@ -1,7 +1,6 @@
 {
   "name": "गर्भवती महिलाओं की विशेष आवश्यकताएं",
   "cover": "https://ipsator.github.io/ge-community-app/images/module1/topic5/module-1-topic-5-slide-1.png",
-
   "slides": [
     {
       "name": "आहार और आराम",
@@ -55,25 +54,12 @@
       "name": "अनुशंसित आहार",
       "subtitle": "",
       "type": "single",
-      "cover": "https://ipsator.github.io/ge-community-app/images/module1/topic5/module-1-topic-5-slide-5-1.png",
+      "cover": "https://ipsator.github.io/ge-community-app/images/module1/topic5/module-1-topic-5-slide-5.png",
       "tags": ["पोषण", "गर्भावस्था के दौरान देखभाल"],
       "data": [
         {
           "type": "image",
-          "content": [
-            "https://ipsator.github.io/ge-community-app/images/module1/topic5/module-1-topic-5-slide-5-1.png",
-            "https://ipsator.github.io/ge-community-app/images/module1/topic5/module-1-topic-5-slide-5-2.png",
-            "https://ipsator.github.io/ge-community-app/images/module1/topic5/module-1-topic-5-slide-5-3.png",
-            "https://ipsator.github.io/ge-community-app/images/module1/topic5/module-1-topic-5-slide-5-4.png",
-            "https://ipsator.github.io/ge-community-app/images/module1/topic5/module-1-topic-5-slide-5-5.png",
-            "https://ipsator.github.io/ge-community-app/images/module1/topic5/module-1-topic-5-slide-5-6.png",
-            "https://ipsator.github.io/ge-community-app/images/module1/topic5/module-1-topic-5-slide-5-7.png",
-            "https://ipsator.github.io/ge-community-app/images/module1/topic5/module-1-topic-5-slide-5-8.png",
-            "https://ipsator.github.io/ge-community-app/images/module1/topic5/module-1-topic-5-slide-5-9.png",
-            "https://ipsator.github.io/ge-community-app/images/module1/topic5/module-1-topic-5-slide-5-10.png",
-            "https://ipsator.github.io/ge-community-app/images/module1/topic5/module-1-topic-5-slide-5-11.png",
-            "https://ipsator.github.io/ge-community-app/images/module1/topic5/module-1-topic-5-slide-5-12.png"
-          ]
+          "content": ["https://ipsator.github.io/ge-community-app/images/module1/topic5/module-1-topic-5-slide-5.png"]
         }
       ],
       "slide": 5
@@ -81,7 +67,7 @@
     {
       "name": "किससे परहेज करें (क्या ना खाए/पियें)",
       "tags": ["पोषण", "गर्भावस्था के दौरान देखभाल"],
-      "cover": "https://ipsator.github.io/ge-community-app/images/module-1-topic-5-slide-6-1.png",
+      "cover": "https://ipsator.github.io/ge-community-app/images/module1/topic5/module-1-topic-5-slide-6.png",
       "subtitle": "",
       "type": "split",
       "data": [
@@ -91,25 +77,21 @@
         },
         {
           "type": "image",
-          "content": [
-            "https://ipsator.github.io/ge-community-app/images/module-1-topic-5-slide-6-1.png",
-            "https://ipsator.github.io/ge-community-app/images/module-1-topic-5-slide-6-2.png",
-            "https://ipsator.github.io/ge-community-app/images/module-1-topic-5-slide-6-3.png"
-          ]
+          "content": ["https://ipsator.github.io/ge-community-app/images/module1/topic5/module-1-topic-5-slide-6.png"]
         }
       ],
       "slide": 6
     },
     {
       "name": "ध्यान रखें",
-      "cover": "https://ipsator.github.io/ge-community-app/images/module-1-topic-5-slide-7.png",
+      "cover": "https://ipsator.github.io/ge-community-app/images/module1/topic5/module-1-topic-5-slide-7.png",
       "tags": ["पोषण", "गर्भावस्था के दौरान देखभाल"],
       "subtitle": "",
       "type": "single",
       "data": [
         {
           "type": "image",
-          "content": ["https://ipsator.github.io/ge-community-app/images/module-1-topic-5-slide-7.png"]
+          "content": ["https://ipsator.github.io/ge-community-app/images/module1/topic5/module-1-topic-5-slide-7.png"]
         }
       ],
       "slide": 7

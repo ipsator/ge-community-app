@@ -4,13 +4,16 @@
   "slides": [
     {
       "name": "नवजात मृत्यु के कारण",
-      "cover": "https://ipsator.github.io/ge-community-app/images/module1/topic2/module-1-topic-2-slide-2.png",
+      "cover": "https://ipsator.github.io/ge-community-app/images/module1/topic2/module-1-topic-2-slide-2-1.png",
       "type": "single",
       "tags": ["नवजात"],
       "data": [
         {
           "type": "image",
-          "content": ["https://ipsator.github.io/ge-community-app/images/module1/topic2/module-1-topic-2-slide-2.png"]
+          "content": [
+            "https://ipsator.github.io/ge-community-app/images/module1/topic2/module-1-topic-2-slide-2-1.png",
+            "https://ipsator.github.io/ge-community-app/images/module1/topic2/module-1-topic-2-slide-2-2.png"
+          ]
         }
       ],
       "slide": 2

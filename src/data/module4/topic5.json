@@ -4,6 +4,7 @@
     {
       "name": "आप क्या कर सकते हैं?",
       "tags": ["गैर संचारित रोग", "परामर्श/कौन्सिलिंग"],
+      "cover": "https://ipsator.github.io/ge-community-app/images/module4/topic5/module-4-topic-5-slide-2.png",
       "subtitle": "",
       "type": "single",
       "data": [
@@ -18,6 +19,7 @@
       "name": "स्वास्थ्य जागरूकता व प्रोत्साहन का महत्व",
       "subtitle": "",
       "type": "single",
+      "cover": "https://ipsator.github.io/ge-community-app/images/module4/topic5/module-4-topic-5-slide-3.png",
       "tags": ["गैर संचारित रोग", "परामर्श/कौन्सिलिंग"],
       "data": [
         {

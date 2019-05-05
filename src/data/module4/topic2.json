@@ -4,6 +4,7 @@
     {
       "name": "दिल का दौरा",
       "tags": ["गैर संचारित रोग", "दिल की बिमारियाँ"],
+      "cover": "https://ipsator.github.io/ge-community-app/images/module4/topic2/module-4-topic-2-slide-2.png",
       "type": "single",
       "data": [
         {
@@ -16,6 +17,7 @@
     {
       "name": "दिल के दौरे के जोखिम के कारण",
       "tags": ["गैर संचारित रोग", "दिल की बिमारियाँ"],
+      "cover": "https://ipsator.github.io/ge-community-app/images/module4/topic2/module-4-topic-2-slide-3.png",
       "subtitle": "",
       "type": "single",
       "data": [
@@ -32,6 +34,7 @@
     },
     {
       "name": "पक्षाघात/स्ट्रोक",
+      "cover": "https://ipsator.github.io/ge-community-app/images/module4/topic2/module-4-topic-2-slide-4.png",
       "tags": ["गैर संचारित रोग", "दिल की बिमारियाँ"],
       "subtitle": "",
       "type": "split",
@@ -49,6 +52,7 @@
     },
     {
       "name": "पक्षाघात/स्ट्रोक",
+      "cover": "https://ipsator.github.io/ge-community-app/images/module4/topic2/module-4-topic-2-slide-5.png",
       "subtitle": "होने के जोखिम के कारण",
       "tags": ["गैर संचारित रोग", "दिल की बिमारियाँ"],
       "type": "single",
@@ -68,6 +72,7 @@
       "subtitle": "",
       "type": "split",
       "tags": ["गैर संचारित रोग", "दिल की बिमारियाँ"],
+      "cover": "https://ipsator.github.io/ge-community-app/images/module4/topic2/module-4-topic-2-slide-6.png",
       "data": [
         {
           "type": "list",
@@ -92,6 +97,7 @@
       "subtitle": "",
       "type": "split",
       "tags": ["गैर संचारित रोग", "दिल की बिमारियाँ"],
+      "cover": "https://ipsator.github.io/ge-community-app/images/module4/topic2/module-4-topic-2-slide-7-1.png",
       "data": [
         {
           "type": "list",

@@ -1,6 +1,6 @@
 {
   "name": "नवजात की देखभाल",
-  "cover": "https://ipsator.github.io/ge-community-app/images/module1/topic3/module-1-topic-4-slide-1.png",
+  "cover": "https://ipsator.github.io/ge-community-app/images/module1/topic4/module-1-topic-4-slide-1.png",
   "slides": [
     {
       "name": "नवजत को कम्बल मे क्यो लपेटना चाहिये",
@@ -25,12 +25,12 @@
     {
       "name": "शिशु को कंबल में लपेटने का तरीका",
       "tags": ["नवजात"],
-      "cover": "https://ipsator.github.io/ge-community-app/images/module1/topic4/module-1-topic-4-slide-2.jpg",
+      "cover": "https://ipsator.github.io/ge-community-app/images/module1/topic4/module-1-topic-4-slide-2.png",
       "type": "single",
       "data": [
         {
           "type": "image",
-          "content": ["https://ipsator.github.io/ge-community-app/images/module1/topic4/module-1-topic-4-slide-2.jpg"]
+          "content": ["https://ipsator.github.io/ge-community-app/images/module1/topic4/module-1-topic-4-slide-2.png"]
         }
       ],
       "slide": 3
@@ -40,7 +40,7 @@
       "subtitle": "स्तनपान शिशु के पहले कुछ महीने उसे बिमारियों के जोेखिम से बचाता है।",
       "tags": ["नवजात", "स्तनपान"],
       "type": "split",
-      "cover": "https://ipsator.github.io/ge-community-app/images/module1/topic4/module-1-topic-4-slide-4.jpg",
+      "cover": "https://ipsator.github.io/ge-community-app/images/module1/topic4/module-1-topic-4-slide-4.png",
       "data": [
         {
           "type": "list",
@@ -55,7 +55,7 @@
         },
         {
           "type": "image",
-          "content": ["https://ipsator.github.io/ge-community-app/images/module1/topic4/module-1-topic-4-slide-4.jpg"]
+          "content": ["https://ipsator.github.io/ge-community-app/images/module1/topic4/module-1-topic-4-slide-4.png"]
         }
       ],
       "slide": 4

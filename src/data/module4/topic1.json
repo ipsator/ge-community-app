@@ -21,6 +21,7 @@
       "name": "उच्च रक्तचाप के संकेत और लक्षण",
       "subtitle": "यदि आपको दिये गये लक्षणे मे से कोई भी 2 या दो से अधिक लक्षण दिखते हैं तो आपको उच्च रक्तचाप हो सकता है।",
       "type": "single",
+      "cover": "https://ipsator.github.io/ge-community-app/images/module4/topic1/module-4-topic-1-slide-3.png",
       "tags": ["गैर संचारित रोग", "उच्च रक्तचाप"],
       "data": [
         {
@@ -32,6 +33,7 @@
     },
     {
       "name": "जिन्हें उच्च रक्तचाप हैं, उन्हें प्रेरित करें कि",
+      "cover": "https://ipsator.github.io/ge-community-app/images/module4/topic1/module-4-topic-1-slide-4.-1.png",
       "type": "split",
       "tags": ["गैर संचारित रोग", "उच्च रक्तचाप"],
       "data": [
@@ -80,6 +82,7 @@
     },
     {
       "name": "उच्च रक्तचाप के कारण निम्न जोखिम बढ़ जाते हैं-",
+      "cover": "https://ipsator.github.io/ge-community-app/images/module4/topic1/module-4-topic-1-slide-6.png",
       "subtitle": "",
       "tags": ["गैर संचारित रोग", "उच्च रक्तचाप"],
       "type": "split",
@@ -97,6 +100,7 @@
     },
     {
       "name": "खतरे के लक्षण / संकेत",
+      "cover": "https://ipsator.github.io/ge-community-app/images/module4/topic1/module-4-topic-1-slide-7.png",
       "subtitle": "",
       "tags": ["गैर संचारित रोग", "उच्च रक्तचाप"],
       "type": "split",

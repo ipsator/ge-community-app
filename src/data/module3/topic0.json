@@ -4,7 +4,7 @@
     {
       "name": "विषय सूचि",
       "tags": ["संक्रमण"],
-      "cover": "https://ipsator.github.io/ge-community-app/images/module-3-topic-0-slide-3.png",
+      "cover": "https://ipsator.github.io/ge-community-app/images/module3/topic0/module-3-topic-0-slide-3.png",
       "data": [
         {
           "type": "list",
@@ -22,7 +22,7 @@
     },
     {
       "name": "संक्रमण के स्रोत",
-      "cover": "https://ipsator.github.io/ge-community-app/images/module3/topic0/module-3-topic-0-slide-2.png",
+      "cover": "https://ipsator.github.io/ge-community-app/images/module3/topic0/module-3-topic-0-slide-3.png",
       "tags": ["संक्रमण"],
       "data": [
         {
@@ -36,10 +36,10 @@
         },
         {
           "type": "image",
-          "content": ["https://ipsator.github.io/ge-community-app/images/module3/topic0/module-3-topic-0-slide-2.png"]
+          "content": ["https://ipsator.github.io/ge-community-app/images/module3/topic0/module-3-topic-0-slide-3.png"]
         }
       ],
-      "slide": 2
+      "slide": 3
     },
     {
       "name": "संक्रमण की रोकथाम के सिद्धांत",
@@ -56,7 +56,7 @@
         },
         {
           "type": "image",
-          "content": ["https://ipsator.github.io/ge-community-app/images/module-3-topic-0-slide-3.png"]
+          "content": ["https://ipsator.github.io/ge-community-app/images/module3/topic0/module-3-topic-0-slide-4.png"]
         }
       ],
       "slide": 3

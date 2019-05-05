@@ -1,5 +1,6 @@
 {
   "name": "गैर संचारित रोग / एनसीडी की रोकथाम",
+  "cover": "https://ipsator.github.io/ge-community-app/images/module4/topic0/module-4-topic-0-slide-1.png",
   "slides": [
     {
       "name": "गैर संचारित रोग / एनसीडी की रोकथाम",
@@ -88,15 +89,15 @@
       ],
       "slide": 5
     },
-
     {
       "name": "जव्यवहार -> जोख़िम के कारण -> रोग",
       "tags": ["गैर संचारित रोग"],
+      "cover": "https://ipsator.github.io/ge-community-app/images/module4/topic0/module-4-topic-0-slide-1.png",
       "subtitle": "",
       "data": [
         {
           "type": "image",
-          "content": []
+          "content": ["https://ipsator.github.io/ge-community-app/images/module4/topic0/module-4-topic-0-slide-1.png"]
         }
       ],
       "slide": 6

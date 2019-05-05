@@ -4,6 +4,7 @@
     {
       "name": "मधुमेह",
       "subtitle": "प्रकार",
+      "cover": "https://ipsator.github.io/ge-community-app/images/module4/topic3/module-4-topic-3-slide-2.png",
       "tags": ["गैर संचारित रोग", "मधुमेह"],
       "type": "split",
       "data": [
@@ -22,6 +23,7 @@
       "name": "मधुमेह - प्रकार 1",
       "tags": ["गैर संचारित रोग", "मधुमेह"],
       "subtitle": "",
+      "cover": "https://ipsator.github.io/ge-community-app/images/module4/topic3/module-4-topic-3-slide-3.png",
       "type": "split",
       "data": [
         {
@@ -37,6 +39,7 @@
     },
     {
       "name": "मधुमेह प्रकार 2",
+      "cover": "https://ipsator.github.io/ge-community-app/images/module4/topic3/module-4-topic-3-slide-4.png",
       "tags": ["गैर संचारित रोग", "मधुमेह"],
       "type": "split",
       "data": [
@@ -57,6 +60,7 @@
     },
     {
       "name": "गर्भावस्था के दौरान मधुमेह",
+      "cover": "https://ipsator.github.io/ge-community-app/images/module4/topic3/module-4-topic-3-slide-5.png",
       "tags": ["गैर संचारित रोग", "मधुमेह"],
       "type": "split",
       "data": [
@@ -91,6 +95,7 @@
 
     {
       "name": "मधुमेह प्रकार 2",
+      "cover": "https://ipsator.github.io/ge-community-app/images/module4/topic3/module-4-topic-3-slide-7.png",
       "subtitle": "7 मुख्य कारण",
       "tags": ["गैर संचारित रोग", "मधुमेह"],
       "type": "single",
@@ -104,6 +109,7 @@
     },
     {
       "name": "हाइपोग्लाइसीमिया (शरीर में शर्करा की मात्रा कम हो जाना) के लक्षण",
+      "cover": "https://ipsator.github.io/ge-community-app/images/module4/topic3/module-4-topic-3-slide-8.png",
       "subtitle": "ललिता जब अपनी 24 सप्ताह की गर्भावस्था मे थी तब उसकी मधुमेह के रोगी के रूप मे पहचान हुई थी ",
       "type": "split",
       "tags": ["गैर संचारित रोग", "मधुमेह"],
@@ -124,6 +130,7 @@
     },
     {
       "name": "परामर्श",
+      "cover": "https://ipsator.github.io/ge-community-app/images/module4/topic3/module-4-topic-3-slide-9-1.png",
       "subtitle": "",
       "type": "single",
       "tags": ["गैर संचारित रोग", "मधुमेह", "परामर्श/कौन्सिलिंग"],

@@ -23,10 +23,13 @@ function uploadData(collectionName, data) {
 function readCategories() {
   const topicsInModule = [6, 4, 7, 6]
   const categoryName = [
-    { name: "जननी एवं नवजात शिशु की देखभाल", cover: "" },
-    { name: "विशेष जरूरतों वाली महिलाएँ", cover: "" },
-    { name: "संक्रमण की रोकथाम", cover: "" },
-    { name: "गैर संचारित रोग / एनसीडी की रोकथाम", cover: "" },
+    { name: "जननी एवं नवजात शिशु की देखभाल", cover: "https://ipsator.github.io/ge-community-app/images/module1/topic0/module-1-topic-1-slide-3.png" },
+    { name: "विशेष जरूरतों वाली महिलाएँ", cover: "https://ipsator.github.io/ge-community-app/images/module2/topic1/module-2-topic-1-slide-2.png" },
+    { name: "संक्रमण की रोकथाम", cover: "https://ipsator.github.io/ge-community-app/images/module-3-topic-0-slide-3.png" },
+    {
+      name: "गैर संचारित रोग / एनसीडी की रोकथाम",
+      cover: "https://ipsator.github.io/ge-community-app/images/module4/topic1/module-4-topic-1-slide-2.png",
+    },
   ]
   let module = 0
   //let categoryId = '';
@@ -59,7 +62,7 @@ function readAndUploadTopics(topicData, categoryId) {
   let topic = {
     active: true,
     category: "",
-    cover: "https://i.imgur.com/xs8D9wZ.png",
+    cover: "",
     created: "",
     name: "",
     updated: "",
@@ -68,6 +71,7 @@ function readAndUploadTopics(topicData, categoryId) {
   topic.name = topicData.name
   topic.created = Date.now()
   topic.updated = Date.now()
+  topic.cover = topicData.cover ? topicData.cover : ""
   topic.category = categoryId
   //console.log("category name:", category);
   uploadData("topics", topic).then(topicId => {
@@ -81,7 +85,7 @@ function readAndUploadArticles(topicId, slides) {
   let article = {
     active: true,
     topic: "",
-    cover: "https://i.imgur.com/xs8D9wZ.png",
+    cover: "",
     created: "",
     name: "",
     updated: "",
@@ -93,6 +97,7 @@ function readAndUploadArticles(topicId, slides) {
     article.name = slide.name
     article.created = Date.now()
     article.updated = Date.now()
+    article.cover = slide.cover ? slide.cover : ""
     article.topic = topicId
     article.data = slide.data
     article.subtitle = slide.subtitle ? slide.subtitle : ""
@@ -134,6 +139,7 @@ const getTags = async () => {
 const getTagIds = tags => {
   let allTags = fs.readFileSync("static/data/tagWithId" + ".json")
   allTags = JSON.parse(allTags)
+  console.log("tags--", allTags)
   tagIds = []
   if (tags) {
     for (tagName of tags) {
@@ -159,8 +165,8 @@ const saveData = (data, filename) => {
   fs.writeFileSync(path.join(__dirname, filename), JSON.stringify(data, undefined, 2), "utf8")
 }
 
-getTags()
+//getTags()
 
-//readCategories()
+readCategories()
 
 //uploadImages()
