@@ -1,102 +1,98 @@
 [
   {
-    "id": "lIlf9FfOu1Gqf0RAkapS",
-    "name": "मातृ मृत्यु"
-  },
-  {
-    "id": "odZQBYEZ03d3WafaQt1x",
-    "name": "नवजात"
-  },
-  {
-    "id": "hGnfyrpwcjadJC1woppB",
-    "name": "नवजात, मातृ मृत्यु"
-  },
-  {
-    "id": "LYw1L3Y5UhOoXeqTnvtv",
-    "name": "गर्भावस्था के दौरान देखभाल"
-  },
-  {
-    "id": "Xzs6rRQxXRwVPa9yr351",
+    "id": "P9At8ftvi1rXaDcwGbfb",
     "name": "परामर्श/कौन्सिलिंग"
   },
   {
-    "id": "EJt6kXtSg0VNFzOXytZS",
+    "id": "5Usxxo8V8LIXjTcq3CGX",
+    "name": "मातृ मृत्यु"
+  },
+  {
+    "id": "tItB2OqRdAzpIizEsXmv",
+    "name": "नवजात"
+  },
+  {
+    "id": "rDmnflPxgF4CeiSz9CRF",
+    "name": "गर्भावस्था के दौरान देखभाल"
+  },
+  {
+    "id": "aSjq1bcutmpZ7X7jkS3m",
     "name": "एलएमपी"
   },
   {
-    "id": "UiHMFqXa122vU1OhcyVA",
+    "id": "5rHDGLSH6AL1jE7EOt8n",
     "name": "स्तनपान"
   },
   {
-    "id": "R9HoW8nH8KoTAYN2ALzY",
+    "id": "nFrOljfai1WPX8Cd2gLX",
     "name": "पोषण"
   },
   {
-    "id": "gP1VJDNJE82oqWoFoyLY",
+    "id": "b6xYxlKDW8w4kPbz4yBx",
     "name": "विशेष जरूरतों वाली महिलाएँ"
   },
   {
-    "id": "w3fgZ0Cz2WqAnwGyGEXS",
-    "name": " परामर्श/कौन्सिलिंग"
-  },
-  {
-    "id": "mwQy9gv9x5IIS6AcNa6z",
+    "id": "w67tgzorBzcfw1pZIit8",
     "name": "हिंसा की शिकार महिलाएँ"
   },
   {
-    "id": "sGkkn5bgWefcrPZCgT2f",
+    "id": "ssmRil5Ifnfv7noXIFBy",
+    "name": "संक्रमण"
+  },
+  {
+    "id": "eFJ9z9ZUh6htAczFLj9b",
     "name": "हाथ की स्वच्छता"
   },
   {
-    "id": "Au4RizFufArxW7Qli7xp",
+    "id": "QRoLqXLPh7hEafcxACwB",
     "name": "त्वचा की अविभाज्यता"
   },
   {
-    "id": "mjd29AQUSPjBUKqv0JG4",
-    "name": "मधुमेह, संक्रमण"
-  },
-  {
-    "id": "DgM7MCfkIaHjTuJu4VZM",
-    "name": "घरेलू अपशिष्ट"
-  },
-  {
-    "id": "nFq0WKYpOgzq5cHEyr8T",
-    "name": "माहवारी"
-  },
-  {
-    "id": "tmWOZZHHWdyao8RtOHTa",
-    "name": "क्षय रोग या टीबी"
-  },
-  {
-    "id": "czjjHIrFqc0XC6q1oymM",
-    "name": "गैर संचारित रोग, उच्च रक्तचाप"
-  },
-  {
-    "id": "23wXjVN8BZr4A9Cu0LCa",
-    "name": "गैर संचारित रोग, दिल की बिमारियाँ"
-  },
-  {
-    "id": "uHznLsEItHzwvH8iuGmz",
-    "name": "गैर संचारित रोग"
-  },
-  {
-    "id": "qVeliCyotTCO3PsPnwrp",
+    "id": "wyHDiwluwpzQpqtlcbOv",
     "name": "मधुमेह"
   },
   {
-    "id": "QIIJB1uhbEUDpaXv1xxf",
+    "id": "mZ7GDOyo7GF2HU0xsICK",
+    "name": "मधुमेह, संक्रमण"
+  },
+  {
+    "id": "0GY851NRGKZWxuozMZXd",
+    "name": "घरेलू अपशिष्ट"
+  },
+  {
+    "id": "xADCR7ZPccETaDsn93Zb",
+    "name": "माहवारी"
+  },
+  {
+    "id": "L5R3vyZaHoEqUcYItPgX",
+    "name": "क्षय रोग या टीबी"
+  },
+  {
+    "id": "yrHCic5kFcZ0e8FdfHBZ",
+    "name": "गैर संचारित रोग"
+  },
+  {
+    "id": "VNAMMhgKTsIL13c4ux03",
+    "name": "उच्च रक्तचाप"
+  },
+  {
+    "id": "Zcf9bQTZq0EpfeYlbOHw",
+    "name": "दिल की बिमारियाँ"
+  },
+  {
+    "id": "JWVs52akMJvY1zMfb2OA",
     "name": "कैंसर"
   },
   {
-    "id": "iEMFOyjezjRekOEhC465",
+    "id": "yQaTSZnOtwnROlqJCsJf",
     "name": "योनि-ग्रीवा का कैंसर"
   },
   {
-    "id": "mqPXb2kpgZ3qaVdInc4w",
+    "id": "Hg2Dm02v2p6qbOeIsbOn",
     "name": "स्तन कैंसर"
   },
   {
-    "id": "ZxJZM1480LefM96ni4Qw",
+    "id": "ipszdXUsB5jVialLNPKE",
     "name": "मुँह के कैंसर"
   }
 ]
