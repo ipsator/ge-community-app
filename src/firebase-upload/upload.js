@@ -22,21 +22,23 @@ function uploadData(collectionName, data) {
 }
 function readCategories() {
   const topicsInModule = [6, 4, 7, 6]
-  const categoryName = ["जननी एवं नवजात शिशु की देखभाल", "विशेष जरूरतों वाली महिलाएँ", "संक्रमण की रोकथाम", "गैर संचारित रोग / एनसीडी की रोकथाम"]
+  const categoryName = [
+    { name: "जननी एवं नवजात शिशु की देखभाल", cover: "" },
+    { name: "विशेष जरूरतों वाली महिलाएँ", cover: "" },
+    { name: "संक्रमण की रोकथाम", cover: "" },
+    { name: "गैर संचारित रोग / एनसीडी की रोकथाम", cover: "" },
+  ]
   let module = 0
   //let categoryId = '';
-  let category = {
-    active: true,
-    cover: "https://i.imgur.com/xs8D9wZ.png",
-    created: "",
-    name: "",
-    updated: "",
-  }
 
   for (let i = 0; i < categoryName.length; i++) {
-    category.name = categoryName[i]
-    category.created = Date.now()
-    category.updated = Date.now()
+    let category = {
+      active: true,
+      created: Date.now(),
+      updated: Date.now(),
+      name: categoryName[i].name,
+      cover: categoryName[i].cover,
+    }
 
     uploadData("categories", category).then(categoryId => {
       module = i + 1
