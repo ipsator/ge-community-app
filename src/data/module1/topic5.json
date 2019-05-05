@@ -16,7 +16,7 @@
         },
         {
           "type": "image",
-          "content": ["https://ipsator.github.io/ge-community-app/images/module-1-topic-5-slide-2.png"]
+          "content": ["https://ipsator.github.io/ge-community-app/images/module1/topic5/module-1-topic-5-slide-2.png"]
         }
       ],
       "slide": 2
@@ -28,7 +28,7 @@
       "data": [
         {
           "type": "image",
-          "content": ["https://ipsator.github.io/ge-community-app/images/module-1-topic-5-slide-3.png"]
+          "content": ["https://ipsator.github.io/ge-community-app/images/module1/topic5/module-1-topic-5-slide-3.png"]
         }
       ],
       "slide": 3
@@ -41,7 +41,7 @@
       "data": [
         {
           "type": "image",
-          "content": ["https://ipsator.github.io/ge-community-app/images/module-1-topic-5-slide-4.png"]
+          "content": ["https://ipsator.github.io/ge-community-app/images/module1/topic5/module-1-topic-5-slide-4.png"]
         }
       ],
       "slide": 4
@@ -55,18 +55,18 @@
         {
           "type": "image",
           "content": [
-            "https://ipsator.github.io/ge-community-app/images/module-1-topic-5-slide-5-1.png",
-            "https://ipsator.github.io/ge-community-app/images/module-1-topic-5-slide-5-2.png",
-            "https://ipsator.github.io/ge-community-app/images/module-1-topic-5-slide-5-3.png",
-            "https://ipsator.github.io/ge-community-app/images/module-1-topic-5-slide-5-4.png",
-            "https://ipsator.github.io/ge-community-app/images/module-1-topic-5-slide-5-5.png",
-            "https://ipsator.github.io/ge-community-app/images/module-1-topic-5-slide-5-6.png",
-            "https://ipsator.github.io/ge-community-app/images/module-1-topic-5-slide-5-7.png",
-            "https://ipsator.github.io/ge-community-app/images/module-1-topic-5-slide-5-8.png",
-            "https://ipsator.github.io/ge-community-app/images/module-1-topic-5-slide-5-9.png",
-            "https://ipsator.github.io/ge-community-app/images/module-1-topic-5-slide-5-10.png",
-            "https://ipsator.github.io/ge-community-app/images/module-1-topic-5-slide-5-11.png",
-            "https://ipsator.github.io/ge-community-app/images/module-1-topic-5-slide-5-12.png"
+            "https://ipsator.github.io/ge-community-app/images/module1/topic5/module-1-topic-5-slide-5-1.png",
+            "https://ipsator.github.io/ge-community-app/images/module1/topic5/module-1-topic-5-slide-5-2.png",
+            "https://ipsator.github.io/ge-community-app/images/module1/topic5/module-1-topic-5-slide-5-3.png",
+            "https://ipsator.github.io/ge-community-app/images/module1/topic5/module-1-topic-5-slide-5-4.png",
+            "https://ipsator.github.io/ge-community-app/images/module1/topic5/module-1-topic-5-slide-5-5.png",
+            "https://ipsator.github.io/ge-community-app/images/module1/topic5/module-1-topic-5-slide-5-6.png",
+            "https://ipsator.github.io/ge-community-app/images/module1/topic5/module-1-topic-5-slide-5-7.png",
+            "https://ipsator.github.io/ge-community-app/images/module1/topic5/module-1-topic-5-slide-5-8.png",
+            "https://ipsator.github.io/ge-community-app/images/module1/topic5/module-1-topic-5-slide-5-9.png",
+            "https://ipsator.github.io/ge-community-app/images/module1/topic5/module-1-topic-5-slide-5-10.png",
+            "https://ipsator.github.io/ge-community-app/images/module1/topic5/module-1-topic-5-slide-5-11.png",
+            "https://ipsator.github.io/ge-community-app/images/module1/topic5/module-1-topic-5-slide-5-12.png"
           ]
         }
       ],

@@ -1,6 +1,6 @@
 {
   "name": "मधुमेह के कारण पैर पर होनें वाले फोड़ों की देखभाल",
-  "image": ["https://ipsator.github.io/ge-community-app/images/module-3-topic-3-slide-1.png"],
+  "image": ["https://ipsator.github.io/ge-community-app/images/module3/topic3/module-3-topic-3-slide-1.png"],
   "slides": [
     {
       "name": "मधुमेह रोगी के पैर - एक परिचय",
@@ -38,7 +38,7 @@
         },
         {
           "type": "image",
-          "content": ["https://ipsator.github.io/ge-community-app/images/module-3-topic-3-slide-3.png"]
+          "content": ["https://ipsator.github.io/ge-community-app/images/module3/topic3/module-3-topic-3-slide-3.png"]
         }
       ],
       "slide": 3
@@ -64,11 +64,11 @@
         {
           "type": "image",
           "content": [
-            "https://ipsator.github.io/ge-community-app/images/module-3-topic-3-slide-5-1.png",
-            "https://ipsator.github.io/ge-community-app/images/module-3-topic-3-slide-5-2.png",
-            "https://ipsator.github.io/ge-community-app/images/module-3-topic-3-slide-5-3.png",
-            "https://ipsator.github.io/ge-community-app/images/module-3-topic-3-slide-5-4.png",
-            "https://ipsator.github.io/ge-community-app/images/module-3-topic-3-slide-5-5.png"
+            "https://ipsator.github.io/ge-community-app/images/module3/topic3/module-3-topic-3-slide-5-1.png",
+            "https://ipsator.github.io/ge-community-app/images/module3/topic3/module-3-topic-3-slide-5-2.png",
+            "https://ipsator.github.io/ge-community-app/images/module3/topic3/module-3-topic-3-slide-5-3.png",
+            "https://ipsator.github.io/ge-community-app/images/module3/topic3/module-3-topic-3-slide-5-4.png",
+            "https://ipsator.github.io/ge-community-app/images/module3/topic3/module-3-topic-3-slide-5-5.png"
           ]
         }
       ],
@@ -83,10 +83,10 @@
         {
           "type": "image",
           "content": [
-            "https://ipsator.github.io/ge-community-app/images/module-3-topic-3-slide-6-1.png",
-            "https://ipsator.github.io/ge-community-app/images/module-3-topic-3-slide-6-2.png",
-            "https://ipsator.github.io/ge-community-app/images/module-3-topic-3-slide-6-3.png",
-            "https://ipsator.github.io/ge-community-app/images/module-3-topic-3-slide-6-4.png"
+            "https://ipsator.github.io/ge-community-app/images/module3/topic3/module-3-topic-3-slide-6-1.png",
+            "https://ipsator.github.io/ge-community-app/images/module3/topic3/module-3-topic-3-slide-6-2.png",
+            "https://ipsator.github.io/ge-community-app/images/module3/topic3/module-3-topic-3-slide-6-3.png",
+            "https://ipsator.github.io/ge-community-app/images/module3/topic3/module-3-topic-3-slide-6-4.png"
           ]
         }
       ],
@@ -101,10 +101,10 @@
         {
           "type": "image",
           "content": [
-            "https://ipsator.github.io/ge-community-app/images/module-3-topic-3-slide-7-1.png",
-            "https://ipsator.github.io/ge-community-app/images/module-3-topic-3-slide-7-2.png",
-            "https://ipsator.github.io/ge-community-app/images/module-3-topic-3-slide-7-3.png",
-            "https://ipsator.github.io/ge-community-app/images/module-3-topic-3-slide-7-4.png"
+            "https://ipsator.github.io/ge-community-app/images/module3/topic3/module-3-topic-3-slide-7-1.png",
+            "https://ipsator.github.io/ge-community-app/images/module3/topic3/module-3-topic-3-slide-7-2.png",
+            "https://ipsator.github.io/ge-community-app/images/module3/topic3/module-3-topic-3-slide-7-3.png",
+            "https://ipsator.github.io/ge-community-app/images/module3/topic3/module-3-topic-3-slide-7-4.png"
           ]
         }
       ],
@@ -131,8 +131,8 @@
         {
           "type": "image",
           "content": [
-            "https://ipsator.github.io/ge-community-app/images/module-3-topic-3-slide-11-1.png",
-            "https://ipsator.github.io/ge-community-app/images/module-3-topic-3-slide-11-2.png"
+            "https://ipsator.github.io/ge-community-app/images/module3/topic3/module-3-topic-3-slide-11-1.png",
+            "https://ipsator.github.io/ge-community-app/images/module3/topic3/module-3-topic-3-slide-11-2.png"
           ]
         }
       ],

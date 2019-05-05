@@ -28,7 +28,7 @@
       "data": [
         {
           "type": "image",
-          "content": ["https://ipsator.github.io/ge-community-app/images/module-1-topic-4-slide-1.jpg"]
+          "content": ["https://ipsator.github.io/ge-community-app/images/module1/topic4/module-1-topic-4-slide-1.jpg"]
         }
       ],
       "slide": 3
@@ -52,7 +52,7 @@
         },
         {
           "type": "image",
-          "content": ["https://ipsator.github.io/ge-community-app/images/module-1-topic-4-slide-4.jpg"]
+          "content": ["https://ipsator.github.io/ge-community-app/images/module1/topic4/module-1-topic-4-slide-4.jpg"]
         }
       ],
       "slide": 4
@@ -71,7 +71,7 @@
         },
         {
           "type": "image",
-          "content": ["https://ipsator.github.io/ge-community-app/images/module-1-topic-4-slide-5.png"]
+          "content": ["https://ipsator.github.io/ge-community-app/images/module1/topic4/module-1-topic-4-slide-5.png"]
         }
       ],
       "slide": 5
