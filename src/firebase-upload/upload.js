@@ -167,6 +167,6 @@ const saveData = (data, filename) => {
 
 //getTags()
 
-readCategories()
+//readCategories()
 
-//uploadImages()
+uploadImages()
