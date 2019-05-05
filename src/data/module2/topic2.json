@@ -4,6 +4,7 @@
     {
       "name": "जब गर्भवती किशोरी बालिका से संवाद करें, तब",
       "tags": ["विशेष जरूरतों वाली महिलाएँ", "परामर्श/कौन्सिलिंग"],
+      "cover": "https://ipsator.github.io/ge-community-app/images/module2/topic2/module-2-topic-2-slide-2.png",
       "type": "split",
       "data": [
         {
@@ -31,6 +32,7 @@
     },
     {
       "name": "उसकी परेशानियों को समझें",
+      "cover": "https://ipsator.github.io/ge-community-app/images/module2/topic2/module-2-topic-2-slide-4.png",
       "tags": ["विशेष जरूरतों वाली महिलाएँ", "परामर्श/कौन्सिलिंग"],
       "type": "split",
       "data": [
@@ -52,6 +54,7 @@
     },
     {
       "name": "गोपनीयता बनाए रखें",
+      "cover": "https://ipsator.github.io/ge-community-app/images/module2/topic2/module-2-topic-2-slide-5.png",
       "tags": ["विशेष जरूरतों वाली महिलाएँ", "परामर्श/कौन्सिलिंग"],
       "subtitle": "",
       "type": "split",
@@ -74,6 +77,7 @@
     },
     {
       "name": "बहुत महत्वपूर्ण ",
+      "cover": "https://ipsator.github.io/ge-community-app/images/module2/topic2/module-2-topic-2-slide-6.png",
       "tags": ["विशेष जरूरतों वाली महिलाएँ", "परामर्श/कौन्सिलिंग"],
       "subtitle": "",
       "type": "split",
@@ -97,6 +101,7 @@
     {
       "name": "सहयोगात्मक रहें",
       "tags": ["विशेष जरूरतों वाली महिलाएँ", "परामर्श/कौन्सिलिंग"],
+      "cover": "https://ipsator.github.io/ge-community-app/images/module2/topic2/module-2-topic-2-slide-7.png",
       "subtitle": "",
       "type": "split",
       "data": [
@@ -119,6 +124,7 @@
     {
       "name": "प्रसव की तैयारी",
       "tags": ["विशेष जरूरतों वाली महिलाएँ", "परामर्श/कौन्सिलिंग"],
+      "cover": "https://ipsator.github.io/ge-community-app/images/module2/topic2/module-2-topic-2-slide-8.png",
       "subtitle": "",
       "type": "split",
       "data": [
@@ -182,6 +188,7 @@
     },
     {
       "name": "यौन संचारित संक्रमण या एचआईवीध्एड्स की रोकथाम",
+      "cover": "https://ipsator.github.io/ge-community-app/images/module2/topic2/module-2-topic-2-slide-11.png",
       "tags": ["विशेष जरूरतों वाली महिलाएँ", "परामर्श/कौन्सिलिंग"],
       "subtitle": "",
       "type": "split",
@@ -204,6 +211,7 @@
     {
       "name": "दो गर्भावस्थाओं के बीच कम से कम 3 वर्ष का अंतराल",
       "tags": ["विशेष जरूरतों वाली महिलाएँ", "परामर्श/कौन्सिलिंग"],
+      "cover": "https://ipsator.github.io/ge-community-app/images/module2/topic2/module-2-topic-2-slide-12.png",
       "subtitle": "",
       "type": "split",
       "data": [

@@ -1,9 +1,11 @@
 {
   "name": "विशेष जरूरतों वाली महिलाएँ",
+  "cover": "",
   "slides": [
     {
       "name": "महिलाओं के अधिकार",
       "tags": ["विशेष जरूरतों वाली महिलाएँ"],
+      "cover": "https://ipsator.github.io/ge-community-app/images/module2/topic1/module-2-topic-1-slide-2.png",
       "type": "split",
       "data": [
         {
@@ -27,6 +29,7 @@
       "tags": ["विशेष जरूरतों वाली महिलाएँ"],
       "subtitle": "विचार.विमर्श",
       "type": "split",
+      "cover": "https://ipsator.github.io/ge-community-app/images/module2/topic1/module-2-topic-1-slide-3.png",
       "data": [
         {
           "type": "list",
@@ -49,6 +52,7 @@
       "name": "आप क्या कर सकते हैं ?",
       "tags": ["विशेष जरूरतों वाली महिलाएँ", "परामर्श/कौन्सिलिंग"],
       "type": "split",
+      "cover": "https://ipsator.github.io/ge-community-app/images/module2/topic1/module-2-topic-1-slide-6.png",
       "data": [
         {
           "type": "list",
@@ -70,6 +74,7 @@
     },
     {
       "name": "एक आरामदायक वातावरण बनाएँ ",
+      "cover": "https://ipsator.github.io/ge-community-app/images/module2/topic1/module-2-topic-1-slide-7.png",
       "tags": ["विशेष जरूरतों वाली महिलाएँ", "परामर्श/कौन्सिलिंग"],
       "subtitle": "",
       "type": "single",
@@ -84,6 +89,7 @@
     {
       "name": "गोपनीयता और निजता का आश्वासन दें",
       "tags": ["विशेष जरूरतों वाली महिलाएँ", "परामर्श/कौन्सिलिंग"],
+      "cover": "https://ipsator.github.io/ge-community-app/images/module2/topic1/module-2-topic-1-slide-8.png",
       "subtitle": "",
       "type": "single",
       "data": [
@@ -97,6 +103,7 @@
     {
       "name": "सम्मान दें",
       "tags": ["विशेष जरूरतों वाली महिलाएँ", "परामर्श/कौन्सिलिंग"],
+      "cover": "https://ipsator.github.io/ge-community-app/images/module2/topic1/module-2-topic-1-slide-9.png",
       "subtitle": "",
       "type": "split",
       "data": [
@@ -114,6 +121,7 @@
     {
       "name": "सरल उत्तर दें",
       "tags": ["विशेष जरूरतों वाली महिलाएँ", "परामर्श/कौन्सिलिंग"],
+      "cover": "https://ipsator.github.io/ge-community-app/images/module2/topic1/module-2-topic-1-slide-10.png",
       "subtitle": "",
       "type": "split",
       "data": [
@@ -135,6 +143,7 @@
     },
     {
       "name": "जानकारी दें",
+      "cover": "https://ipsator.github.io/ge-community-app/images/module2/topic1/module-2-topic-1-slide-11.png",
       "subtitle": "",
       "type": "split",
       "tags": ["विशेष जरूरतों वाली महिलाएँ", "परामर्श/कौन्सिलिंग"],
@@ -160,6 +169,7 @@
       "subtitle": "",
       "type": "split",
       "tags": ["विशेष जरूरतों वाली महिलाएँ", "परामर्श/कौन्सिलिंग"],
+      "cover": "https://ipsator.github.io/ge-community-app/images/module2/topic1/module-2-topic-1-slide-12.png",
       "data": [
         {
           "type": "list",
@@ -182,6 +192,7 @@
       "name": "अनुवर्ती कारवाई (फाॅलोअप)",
       "subtitle": "",
       "type": "split",
+      "cover": "https://ipsator.github.io/ge-community-app/images/module2/topic1/module-2-topic-1-slide-13.png",
       "tags": ["विशेष जरूरतों वाली महिलाएँ", "परामर्श/कौन्सिलिंग"],
       "data": [
         {
@@ -193,7 +204,7 @@
           "content": ["https://ipsator.github.io/ge-community-app/images/module2/topic1/module-2-topic-1-slide-13.png"]
         }
       ],
-      "slide": 12
+      "slide": 13
     }
   ]
 }

@@ -1,9 +1,11 @@
 {
   "name": "स्वास्थ्य कार्यकर्ता की भूमिका",
+  "cover": "",
   "slides": [
     {
       "name": "मातृ मृत्यु दर",
       "tags": ["परामर्श/कौन्सिलिंग"],
+      "cover": "",
       "data": [
         {
           "type": "list",
@@ -19,6 +21,7 @@
     {
       "name": "मां और बच्चे की सेहत क्यां ज़रुरी",
       "tags": ["परामर्श/कौन्सिलिंग"],
+      "cover": "https://ipsator.github.io/ge-community-app/images/module1/topic0/module-1-topic-1-slide-3.png",
       "data": [
         {
           "type": "list",

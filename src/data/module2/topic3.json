@@ -1,9 +1,10 @@
 {
   "name": "हिंसा की शिकार रहने वाली महिलाओं को सहयोग देने हेतु विशेष बातें",
-  "image": "https://ipsator.github.io/ge-community-app/images/module-2-topic-3-slide-1.png",
+  "cover": "https://ipsator.github.io/ge-community-app/images/module-2-topic-3-slide-1.png",
   "slides": [
     {
       "name": "हिंसा की शिकार रहने वाली महिलाओं को सहयोग देने हेतु विशेष बातें",
+      "cover": "https://ipsator.github.io/ge-community-app/images/module2/topic3/module-2-topic-3-slide-2.png",
       "tags": ["हिंसा की शिकार महिलाएँ"],
       "type": "split",
       "data": [
@@ -39,6 +40,7 @@
       "name": "विकल्पों की तलाश करें",
       "subtitle": "",
       "type": "split",
+      "cover": "https://ipsator.github.io/ge-community-app/images/module2/topic3/module-2-topic-3-slide-5.png",
       "tags": ["हिंसा की शिकार महिलाएँ"],
       "data": [
         {
@@ -121,6 +123,7 @@
       "tags": ["परामर्श/कौन्सिलिंग", "हिंसा की शिकार महिलाएँ"],
       "subtitle": "",
       "type": "split",
+      "cover": "https://ipsator.github.io/ge-community-app/images/module2/topic3/module-2-topic-3-slide-10.png",
       "data": [
         {
           "type": "list",

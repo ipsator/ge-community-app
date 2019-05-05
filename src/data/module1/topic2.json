@@ -1,14 +1,16 @@
 {
   "name": "नवजात मृत्यु-दर व बीमारी दर से संबंधित कारण",
+  "cover": "https://ipsator.github.io/ge-community-app/images/module1/topic2/module-1-topic-2-slide-1.png",
   "slides": [
     {
       "name": "नवजात मृत्यु के कारण",
+      "cover": "https://ipsator.github.io/ge-community-app/images/module1/topic2/module-1-topic-2-slide-2.png",
       "type": "single",
       "tags": ["नवजात"],
       "data": [
         {
           "type": "image",
-          "content": ["https://ipsator.github.io/ge-community-app/images/module1/topic2/module-1-topic-1-slide-2.png"]
+          "content": ["https://ipsator.github.io/ge-community-app/images/module1/topic2/module-1-topic-2-slide-2.png"]
         }
       ],
       "slide": 2
@@ -16,11 +18,12 @@
     {
       "name": "नवजात मृत्यु के कारण",
       "type": "single",
+      "cover": "https://ipsator.github.io/ge-community-app/images/module1/topic2/module-1-topic-2-slide-3.png",
       "tags": ["नवजात"],
       "data": [
         {
           "type": "image",
-          "content": ["https://ipsator.github.io/ge-community-app/images/module1/topic2/module-1-topic-1-slide-3.png"]
+          "content": ["https://ipsator.github.io/ge-community-app/images/module1/topic2/module-1-topic-2-slide-3.png"]
         }
       ],
       "slide": 3
@@ -29,6 +32,7 @@
       "name": "मातृत्व कारण",
       "type": "split",
       "tags": ["नवजात", "मातृ मृत्यु"],
+      "cover": "https://ipsator.github.io/ge-community-app/images/module1/topic2/module-1-topic-2-slide-4.png",
       "data": [
         {
           "type": "list",
@@ -41,7 +45,7 @@
           ]
         },
         {
-          "content": ["https://ipsator.github.io/ge-community-app/images/module1/topic2/module-1-topic-1-slide-4.png"]
+          "content": ["https://ipsator.github.io/ge-community-app/images/module1/topic2/module-1-topic-2-slide-4.png"]
         }
       ],
       "slide": 4
@@ -50,6 +54,7 @@
       "name": "स्वास्थ्य सेवाओं का उपयोग",
       "tags": ["नवजात", "मातृ मृत्यु"],
       "type": "split",
+      "cover": "https://ipsator.github.io/ge-community-app/images/module1/topic2/module-1-topic-2-slide-5.png",
       "data": [
         {
           "type": "list",
@@ -60,7 +65,7 @@
         },
         {
           "type": "image",
-          "content": ["https://ipsator.github.io/ge-community-app/images/module1/topic2/module-1-topic-1-slide-5.png"]
+          "content": ["https://ipsator.github.io/ge-community-app/images/module1/topic2/module-1-topic-2-slide-5.png"]
         }
       ],
       "slide": 5
@@ -69,11 +74,12 @@
       "name": "नवजात मृत्यु दर",
       "subtitle": "प्रसव के पहले (प्रसव पूर्व रक्तस्त्राव)",
       "tags": ["नवजात", "मातृ मृत्यु"],
+      "cover": "https://ipsator.github.io/ge-community-app/images/module1/topic2/module-1-topic-2-slide-6.png",
       "type": "split",
       "data": [
         {
           "type": "image",
-          "content": ["https://ipsator.github.io/ge-community-app/images/module1/topic2/module-1-topic-1-slide-6.png"]
+          "content": ["https://ipsator.github.io/ge-community-app/images/module1/topic2/module-1-topic-2-slide-6.png"]
         },
         {
           "type": "list",
@@ -90,7 +96,7 @@
       "data": [
         {
           "type": "image",
-          "content": ["https://ipsator.github.io/ge-community-app/images/module1/topic2/module-1-topic-1-slide-6.png"]
+          "content": ["https://ipsator.github.io/ge-community-app/images/module1/topic2/module-1-topic-2-slide-7.png"]
         }
       ],
       "slide": 8

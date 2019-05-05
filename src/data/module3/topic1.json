@@ -21,6 +21,7 @@
       "name": "हाथ की स्वच्छता के स्तर",
       "subtitle": "",
       "type": "single",
+      "cover": "https://ipsator.github.io/ge-community-app/images/module3/topic1/module-3-topic-1-slide-2.png",
       "tags": ["हाथ की स्वच्छता"],
       "data": [
         {
@@ -34,6 +35,7 @@
       "name": "स्वच्छ हाथ के लक्षण - कब कब हाथ धोयें",
       "type": "single",
       "tags": ["हाथ की स्वच्छता"],
+      "cover": "https://ipsator.github.io/ge-community-app/images/module3/topic1/module-3-topic-1-slide-2.png",
       "data": [
         {
           "type": "list",
@@ -67,6 +69,7 @@
       "name": "हाथ धोने का सही तरीका",
       "subtitle": "",
       "tags": ["हाथ की स्वच्छता"],
+      "cover": "https://ipsator.github.io/ge-community-app/images/module3/topic1/module-3-topic-1-slide-6.png",
       "type": "single",
       "data": [
         {

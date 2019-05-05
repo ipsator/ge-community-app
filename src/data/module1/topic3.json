@@ -1,5 +1,6 @@
 {
   "name": "गर्भावस्था के दौरान देखभाल",
+  "cover": "https://ipsator.github.io/ge-community-app/images/module1/topic3/module-1-topic-3-slide-2.png",
   "slides": [
     {
       "name": "गर्भावस्था के दौरान देखभाल",
@@ -51,6 +52,7 @@
       "name": "इन बातों को ध्यान में रखें",
       "tags": ["गर्भावस्था के दौरान देखभाल"],
       "type": "split",
+      "cover": "https://ipsator.github.io/ge-community-app/images/module1/topic3/module-1-topic-1-slide-5.png",
       "data": [
         {
           "type": "list",
@@ -110,6 +112,7 @@
     {
       "name": "इन बातों का विशेष ध्यान रखे",
       "tags": ["गर्भावस्था के दौरान देखभाल", "परामर्श/कौन्सिलिंग"],
+      "cover": "https://ipsator.github.io/ge-community-app/images/module1/topic3/module-1-topic-3-slide-8.png",
       "type": "single",
       "data": [
         {
@@ -123,6 +126,7 @@
       "name": "प्रसव की तैयारी हेतु परामर्श",
       "tags": ["गर्भावस्था के दौरान देखभाल", "परामर्श/कौन्सिलिंग"],
       "type": "split",
+      "cover": "https://ipsator.github.io/ge-community-app/images/module1/topic3/module-1-topic-1-slide-9.png",
       "data": [
         {
           "type": "list",
@@ -135,7 +139,7 @@
           ]
         },
         {
-          "content": ["https://ipsator.github.io/ge-community-app/images/module1/topic3/module-1-topic-1-slide-4.png"]
+          "content": ["https://ipsator.github.io/ge-community-app/images/module1/topic3/module-1-topic-1-slide-9.png"]
         }
       ],
       "slide": 9
@@ -202,6 +206,7 @@
     {
       "name": "गर्भावस्था मालूम करना",
       "tags": ["गर्भावस्था के दौरान देखभाल"],
+      "cover": "https://ipsator.github.io/ge-community-app/images/module1/topic3/module-1-topic-3-slide-14.png",
       "type": "split",
       "data": [
         {
@@ -215,7 +220,8 @@
       "slide": 14
     },
     {
-      "name": "जाँच की संख्या और समय ",
+      "name": "जाँच की संख्या और समय",
+      "cover": "https://ipsator.github.io/ge-community-app/images/module1/topic3/module-1-topic-3-slide-15-2.png",
       "tags": ["गर्भावस्था के दौरान देखभाल"],
       "type": "split",
       "data": [
@@ -233,6 +239,7 @@
     {
       "name": "एलएमपी",
       "type": "split",
+      "cover": "https://ipsator.github.io/ge-community-app/images/module1/topic3/module-1-topic-3-slide-16.png",
       "data": [
         {
           "type": "list",
@@ -254,6 +261,7 @@
     {
       "name": "प्रसव की सम्भावित दिनाँक",
       "tags": ["गर्भावस्था के दौरान देखभाल", "एलएमपी"],
+      "cover": "https://ipsator.github.io/ge-community-app/images/module1/topic3/module-1-topic-3-slide-17.png",
       "type": "split",
       "data": [
         {
@@ -261,7 +269,7 @@
           "content": ["प्रसव की सम्भावित दिनाँक (ईडीडी) त्र ", "एलएमपी दिनाँक ़ 9 माह ़ 7 दिन"]
         },
         {
-          "content": ["https://ipsator.github.io/ge-community-app/images/module1/topic3/module-1-topic-3-slide-16.png"]
+          "content": ["https://ipsator.github.io/ge-community-app/images/module1/topic3/module-1-topic-3-slide-17.png"]
         }
       ],
       "slide": 17
@@ -269,6 +277,7 @@
     {
       "name": "भ्रूण परिपक्वता",
       "tags": ["गर्भावस्था के दौरान देखभाल", "एलएमपी"],
+      "cover": "https://ipsator.github.io/ge-community-app/images/module1/topic3/module-1-topic-3-slide-18.png",
       "type": "split",
       "data": [
         {
@@ -304,6 +313,7 @@
     {
       "name": "प्रसव की तैयारी हेतु परामश",
       "tags": ["गर्भावस्था के दौरान देखभाल", "परामर्श/कौन्सिलिंग"],
+      "cover": "https://ipsator.github.io/ge-community-app/images/module1/topic3/module-1-topic-3-slide-20.png",
       "type": "split",
       "data": [
         {
@@ -333,25 +343,17 @@
       "slide": 20
     },
     {
-      "name": "",
+      "name": "गर्भावस्था के समय के लक्षण अौर की जाने वाली कार्रवाई",
       "type": "single",
       "tags": ["गर्भावस्था के दौरान देखभाल", "परामर्श/कौन्सिलिंग"],
+      "cover": "https://ipsator.github.io/ge-community-app/images/module1/topic3/module-1-topic-3-slide-23.png",
       "data": [
         {
           "type": "image",
-          "content": ["https://ipsator.github.io/ge-community-app/images/module1/topic3/module-1-topic-3-slide-22.png"]
-        }
-      ],
-      "slide": 22
-    },
-    {
-      "name": "",
-      "type": "single",
-      "tags": ["गर्भावस्था के दौरान देखभाल", "परामर्श/कौन्सिलिंग"],
-      "data": [
-        {
-          "type": "image",
-          "content": ["https://ipsator.github.io/ge-community-app/images/module1/topic3/module-1-topic-3-slide-23.png"]
+          "content": [
+            "https://ipsator.github.io/ge-community-app/images/module1/topic3/module-1-topic-3-slide-23.png",
+            "https://ipsator.github.io/ge-community-app/images/module1/topic3/module-1-topic-3-slide-24.png"
+          ]
         }
       ],
       "slide": 23
@@ -363,40 +365,20 @@
       "data": [
         {
           "type": "image",
-          "content": ["https://ipsator.github.io/ge-community-app/images/module1/topic3/module-1-topic-3-slide-24.png"]
-        }
-      ],
-      "slide": 24
-    },
-    {
-      "name": "",
-      "type": "single",
-      "tags": ["गर्भावस्था के दौरान देखभाल", "परामर्श/कौन्सिलिंग"],
-      "data": [
-        {
-          "type": "image",
-          "content": ["https://ipsator.github.io/ge-community-app/images/module1/topic3/module-1-topic-3-slide-25.png"]
+          "content": [
+            "https://ipsator.github.io/ge-community-app/images/module1/topic3/module-1-topic-3-slide-25.png",
+            "https://ipsator.github.io/ge-community-app/images/module1/topic3/module-1-topic-3-slide-26.png"
+          ]
         }
       ],
       "slide": 25
-    },
-    {
-      "name": "",
-      "type": "single",
-      "tags": ["गर्भावस्था के दौरान देखभाल", "परामर्श/कौन्सिलिंग"],
-      "data": [
-        {
-          "type": "image",
-          "content": ["https://ipsator.github.io/ge-community-app/images/module1/topic3/module-1-topic-3-slide-26.png"]
-        }
-      ],
-      "slide": 26
     },
 
     {
       "name": "प्रसव वेदना के लक्षणों को पहचानना ",
       "tags": ["गर्भावस्था के दौरान देखभाल", "परामर्श/कौन्सिलिंग"],
       "type": "single",
+      "cover": "https://ipsator.github.io/ge-community-app/images/module1/topic3/module-1-topic-3-slide-27.png",
       "data": [
         {
           "type": "image",

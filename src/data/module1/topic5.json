@@ -1,9 +1,12 @@
 {
   "name": "गर्भवती महिलाओं की विशेष आवश्यकताएं",
+  "cover": "https://ipsator.github.io/ge-community-app/images/module1/topic5/module-1-topic-5-slide-1.png",
+
   "slides": [
     {
       "name": "आहार और आराम",
       "tags": ["पोषण", "गर्भावस्था के दौरान देखभाल"],
+      "cover": "https://ipsator.github.io/ge-community-app/images/module1/topic5/module-1-topic-5-slide-2.png",
       "type": "split",
       "data": [
         {
@@ -24,6 +27,7 @@
     {
       "name": "गर्भवती महिलाएं जिनको अतिरिक्त पोषण की आवश्यकता होती है",
       "tags": ["पोषण", "गर्भावस्था के दौरान देखभाल"],
+      "cover": "https://ipsator.github.io/ge-community-app/images/module1/topic5/module-1-topic-5-slide-3.png",
       "type": "split",
       "data": [
         {
@@ -35,6 +39,7 @@
     },
     {
       "name": "आहार में निम्नलिखित प्रचुर मात्रा में होना चाहिए",
+      "cover": "https://ipsator.github.io/ge-community-app/images/module1/topic5/module-1-topic-5-slide-4.png",
       "tags": ["पोषण", "गर्भावस्था के दौरान देखभाल"],
       "subtitle": "",
       "type": "single",
@@ -50,6 +55,7 @@
       "name": "अनुशंसित आहार",
       "subtitle": "",
       "type": "single",
+      "cover": "https://ipsator.github.io/ge-community-app/images/module1/topic5/module-1-topic-5-slide-5-1.png",
       "tags": ["पोषण", "गर्भावस्था के दौरान देखभाल"],
       "data": [
         {
@@ -75,6 +81,7 @@
     {
       "name": "किससे परहेज करें (क्या ना खाए/पियें)",
       "tags": ["पोषण", "गर्भावस्था के दौरान देखभाल"],
+      "cover": "https://ipsator.github.io/ge-community-app/images/module-1-topic-5-slide-6-1.png",
       "subtitle": "",
       "type": "split",
       "data": [
@@ -95,6 +102,7 @@
     },
     {
       "name": "ध्यान रखें",
+      "cover": "https://ipsator.github.io/ge-community-app/images/module-1-topic-5-slide-7.png",
       "tags": ["पोषण", "गर्भावस्था के दौरान देखभाल"],
       "subtitle": "",
       "type": "single",

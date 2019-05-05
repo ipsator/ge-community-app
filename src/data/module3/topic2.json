@@ -1,6 +1,6 @@
 {
   "name": "त्वचा की अविभाज्यता व दबाव के दर्द को रोकना ",
-  "image": "module-3-topic-2-slide-1.png",
+  "image": "https://ipsator.github.io/ge-community-app/images/module3/topic2/module-3-topic-2-slide-1.png",
   "slides": [
     {
       "name": "स्वस्थ त्वचा बहुत महत्वपूर्ण है",
@@ -25,6 +25,7 @@
       "name": "त्वचा संक्रमण क्यों होते हैं?",
       "subtitle": "",
       "tags": ["त्वचा की अविभाज्यता"],
+      "cover": "https://ipsator.github.io/ge-community-app/images/module3/topic2/module-3-topic-2-slide-3.png",
       "type": "split",
       "data": [
         {
@@ -65,6 +66,7 @@
     {
       "name": "दबाव के सामान्य बिंद",
       "tags": ["त्वचा की अविभाज्यता"],
+      "cover": "https://ipsator.github.io/ge-community-app/images/module3/topic2/module-3-topic-2-slide-5.png",
       "subtitle": "",
       "type": "single",
       "data": [
@@ -78,6 +80,7 @@
     {
       "name": "दबाव अल्सर के कारण",
       "tags": ["त्वचा की अविभाज्यता"],
+      "cover": "https://ipsator.github.io/ge-community-app/images/module3/topic2/module-3-topic-2-slide-6.png",
       "subtitle": "",
       "type": "split",
       "data": [
