@@ -5,10 +5,23 @@ const path = require("path")
 
 // Add a new document in collection "cities"
 
-function uploadData(collectionName, data) {
+function uploadData(collectionName, data, id) {
   console.log("data--", data)
   var db = GetDb()
-  let id = db
+  if (id) {
+    return db
+      .collection(collectionName)
+      .doc(id)
+      .set(data)
+      .then(docRef => {
+        console.log("Document successfully written!", docRef.id)
+        return docRef.id
+      })
+      .catch(err => {
+        console.error("Error writing document: ", error)
+      })
+  }
+  return db
     .collection(collectionName)
     .add(data)
     .then(function(docRef) {
@@ -18,7 +31,6 @@ function uploadData(collectionName, data) {
     .catch(function(error) {
       console.error("Error writing document: ", error)
     })
-  return id
 }
 function readCategories() {
   const topicsInModule = [6, 4, 7, 6]
@@ -43,12 +55,12 @@ function readCategories() {
       cover: categoryName[i].cover,
     }
 
-    uploadData("categories", category).then(categoryId => {
+    uploadData("categories", category, `category-${module}`).then(categoryId => {
       module = i + 1
       for (let j = 0; j < topicsInModule[i]; j++) {
         let rawdata = fs.readFileSync("src/data/module" + module + "/topic" + j + ".json")
         let topic = JSON.parse(rawdata)
-        readAndUploadTopics(topic, categoryId)
+        readAndUploadTopics(topic, categoryId, j)
       }
     })
     if (module === 4) {
@@ -58,7 +70,7 @@ function readCategories() {
   }
 }
 
-function readAndUploadTopics(topicData, categoryId) {
+function readAndUploadTopics(topicData, categoryId, topicIndex) {
   let topic = {
     active: true,
     category: "",
@@ -74,7 +86,7 @@ function readAndUploadTopics(topicData, categoryId) {
   topic.cover = topicData.cover ? topicData.cover : ""
   topic.category = categoryId
   //console.log("category name:", category);
-  uploadData("topics", topic).then(topicId => {
+  uploadData("topics", topic, `${categoryId}-topic-${topicIndex}`).then(topicId => {
     console.log("topicId----", topicId)
     readAndUploadArticles(topicId, topicData)
   })
@@ -93,6 +105,7 @@ function readAndUploadArticles(topicId, slides) {
     subtitle: "",
     tags: [],
   }
+  let index = 0
   for (let slide of slides.slides) {
     article.name = slide.name
     article.created = Date.now()
@@ -102,9 +115,10 @@ function readAndUploadArticles(topicId, slides) {
     article.data = slide.data
     article.subtitle = slide.subtitle ? slide.subtitle : ""
     article.tags = getTagIds(slide.tags)
-    uploadData("articles", article).then(topicId => {
+    uploadData("articles", article, `${topicId}-article-${index}`).then(topicId => {
       console.log("topicId----", topicId)
     })
+    index++
   }
 }
 
