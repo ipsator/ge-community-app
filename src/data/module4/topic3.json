@@ -1,5 +1,6 @@
 {
   "name": "मधुमेह",
+  "cover": "https://ipsator.github.io/ge-community-app/images/module4/topic3/module-4-topic-3-slide-9-1.png",
   "slides": [
     {
       "name": "मधुमेह",
@@ -146,21 +147,6 @@
         }
       ],
       "slide": 9
-    },
-    {
-      "name": "अपनी जानकारी को परखें - पहेली",
-      "subtitle": "",
-      "type": "single",
-      "data": [
-        {
-          "type": "list",
-          "content": [
-            "जब आपको मधुमेह है तो आपको क्या खाना चाहिये और क्या नही। चर्चा करे।",
-            "जब आपको उच्च रक्तचाप है तो आपको क्या खाना है और क्या नही। चर्चा करे।"
-          ]
-        }
-      ],
-      "slide": 10
     }
   ]
 }
