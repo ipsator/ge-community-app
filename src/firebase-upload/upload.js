@@ -85,6 +85,8 @@ const uploadtags = async () => {
   let tags = fs.readFileSync("static/data/taglist" + ".json")
   tags = JSON.parse(tags)
 
+  let index = 0
+
   for (tagName of tags) {
     let tagObj = { id: String, name: String }
     let tag = { active: true, created: String, name: String }
@@ -93,10 +95,11 @@ const uploadtags = async () => {
     tag.name = tagName
     tag.updated = Date.now()
 
-    let tagId = await uploadData("tags", tag)
+    let tagId = await uploadData("tags", tag, `tag-${index}`)
     tagObj.id = tagId
     tagObj.name = tagName
     tagArr.push(tagObj)
+    index++
   }
   return tagArr
 }
@@ -106,7 +109,7 @@ const getTags = async () => {
   saveData(allTags, "tagWithId.json")
 }
 
-const allTags = fs.readFileSync("static/data/tagWithId" + ".json")
+let allTags = fs.readFileSync("static/data/tagWithId" + ".json")
 const getTagIds = tags => {
   allTags = JSON.parse(allTags)
   console.log("tags--", allTags)
