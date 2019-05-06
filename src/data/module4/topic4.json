@@ -24,7 +24,7 @@
     },
     {
       "name": "योनि-ग्रीवा का कैंसर",
-      "cover": "https://ipsator.github.io/ge-community-app/images/module4/topic4/module-4-topic-4-slide-3.jpg",
+      "cover": "https://ipsator.github.io/ge-community-app/images/module4/topic4/module-4-topic-4-slide-3.png",
       "tags": ["गैर संचारित रोग", "कैंसर", "योनि-ग्रीवा का कैंसर"],
       "subtitle": "",
       "type": "single",
@@ -32,7 +32,7 @@
         {
           "type": "image",
           "content": [
-            "https://ipsator.github.io/ge-community-app/images/module4/topic4/module-4-topic-4-slide-3.jpg",
+            "https://ipsator.github.io/ge-community-app/images/module4/topic4/module-4-topic-4-slide-3.png",
             "https://ipsator.github.io/ge-community-app/images/module4/topic4/module-4-topic-4-slide-3-1.png"
           ]
         }
@@ -41,15 +41,15 @@
     },
     {
       "name": "योनि-ग्रीवा कैंसर के सामान्य संकेत व लक्षण",
-      "cover": "https://ipsator.github.io/ge-community-app/images/module4/topic4/module-4-topic-4-slide-4-1.jpg",
+      "cover": "https://ipsator.github.io/ge-community-app/images/module4/topic4/module-4-topic-4-slide-4-1.png",
       "type": "single",
       "tags": ["गैर संचारित रोग", "कैंसर", "योनि-ग्रीवा का कैंसर"],
       "data": [
         {
           "type": "image",
           "content": [
-            "https://ipsator.github.io/ge-community-app/images/module4/topic4/module-4-topic-4-slide-4-1.jpg",
-            "https://ipsator.github.io/ge-community-app/images/module4/topic4/module-4-topic-4-slide-4-2.jpg"
+            "https://ipsator.github.io/ge-community-app/images/module4/topic4/module-4-topic-4-slide-4-1.png",
+            "https://ipsator.github.io/ge-community-app/images/module4/topic4/module-4-topic-4-slide-4-2.png"
           ]
         }
       ],
@@ -59,15 +59,15 @@
     {
       "name": "स्तन का कैंसर",
       "tags": ["गैर संचारित रोग", "कैंसर", "स्तन कैंसर"],
-      "cover": "https://ipsator.github.io/ge-community-app/images/module4/topic4/module-4-topic-4-slide-5-1.jpg",
+      "cover": "https://ipsator.github.io/ge-community-app/images/module4/topic4/module-4-topic-4-slide-5-1.png",
       "subtitle": "",
       "type": "single",
       "data": [
         {
           "type": "image",
           "content": [
-            "https://ipsator.github.io/ge-community-app/images/module4/topic4/module-4-topic-4-slide-5-1.jpg",
-            "https://ipsator.github.io/ge-community-app/images/module4/topic4/module-4-topic-4-slide-5-2.jpg"
+            "https://ipsator.github.io/ge-community-app/images/module4/topic4/module-4-topic-4-slide-5-1.png",
+            "https://ipsator.github.io/ge-community-app/images/module4/topic4/module-4-topic-4-slide-5-2.png"
           ]
         }
       ],
@@ -76,14 +76,14 @@
 
     {
       "name": "स्तन कैंसर के सामान्य संकेत व लक्षण",
-      "cover": "https://ipsator.github.io/ge-community-app/images/module4/topic4/module-4-topic-4-slide-6.jpg",
+      "cover": "https://ipsator.github.io/ge-community-app/images/module4/topic4/module-4-topic-4-slide-6.png",
       "subtitle": "",
       "tags": ["गैर संचारित रोग", "कैंसर", "स्तन कैंसर"],
       "type": "single",
       "data": [
         {
           "type": "image",
-          "content": ["https://ipsator.github.io/ge-community-app/images/module4/topic4/module-4-topic-4-slide-6.jpg"]
+          "content": ["https://ipsator.github.io/ge-community-app/images/module4/topic4/module-4-topic-4-slide-6.png"]
         }
       ],
       "slide": 6
@@ -108,15 +108,15 @@
     {
       "name": "स्तन का स्व-परीक्षण",
       "tags": ["गैर संचारित रोग", "कैंसर", "स्तन कैंसर"],
-      "cover": "https://ipsator.github.io/ge-community-app/images/module4/topic4/module-4-topic-4-slide-8.jpg",
+      "cover": "https://ipsator.github.io/ge-community-app/images/module4/topic4/module-4-topic-4-slide-8.png",
       "subtitle": "",
       "type": "single",
       "data": [
         {
           "type": "image",
           "content": [
-            "https://ipsator.github.io/ge-community-app/images/module4/topic4/module-4-topic-4-slide-8.jpg",
-            "https://ipsator.github.io/ge-community-app/images/module4/topic4/module-4-topic-4-slide-8-2.jpg"
+            "https://ipsator.github.io/ge-community-app/images/module4/topic4/module-4-topic-4-slide-8.png",
+            "https://ipsator.github.io/ge-community-app/images/module4/topic4/module-4-topic-4-slide-8-2.png"
           ]
         }
       ],
@@ -125,13 +125,13 @@
     {
       "name": "स्तन कैंसर की व्यापकता",
       "tags": ["गैर संचारित रोग", "कैंसर", "स्तन कैंसर"],
-      "cover": "https://ipsator.github.io/ge-community-app/images/module4/topic4/module-4-topic-4-slide-9-1.jpg",
+      "cover": "https://ipsator.github.io/ge-community-app/images/module4/topic4/module-4-topic-4-slide-9-1.png",
       "subtitle": "",
       "type": "single",
       "data": [
         {
           "type": "image",
-          "content": ["https://ipsator.github.io/ge-community-app/images/module4/topic4/module-4-topic-4-slide-9-1.jpg"]
+          "content": ["https://ipsator.github.io/ge-community-app/images/module4/topic4/module-4-topic-4-slide-9-1.png"]
         }
       ],
       "slide": 9
@@ -140,12 +140,12 @@
       "name": "मुँह का कैंसर",
       "subtitle": "",
       "tags": ["गैर संचारित रोग", "मुँह के कैंसर", "कैंसर"],
-      "cover": "https://ipsator.github.io/ge-community-app/images/module4/topic4/module-4-topic-4-slide-10.jpg",
+      "cover": "https://ipsator.github.io/ge-community-app/images/module4/topic4/module-4-topic-4-slide-10.png",
       "type": "single",
       "data": [
         {
           "type": "image",
-          "content": ["https://ipsator.github.io/ge-community-app/images/module4/topic4/module-4-topic-4-slide-10.jpg"]
+          "content": ["https://ipsator.github.io/ge-community-app/images/module4/topic4/module-4-topic-4-slide-10.png"]
         }
       ],
       "slide": 10
@@ -153,15 +153,15 @@
     {
       "name": "मुँह के कैंसर के सामान्य लक्षण",
       "tags": ["गैर संचारित रोग", "मुँह के कैंसर", "कैंसर"],
-      "cover": "https://ipsator.github.io/ge-community-app/images/module4/topic4/module-4-topic-4-slide-11-1.jpg",
+      "cover": "https://ipsator.github.io/ge-community-app/images/module4/topic4/module-4-topic-4-slide-11-1.png",
       "subtitle": "यदि आप अपनी 3 अगुलिंयों को खडी अवस्था मे अपने मुह मे डाल सकते है तो आपका मुह स्वास्थ है।",
       "type": "single",
       "data": [
         {
           "type": "image",
           "content": [
-            "https://ipsator.github.io/ge-community-app/images/module4/topic4/module-4-topic-4-slide-11-1.jpg",
-            "https://ipsator.github.io/ge-community-app/images/module4/topic4/module-4-topic-4-slide-11-2.jpg"
+            "https://ipsator.github.io/ge-community-app/images/module4/topic4/module-4-topic-4-slide-11-1.png",
+            "https://ipsator.github.io/ge-community-app/images/module4/topic4/module-4-topic-4-slide-11-2.png"
           ]
         }
       ],
@@ -188,8 +188,8 @@
         {
           "type": "image",
           "content": [
-            "https://ipsator.github.io/ge-community-app/images/module4/topic4/module-4-topic-4-slide-13-1.jpg",
-            "https://ipsator.github.io/ge-community-app/images/module4/topic4/module-4-topic-4-slide-13-2.jpg"
+            "https://ipsator.github.io/ge-community-app/images/module4/topic4/module-4-topic-4-slide-13-1.png",
+            "https://ipsator.github.io/ge-community-app/images/module4/topic4/module-4-topic-4-slide-13-2.png"
           ]
         }
       ],
