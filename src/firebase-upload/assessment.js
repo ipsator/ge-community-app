@@ -10,7 +10,7 @@ const uploadAssessment = async () => {
   assessment = {
     active: true,
     created: Date.now(),
-    name: "Assessment1",
+    name: assessmentData.name,
     questions: [],
     updated: Date.now(),
   }
