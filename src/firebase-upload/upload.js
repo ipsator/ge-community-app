@@ -14,11 +14,11 @@ function uploadData(collectionName, data, id) {
       .doc(id)
       .set(data)
       .then(docRef => {
-        console.log("Document successfully written!", docRef.id)
-        return docRef.id
+        console.log("Document successfully written!", id)
+        return id
       })
       .catch(err => {
-        console.error("Error writing document: ", error)
+        console.error("Error writing document: ", err)
       })
   }
   return db
@@ -170,7 +170,7 @@ const uploadImages = () => {
   let allImages = fs.readFileSync("static/data/images" + ".json")
   allImages = JSON.parse(allImages)
 
-  uploadData("images", allImages).then(imagesId => {
+  uploadData("images", { urls: allImages }, "images-list").then(imagesId => {
     console.log("images id----", imagesId)
   })
 }
@@ -181,6 +181,6 @@ const saveData = (data, filename) => {
 
 //getTags()
 
-readCategories()
+//readCategories()
 
-//uploadImages()
+uploadImages()
