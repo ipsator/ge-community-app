@@ -7,7 +7,7 @@ const saveData = (data, filename) => {
   fs.writeFileSync(path.join(__dirname, filename), JSON.stringify(data, undefined, 2), "utf8")
 }
 
-const readCategories = () => {
+exports.staticUpload = () => {
   const topicsInModule = [6, 4, 7, 6]
   const categoryInfo = [
     { id: "9Zbj5oJ2zeAXjZAAcShd", name: "जननी एवं नवजात शिशु की देखभाल" },
@@ -18,7 +18,7 @@ const readCategories = () => {
 
   const categoriesData = categoryInfo.map(info => ({
     active: true,
-    cover: info.cover || "https://i.imgur.com/xs8D9wZ.png",
+    cover: info.cover || "",
     created: created,
     updated: Date.now(),
     ...info,
@@ -36,7 +36,7 @@ const readCategories = () => {
         id: topicId,
         active: true,
         category: category.id,
-        cover: topicDetails.cover || "https://i.imgur.com/xs8D9wZ.png",
+        cover: topicDetails.cover || "",
         created: created,
         name: topicDetails.name,
         updated: Date.now(),
@@ -47,13 +47,19 @@ const readCategories = () => {
   const tags = []
   const images = []
   categoriesData.forEach(category => {
-    images.push(category.cover)
+    if (category.cover !== "") {
+      images.push(category.cover)
+    }
   })
   topicData.forEach(topic => {
-    images.push(topic.cover)
+    if (topic.cover !== "") {
+      images.push(topic.cover)
+    }
   })
   articleData.forEach(article => {
-    images.push(article.cover)
+    if (article.cover !== "") {
+      images.push(article.cover)
+    }
     tags.push(...article.tags)
     article.data.forEach(data => {
       if (data.type === "image") {
@@ -68,7 +74,7 @@ const readCategories = () => {
   //saveData(categoriesData, "../../static/data/categories.json")
   //saveData(topicData, "../../static/data/topics.json")
   //saveData(articleData, "../../static/data/articles.json")
-  //saveData([...new Set(tags)], "../../static/data/taglist.json")
+  saveData([...new Set(tags)], "../../static/data/taglist.json")
   saveData([...new Set(images)], "../../static/data/images.json")
 }
 
@@ -85,5 +91,3 @@ const getArticles = (topicInfo, topicId) => {
     tags: slide.tags || [],
   }))
 }
-
-readCategories()

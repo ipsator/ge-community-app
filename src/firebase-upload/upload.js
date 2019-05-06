@@ -1,37 +1,10 @@
-//import { GetDb } from init-firebase.js
-const { GetDb } = require("./init-firebase")
 const fs = require("fs")
 const path = require("path")
+const { uploadData } = require("./init-firebase")
+const { staticUpload } = require("./static-upload")
 
 // Add a new document in collection "cities"
 
-function uploadData(collectionName, data, id) {
-  console.log("data--", data)
-  var db = GetDb()
-  if (id) {
-    return db
-      .collection(collectionName)
-      .doc(id)
-      .set(data)
-      .then(docRef => {
-        console.log("Document successfully written!", id)
-        return id
-      })
-      .catch(err => {
-        console.error("Error writing document: ", err)
-      })
-  }
-  return db
-    .collection(collectionName)
-    .add(data)
-    .then(function(docRef) {
-      console.log("Document successfully written!", docRef.id)
-      return docRef.id
-    })
-    .catch(function(error) {
-      console.error("Error writing document: ", error)
-    })
-}
 function readCategories() {
   const topicsInModule = [6, 4, 7, 6]
   const categoryName = [
@@ -44,7 +17,6 @@ function readCategories() {
     },
   ]
   let module = 0
-  //let categoryId = '';
 
   for (let i = 0; i < categoryName.length; i++) {
     let category = {
@@ -73,48 +45,33 @@ function readCategories() {
 function readAndUploadTopics(topicData, categoryId, topicIndex) {
   let topic = {
     active: true,
-    category: "",
-    cover: "",
-    created: "",
-    name: "",
-    updated: "",
+    category: categoryId,
+    cover: topicData.cover ? topicData.cover : "",
+    created: Date.now(),
+    name: topicData.name,
+    updated: Date.now(),
   }
-  // for (let slide of topicData.slides) {
-  topic.name = topicData.name
-  topic.created = Date.now()
-  topic.updated = Date.now()
-  topic.cover = topicData.cover ? topicData.cover : ""
-  topic.category = categoryId
-  //console.log("category name:", category);
+
   uploadData("topics", topic, `${categoryId}-topic-${topicIndex}`).then(topicId => {
     console.log("topicId----", topicId)
     readAndUploadArticles(topicId, topicData)
   })
-  //}
 }
 
 function readAndUploadArticles(topicId, slides) {
-  let article = {
-    active: true,
-    topic: "",
-    cover: "",
-    created: "",
-    name: "",
-    updated: "",
-    data: [],
-    subtitle: "",
-    tags: [],
-  }
   let index = 0
   for (let slide of slides.slides) {
-    article.name = slide.name
-    article.created = Date.now()
-    article.updated = Date.now()
-    article.cover = slide.cover ? slide.cover : ""
-    article.topic = topicId
-    article.data = slide.data
-    article.subtitle = slide.subtitle ? slide.subtitle : ""
-    article.tags = getTagIds(slide.tags)
+    let article = {
+      active: true,
+      topic: topicId,
+      cover: slide.cover ? slide.cover : "",
+      created: Date.now(),
+      name: slide.name,
+      updated: Date.now(),
+      data: slide.data,
+      subtitle: slide.subtitle ? slide.subtitle : "",
+      tags: getTagIds(slide.tags),
+    }
     uploadData("articles", article, `${topicId}-article-${index}`).then(topicId => {
       console.log("topicId----", topicId)
     })
@@ -147,11 +104,10 @@ const uploadtags = async () => {
 const getTags = async () => {
   let allTags = await uploadtags()
   saveData(allTags, "tagWithId.json")
-  //console.log("all Tags--", allTags)
 }
 
+const allTags = fs.readFileSync("static/data/tagWithId" + ".json")
 const getTagIds = tags => {
-  let allTags = fs.readFileSync("static/data/tagWithId" + ".json")
   allTags = JSON.parse(allTags)
   console.log("tags--", allTags)
   tagIds = []
@@ -167,20 +123,24 @@ const getTagIds = tags => {
 }
 
 const uploadImages = () => {
+  staticUpload()
   let allImages = fs.readFileSync("static/data/images" + ".json")
   allImages = JSON.parse(allImages)
 
-  uploadData("images", { urls: allImages }, "images-list").then(imagesId => {
+  return uploadData("images", { urls: allImages }, "images-list").then(imagesId => {
     console.log("images id----", imagesId)
   })
 }
 
 const saveData = (data, filename) => {
-  fs.writeFileSync(path.join(__dirname, filename), JSON.stringify(data, undefined, 2), "utf8")
+  fs.writeFileSync(path.join(__dirname, "../../static/data", filename), JSON.stringify(data, undefined, 2), "utf8")
 }
 
 //getTags()
 
-//readCategories()
+//
 
-uploadImages()
+uploadImages().then(async () => {
+  await getTags()
+  readCategories()
+})
