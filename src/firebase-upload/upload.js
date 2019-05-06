@@ -37,7 +37,7 @@ function readCategories() {
   const categoryName = [
     { name: "जननी एवं नवजात शिशु की देखभाल", cover: "https://ipsator.github.io/ge-community-app/images/module1/topic0/module-1-topic-1-slide-3.png" },
     { name: "विशेष जरूरतों वाली महिलाएँ", cover: "https://ipsator.github.io/ge-community-app/images/module2/topic1/module-2-topic-1-slide-2.png" },
-    { name: "संक्रमण की रोकथाम", cover: "https://ipsator.github.io/ge-community-app/images/module-3-topic-0-slide-3.png" },
+    { name: "संक्रमण की रोकथाम", cover: "https://ipsator.github.io/ge-community-app/images/module3/topic0/module-3-topic-0-slide-3.png" },
     {
       name: "गैर संचारित रोग / एनसीडी की रोकथाम",
       cover: "https://ipsator.github.io/ge-community-app/images/module4/topic1/module-4-topic-1-slide-2.png",
