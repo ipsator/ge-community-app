@@ -60,7 +60,7 @@ function readCategories() {
       for (let j = 0; j < topicsInModule[i]; j++) {
         let rawdata = fs.readFileSync("src/data/module" + module + "/topic" + j + ".json")
         let topic = JSON.parse(rawdata)
-        readAndUploadTopics(topic, categoryId)
+        readAndUploadTopics(topic, categoryId, j)
       }
     })
     if (module === 4) {
@@ -70,7 +70,7 @@ function readCategories() {
   }
 }
 
-function readAndUploadTopics(topicData, categoryId) {
+function readAndUploadTopics(topicData, categoryId, topicIndex) {
   let topic = {
     active: true,
     category: "",
@@ -86,7 +86,7 @@ function readAndUploadTopics(topicData, categoryId) {
   topic.cover = topicData.cover ? topicData.cover : ""
   topic.category = categoryId
   //console.log("category name:", category);
-  uploadData("topics", topic).then(topicId => {
+  uploadData("topics", topic, `${categoryId}-topic-${topicIndex}`).then(topicId => {
     console.log("topicId----", topicId)
     readAndUploadArticles(topicId, topicData)
   })
@@ -105,6 +105,7 @@ function readAndUploadArticles(topicId, slides) {
     subtitle: "",
     tags: [],
   }
+  let index = 0
   for (let slide of slides.slides) {
     article.name = slide.name
     article.created = Date.now()
@@ -114,9 +115,10 @@ function readAndUploadArticles(topicId, slides) {
     article.data = slide.data
     article.subtitle = slide.subtitle ? slide.subtitle : ""
     article.tags = getTagIds(slide.tags)
-    uploadData("articles", article).then(topicId => {
+    uploadData("articles", article, `${topicId}-article-${index}`).then(topicId => {
       console.log("topicId----", topicId)
     })
+    index++
   }
 }
 
