@@ -104,15 +104,13 @@ const uploadtags = async () => {
   return tagArr
 }
 
+let allTags = {}
 const getTags = async () => {
-  let allTags = await uploadtags()
+  allTags = await uploadtags()
   saveData(allTags, "tagWithId.json")
 }
 
-let allTags = fs.readFileSync("static/data/tagWithId" + ".json")
 const getTagIds = tags => {
-  allTags = JSON.parse(allTags)
-  console.log("tags--", allTags)
   tagIds = []
   if (tags) {
     for (tagName of tags) {
