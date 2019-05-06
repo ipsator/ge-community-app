@@ -5,10 +5,23 @@ const path = require("path")
 
 // Add a new document in collection "cities"
 
-function uploadData(collectionName, data) {
+function uploadData(collectionName, data, id) {
   console.log("data--", data)
   var db = GetDb()
-  let id = db
+  if (id) {
+    return db
+      .collection(collectionName)
+      .doc(id)
+      .set(data)
+      .then(docRef => {
+        console.log("Document successfully written!", docRef.id)
+        return docRef.id
+      })
+      .catch(err => {
+        console.error("Error writing document: ", error)
+      })
+  }
+  return db
     .collection(collectionName)
     .add(data)
     .then(function(docRef) {
@@ -18,7 +31,6 @@ function uploadData(collectionName, data) {
     .catch(function(error) {
       console.error("Error writing document: ", error)
     })
-  return id
 }
 function readCategories() {
   const topicsInModule = [6, 4, 7, 6]
@@ -43,7 +55,7 @@ function readCategories() {
       cover: categoryName[i].cover,
     }
 
-    uploadData("categories", category).then(categoryId => {
+    uploadData("categories", category, `category-${module}`).then(categoryId => {
       module = i + 1
       for (let j = 0; j < topicsInModule[i]; j++) {
         let rawdata = fs.readFileSync("src/data/module" + module + "/topic" + j + ".json")
