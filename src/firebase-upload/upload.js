@@ -18,7 +18,7 @@ function uploadData(collectionName, data, id) {
         return docRef.id
       })
       .catch(err => {
-        console.error("Error writing document: ", error)
+        console.error("Error writing document: ", err)
       })
   }
   return db
