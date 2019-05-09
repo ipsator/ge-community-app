@@ -137,11 +137,15 @@ const saveData = (data, filename) => {
   fs.writeFileSync(path.join(__dirname, "../../static/data", filename), JSON.stringify(data, undefined, 2), "utf8")
 }
 
-//getTags()
-
-//
+const getLocations = () => {
+  let locations = JSON.parse(fs.readFileSync(path.join(__dirname, "../data/location.json")))
+  const states = locations.map(loc => loc.state)
+  const districts = locations.map(loc => loc.districts.sort()).reduce((acc, val) => acc.concat(val), [])
+  return uploadData("registration", { states, districts }, "user")
+}
 
 uploadImages().then(async () => {
+  await getLocations()
   await getTags()
   readCategories()
 })
