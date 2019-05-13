@@ -1,20 +1,13 @@
 import React from "react"
-import { Link } from "gatsby"
 
 import Layout from "../components/layout"
-import Image from "../components/image"
 import SEO from "../components/seo"
 
 const IndexPage = () => (
   <Layout>
     <SEO title="Home" keywords={[`ge`, `application`, `community`]} />
-    <h1>Hi people</h1>
-    <p>Welcome to your new GE Community App site.</p>
-    <p>Now go build something great.</p>
-    <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
-      <Image />
-    </div>
-    <Link to="/module-1/">Module 1</Link>
+    <h1>नमस्ते</h1>
+    <p>आपका स्वागत है आपकी नई GE मेरी सखी साइट पर।</p>
   </Layout>
 )
 
