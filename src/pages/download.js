@@ -19,7 +19,7 @@ const IndexPage = () => (
         color: "white",
         textDecoration: "none",
       }}
-      href="/ge-community-app/build/MeriSakhi-Production-v9-20190513.apk"
+      href="https://github.com/ipsator/ge-community-app/releases/download/v9/MeriSakhi-Production-v9-20190513.apk"
     >
       Download App
     </a>
