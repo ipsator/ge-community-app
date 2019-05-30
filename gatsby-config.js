@@ -2,7 +2,7 @@ module.exports = {
   pathPrefix: `/ge-community-app`,
   siteMetadata: {
     title: `GE मेरी सखी`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
+    description: `आपका स्वागत है आपकी नई GE मेरी सखी साइट पर।`,
     author: `@_akush`,
   },
   plugins: [
